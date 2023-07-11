@@ -27,7 +27,7 @@ export default function Home() {
           Quam magni accusantium culpa distinctio tempore iure accusamus,
           dolorem nobis odit.
         </p>
-        <Link href="/ninjas/" className={styles.btn}>
+        <Link href="/ninja" className={styles.btn}>
           See Ninja Listing
         </Link>
       </div>
