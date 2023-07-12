@@ -85,8 +85,35 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
+// export const getStaticProps: GetStaticProps<DetailsProps> = async (context) => {
+//   const id = context.params.id;
+//   const res = await fetch("https://jsonplaceholder.typicode.com/users/" + id);
+//   const data = await res.json();
+//   return {
+//     props: { ninja: data },
+//   };
+// };
+
+// export const getStaticProps: GetStaticProps<DetailsProps> = async (context) => {
+//   const id = context.params!.id.toString();
+//   const res = await fetch("https://jsonplaceholder.typicode.com/users/" + id);
+//   const data = await res.json();
+//   return {
+//     props: { ninja: data },
+//   };
+// };
+
 export const getStaticProps: GetStaticProps<DetailsProps> = async (context) => {
-  const id = context.params.id;
+  const id = context.params?.id?.toString();
+
+  if (!id) {
+    // Handle the case when context.params or id is undefined
+    // For example, you can return an empty ninja object or redirect to an error page
+    return {
+      props: { ninja: {} },
+    };
+  }
+
   const res = await fetch("https://jsonplaceholder.typicode.com/users/" + id);
   const data = await res.json();
   return {
