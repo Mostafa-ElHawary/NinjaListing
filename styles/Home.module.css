@@ -1,10 +1,11 @@
 .title {
   color: #333;
   padding-bottom: 20px;
-  text-align: center;
+  /* text-align: center; */
 }
 .text {
   color: #777;
+  line-height: 25px;
 }
 .btn {
   display: block;
@@ -15,4 +16,9 @@
   border-radius: 4px;
   color: white;
   text-align: center;
+}
+.dvBtn
+{
+  display: flex;
+  width: 100%;
 }

@@ -29,7 +29,7 @@ interface IndexProps {
 const Index = ({ ninjas }: IndexProps): ReactElement => {
   return (
     <div>
-      <h1>All Ninjas</h1>
+      <h1>All Projects</h1>
       {ninjas.map((ninja) => (
         <div key={ninja.id}>
           <a href={`/ninja/${ninja.id}`} className={Styles.single}>

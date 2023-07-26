@@ -3,12 +3,12 @@ import Image from "next/image";
 const Navbar = () => {
     return (
         <nav>
-          <div className="logo">
-            <Image  src="/logo.png" width={128} height={77} alt={"Logo"}></Image>
+          <div className="logo" >
+          <Link href="/">SECU-Community</Link>
           </div>
           <Link href="/">Home</Link>
           <Link href="/About">About</Link>
-          <Link href="/ninja">Ninja Listing</Link>
+          <Link href="/ninja">Team Ptojects</Link>
         </nav>
     );
 };
