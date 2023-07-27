@@ -35,9 +35,7 @@ export default function Home() {
           <Link href="/ninja" className={styles.btn}>
             Team projects
           </Link>
-          <Link href="/ninja" className={styles.btn}>
-            Facebook group
-          </Link>
+       
         </div>
       </div>
     </>

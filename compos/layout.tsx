@@ -1,16 +1,6 @@
-import Footer from "./footer";
+// import Footer from "./footer";
 import Navbar from "./navbar";
 
-// const Layout = ({children}) => {
-//     return ( <>
-//     <Navbar/>
-//     {children}
-//     <Footer/>
-
-//     </> );
-// }
-
-// export default Layout;
 
 import React, { ReactNode } from "react";
 
@@ -24,7 +14,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       <div className="content">
         <Navbar />
         {children}
-        <Footer />
+        {/* <Footer /> */}
       </div>
     </>
   );
