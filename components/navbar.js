@@ -42,17 +42,21 @@ const Navbar = () => {
         </div>
       </div>
       {/* Right */}
-{
-      // <div className=" flex items-center sm:space-x-2 justify-end">
-      //   <p className="text-blue-500 whitespace-nowrap font-semibold pr-3">
-      //     User Name
-      //   </p>
-      //   <ViewGridIcon className="icon" />
-      //   <ChatIcon className="icon" />
-      //   <BellIcon className="icon" />
-      //   <ChevronDownIcon className="icon" />
-      // </div>
-      }
+
+      <div className=" flex items-center sm:space-x-2 justify-end">
+        {
+          // <p className="text-blue-500 whitespace-nowrap font-semibold pr-3">
+          //   Chat
+          // </p>
+          // <ViewGridIcon className="icon" />
+          // <BellIcon className="icon" />
+          // <ChevronDownIcon className="icon" />
+        }
+        <Link href="https://web.facebook.com/messages/t/6637727359687956">
+          {" "}
+          <ChatIcon className="icon" />{" "}
+        </Link>
+      </div>
     </div>
   );
 };

@@ -9,7 +9,7 @@ import {
   import Styles from "../../styles/Secu.module.css";
   import Link from "next/link";
   export const getStaticProps = async () => {
-    const res = await fetch("http://localhost:4000/projects");
+    const res = await fetch("http://localhost:4000/teams");
     const data = await res.json();
   
     return {
@@ -17,15 +17,7 @@ import {
     };
   };
   
-//   interface Ninja {
-//     id: number;
-//     name: string;
-//   }
-  
-//   interface IndexProps {
-//     ninjas: Ninja[];
-//   }
-  
+
   const Index = ({ ninjas }) => {
     return (
       <div>
