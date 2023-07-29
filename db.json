@@ -1,6 +1,7 @@
 {
   "teams": [
     {
+      "id": 1,
       "name": "Team 1",
       "projects": [
         {
@@ -12,37 +13,115 @@
                 {
                   "name": "1-User Registration and Authentication",
                   "steps": [
-                    "Design the User Interface: Create screens/pages for user registration and login. Include fields for capturing user information like name, email, password, etc. Design an intuitive and user-friendly interface for a smooth registration and login experience.",
-                    "Backend Development: Set up a server-side framework or backend technology (e.g., Node.js, Django, Ruby on Rails) to handle user registration and authentication. Use a secure protocol like HTTPS to encrypt data transmission.",
-                    "User Registration: Develop the functionality to handle user registration requests. Validate and sanitize user input to prevent common security issues like SQL injection and cross-site scripting (XSS). Hash and salt the user passwords to securely store them in the database.",
-                    "Email Verification: Implement an email verification process to confirm the user's email address. Send a verification email with a unique link/token that the user can click to verify their account. Handle the verification process on the server-side to activate the account.",
-                    "User Login: Develop the login functionality to authenticate users. Verify the user's credentials against the stored hashed password. Generate a secure session token or JSON Web Token (JWT) to identify and authenticate the user for subsequent requests.",
-                    "Password Recovery: Create a password recovery mechanism that allows users to reset their passwords if they forget them. This can be done by sending a password reset email with a unique link/token that leads to a password reset form.",
-                    "Secure Session Management: Implement secure session management techniques to handle user sessions. Use session tokens or JWTs, set appropriate expiration times, and securely store session-related data on the server-side.",
-                    "Security Measures: Implement security measures like brute-force protection, account lockouts, and CAPTCHA verification to prevent unauthorized access and improve the overall security of the authentication system.",
-                    "Two-Factor Authentication (2FA): For enhanced security, consider implementing optional two-factor authentication. This can be done using SMS verification codes, authenticator apps (e.g., Google Authenticator), or hardware tokens.",
-                    "Testing and Validation: Thoroughly test the registration and authentication flows to ensure they work correctly and handle edge cases like invalid inputs, concurrent logins, and session timeouts. Perform security audits and vulnerability testing to identify and fix any potential security issues."
+                    {
+                      "title": "Design the User Interface",
+                      "description": "Create screens/pages for user registration and login. Include fields for capturing user information like name, email, password, etc. Design an intuitive and user-friendly interface for a smooth registration and login experience"
+                    },
+
+                    {
+                      "title": "Backend Development",
+                      "description": " Set up a server-side framework or backend technology (e.g., Node.js, Django, Ruby on Rails) to handle user registration and authentication. Use a secure protocol like HTTPS to encrypt data transmission"
+                    },
+
+                    {
+                      "title": "User Registration",
+                      "description": " Develop the functionality to handle user registration requests. Validate and sanitize user input to prevent common security issues like SQL injection and cross-site scripting (XSS). Hash and salt the user passwords to securely store them in the database"
+                    },
+
+                    {
+                      "title": "Email Verification ",
+                      "description": " Implement an email verification process to confirm the user's email address. Send a verification email with a unique link/token that the user can click to verify their account. Handle the verification process on the server-side to activate the account."
+                    },
+                    {
+                      "title": "User Login ",
+                      "description": "Develop the login functionality to authenticate users. Verify the user's credentials against the stored hashed password. Generate a secure session token or JSON Web Token (JWT) to identify and authenticate the user for subsequent requests."
+                    },
+
+                    {
+                      "title": "Password Recovery ",
+                      "description": " Create a password recovery mechanism that allows users to reset their passwords if they forget them. This can be done by sending a password reset email with a unique link/token that leads to a password reset form."
+                    },
+
+                    {
+                      "title": "Secure Session Management",
+                      "description": "Implement secure session management techniques to handle user sessions. Use session tokens or JWTs, set appropriate expiration times, and securely store session-related data on the server-side."
+                    },
+                    {
+                      "title": "Security Measures",
+                      "description": " Implement security measures like brute-force protection, account lockouts, and CAPTCHA verification to prevent unauthorized access and improve the overall security of the authentication system."
+                    },
+                    {
+                      "title": "Two-Factor Authentication (2FA)",
+                      "description": " For enhanced security, consider implementing optional two-factor authentication. This can be done using SMS verification codes, authenticator apps (e.g., Google Authenticator), or hardware tokens."
+                    },
+                    {
+                      "title": "Testing and Validation",
+                      "description": " Thoroughly test the registration and authentication flows to ensure they work correctly and handle edge cases like invalid inputs, concurrent logins, and session timeouts. Perform security audits and vulnerability testing to identify and fix any potential security issues."
+                    }
                   ]
-                },
-                {
-                  "name": "2-User Profile Management",
-                  "steps": []
                 }
               ]
             },
             {
               "name": "Feature 2",
-              "topics": []
+              "topics": [
+                {
+                  "name": "2-User Profile Management",
+                  "steps": [
+                    {
+                      "title": "Design the User Interface",
+                      "description": "Create screens/pages that allow users to create tasks. Include input fields for the task title, description, due date, priority, and any other relevant details. Consider using dropdown menus, date pickers, and checkboxes for user-friendly interaction."
+                    },
+                    {
+                      "title": "Database Design",
+                      "description": "Plan the database schema to store tasks and their associated details. Create tables for tasks, projects, and categories. Define relationships between these entities to establish proper organization and retrieval of tasks."
+                    },
+                    {
+                      "title": "Task Creation",
+                      "description": "Develop the functionality to handle task creation requests. Receive user inputs from the interface and validate them on the server-side to ensure data integrity. Save the task details in the database, assigning a unique identifier to each task."
+                    },
+                    {
+                      "title": "Task Editing and Updating",
+                      "description": "Implement the ability for users to edit and update task details. Allow users to modify the task title, description, due date, priority, and other relevant attributes. Validate and sanitize user inputs to prevent security vulnerabilities."
+                    },
+                    {
+                      "title": "Task Deletion",
+                      "description": "Provide users with the option to delete tasks when they are no longer needed. Implement the functionality to remove the task record from the database securely."
+                    },
+                    {
+                      "title": "Task Sorting and Filtering",
+                      "description": "Enable users to sort tasks based on various criteria such as due date, priority, or completion status. Implement filters to allow users to view tasks by specific projects, categories, or labels/tags. Provide options for both predefined and custom sorting and filtering options."
+                    },
+                    {
+                      "title": "Project and Category Creation",
+                      "description": "Allow users to create projects or categories to group and organize their tasks. Implement functionality for users to create, edit, and delete projects or categories. Assign tasks to specific projects or categories for better organization."
+                    },
+                    {
+                      "title": "Task Assignments and Collaborations",
+                      "description": "If your app supports collaboration, enable users to assign tasks to other users or team members. Implement the functionality to notify the assigned users about the task assignment and allow them to interact with the task."
+                    },
+                    {
+                      "title": "User Interface Enhancements",
+                      "description": "Consider implementing features like drag-and-drop functionality for easy task rearrangement, color-coding tasks based on priority or category, or using visual cues (e.g., progress bars or icons) to represent task status or completion."
+                    },
+                    {
+                      "title": "Integration with Calendar",
+                      "description": "Integrate your app with a calendar system (e.g., Google Calendar) to sync task due dates. Provide users with the option to view their tasks in a calendar format, enabling a unified view of their schedules."
+                    },
+                    {
+                      "title": "Testing and Validation",
+                      "description": "Thoroughly test the task creation, editing, and organization functionalities to ensure they work as expected. Validate inputs to prevent data inconsistencies or errors. Perform end-to-end testing to verify seamless integration with other features."
+                    }
+                  ]
+                }
+              ]
             }
           ]
-        },
-        {
-          "name": "Project 2",
-          "features": []
         }
       ]
     },
     {
+      "id": 2,
       "name": "Team 2",
       "projects": [
         {
@@ -54,243 +133,110 @@
                 {
                   "name": "1-User Registration and Authentication",
                   "steps": [
-                    "Design the User Interface: Create screens/pages for user registration and login. Include fields for capturing user information like name, email, password, etc. Design an intuitive and user-friendly interface for a smooth registration and login experience.",
-                    "Backend Development: Set up a server-side framework or backend technology (e.g., Node.js, Django, Ruby on Rails) to handle user registration and authentication. Use a secure protocol like HTTPS to encrypt data transmission.",
-                    "User Registration: Develop the functionality to handle user registration requests. Validate and sanitize user input to prevent common security issues like SQL injection and cross-site scripting (XSS). Hash and salt the user passwords to securely store them in the database.",
-                    "Email Verification: Implement an email verification process to confirm the user's email address. Send a verification email with a unique link/token that the user can click to verify their account. Handle the verification process on the server-side to activate the account.",
-                    "User Login: Develop the login functionality to authenticate users. Verify the user's credentials against the stored hashed password. Generate a secure session token or JSON Web Token (JWT) to identify and authenticate the user for subsequent requests.",
-                    "Password Recovery: Create a password recovery mechanism that allows users to reset their passwords if they forget them. This can be done by sending a password reset email with a unique link/token that leads to a password reset form.",
-                    "Secure Session Management: Implement secure session management techniques to handle user sessions. Use session tokens or JWTs, set appropriate expiration times, and securely store session-related data on the server-side.",
-                    "Security Measures: Implement security measures like brute-force protection, account lockouts, and CAPTCHA verification to prevent unauthorized access and improve the overall security of the authentication system.",
-                    "Two-Factor Authentication (2FA): For enhanced security, consider implementing optional two-factor authentication. This can be done using SMS verification codes, authenticator apps (e.g., Google Authenticator), or hardware tokens.",
-                    "Testing and Validation: Thoroughly test the registration and authentication flows to ensure they work correctly and handle edge cases like invalid inputs, concurrent logins, and session timeouts. Perform security audits and vulnerability testing to identify and fix any potential security issues."
+                    {
+                      "title": "Design the User Interface",
+                      "description": "Create screens/pages for user registration and login. Include fields for capturing user information like name, email, password, etc. Design an intuitive and user-friendly interface for a smooth registration and login experience"
+                    },
+
+                    {
+                      "title": "Backend Development",
+                      "description": " Set up a server-side framework or backend technology (e.g., Node.js, Django, Ruby on Rails) to handle user registration and authentication. Use a secure protocol like HTTPS to encrypt data transmission"
+                    },
+
+                    {
+                      "title": "User Registration",
+                      "description": " Develop the functionality to handle user registration requests. Validate and sanitize user input to prevent common security issues like SQL injection and cross-site scripting (XSS). Hash and salt the user passwords to securely store them in the database"
+                    },
+
+                    {
+                      "title": "Email Verification ",
+                      "description": " Implement an email verification process to confirm the user's email address. Send a verification email with a unique link/token that the user can click to verify their account. Handle the verification process on the server-side to activate the account."
+                    },
+                    {
+                      "title": "User Login ",
+                      "description": "Develop the login functionality to authenticate users. Verify the user's credentials against the stored hashed password. Generate a secure session token or JSON Web Token (JWT) to identify and authenticate the user for subsequent requests."
+                    },
+
+                    {
+                      "title": "Password Recovery ",
+                      "description": " Create a password recovery mechanism that allows users to reset their passwords if they forget them. This can be done by sending a password reset email with a unique link/token that leads to a password reset form."
+                    },
+
+                    {
+                      "title": "Secure Session Management",
+                      "description": "Implement secure session management techniques to handle user sessions. Use session tokens or JWTs, set appropriate expiration times, and securely store session-related data on the server-side."
+                    },
+                    {
+                      "title": "Security Measures",
+                      "description": " Implement security measures like brute-force protection, account lockouts, and CAPTCHA verification to prevent unauthorized access and improve the overall security of the authentication system."
+                    },
+                    {
+                      "title": "Two-Factor Authentication (2FA)",
+                      "description": " For enhanced security, consider implementing optional two-factor authentication. This can be done using SMS verification codes, authenticator apps (e.g., Google Authenticator), or hardware tokens."
+                    },
+                    {
+                      "title": "Testing and Validation",
+                      "description": " Thoroughly test the registration and authentication flows to ensure they work correctly and handle edge cases like invalid inputs, concurrent logins, and session timeouts. Perform security audits and vulnerability testing to identify and fix any potential security issues."
+                    }
                   ]
-                },
-                {
-                  "name": "2-User Profile Management",
-                  "steps": []
                 }
               ]
             },
             {
               "name": "Feature 2",
-              "topics": []
-            }
-          ]
-        },
-        {
-          "name": "Project 2",
-          "features": []
-        }
-      ]
-    },
-    {
-      "name": "Team 3",
-      "projects": [
-        {
-          "name": "Project 1",
-          "features": [
-            {
-              "name": "Feature 1",
               "topics": [
                 {
-                  "name": "1-User Registration and Authentication",
-                  "steps": [
-                    "Design the User Interface: Create screens/pages for user registration and login. Include fields for capturing user information like name, email, password, etc. Design an intuitive and user-friendly interface for a smooth registration and login experience.",
-                    "Backend Development: Set up a server-side framework or backend technology (e.g., Node.js, Django, Ruby on Rails) to handle user registration and authentication. Use a secure protocol like HTTPS to encrypt data transmission.",
-                    "User Registration: Develop the functionality to handle user registration requests. Validate and sanitize user input to prevent common security issues like SQL injection and cross-site scripting (XSS). Hash and salt the user passwords to securely store them in the database.",
-                    "Email Verification: Implement an email verification process to confirm the user's email address. Send a verification email with a unique link/token that the user can click to verify their account. Handle the verification process on the server-side to activate the account.",
-                    "User Login: Develop the login functionality to authenticate users. Verify the user's credentials against the stored hashed password. Generate a secure session token or JSON Web Token (JWT) to identify and authenticate the user for subsequent requests.",
-                    "Password Recovery: Create a password recovery mechanism that allows users to reset their passwords if they forget them. This can be done by sending a password reset email with a unique link/token that leads to a password reset form.",
-                    "Secure Session Management: Implement secure session management techniques to handle user sessions. Use session tokens or JWTs, set appropriate expiration times, and securely store session-related data on the server-side.",
-                    "Security Measures: Implement security measures like brute-force protection, account lockouts, and CAPTCHA verification to prevent unauthorized access and improve the overall security of the authentication system.",
-                    "Two-Factor Authentication (2FA): For enhanced security, consider implementing optional two-factor authentication. This can be done using SMS verification codes, authenticator apps (e.g., Google Authenticator), or hardware tokens.",
-                    "Testing and Validation: Thoroughly test the registration and authentication flows to ensure they work correctly and handle edge cases like invalid inputs, concurrent logins, and session timeouts. Perform security audits and vulnerability testing to identify and fix any potential security issues."
-                  ]
-                },
-                {
                   "name": "2-User Profile Management",
-                  "steps": []
+                  "steps": [
+                    {
+                      "title": "Design the User Interface",
+                      "description": "Create screens/pages that allow users to create tasks. Include input fields for the task title, description, due date, priority, and any other relevant details. Consider using dropdown menus, date pickers, and checkboxes for user-friendly interaction."
+                    },
+                    {
+                      "title": "Database Design",
+                      "description": "Plan the database schema to store tasks and their associated details. Create tables for tasks, projects, and categories. Define relationships between these entities to establish proper organization and retrieval of tasks."
+                    },
+                    {
+                      "title": "Task Creation",
+                      "description": "Develop the functionality to handle task creation requests. Receive user inputs from the interface and validate them on the server-side to ensure data integrity. Save the task details in the database, assigning a unique identifier to each task."
+                    },
+                    {
+                      "title": "Task Editing and Updating",
+                      "description": "Implement the ability for users to edit and update task details. Allow users to modify the task title, description, due date, priority, and other relevant attributes. Validate and sanitize user inputs to prevent security vulnerabilities."
+                    },
+                    {
+                      "title": "Task Deletion",
+                      "description": "Provide users with the option to delete tasks when they are no longer needed. Implement the functionality to remove the task record from the database securely."
+                    },
+                    {
+                      "title": "Task Sorting and Filtering",
+                      "description": "Enable users to sort tasks based on various criteria such as due date, priority, or completion status. Implement filters to allow users to view tasks by specific projects, categories, or labels/tags. Provide options for both predefined and custom sorting and filtering options."
+                    },
+                    {
+                      "title": "Project and Category Creation",
+                      "description": "Allow users to create projects or categories to group and organize their tasks. Implement functionality for users to create, edit, and delete projects or categories. Assign tasks to specific projects or categories for better organization."
+                    },
+                    {
+                      "title": "Task Assignments and Collaborations",
+                      "description": "If your app supports collaboration, enable users to assign tasks to other users or team members. Implement the functionality to notify the assigned users about the task assignment and allow them to interact with the task."
+                    },
+                    {
+                      "title": "User Interface Enhancements",
+                      "description": "Consider implementing features like drag-and-drop functionality for easy task rearrangement, color-coding tasks based on priority or category, or using visual cues (e.g., progress bars or icons) to represent task status or completion."
+                    },
+                    {
+                      "title": "Integration with Calendar",
+                      "description": "Integrate your app with a calendar system (e.g., Google Calendar) to sync task due dates. Provide users with the option to view their tasks in a calendar format, enabling a unified view of their schedules."
+                    },
+                    {
+                      "title": "Testing and Validation",
+                      "description": "Thoroughly test the task creation, editing, and organization functionalities to ensure they work as expected. Validate inputs to prevent data inconsistencies or errors. Perform end-to-end testing to verify seamless integration with other features."
+                    }
+                  ]
                 }
               ]
-            },
-            {
-              "name": "Feature 2",
-              "topics": []
             }
           ]
-        },
-        {
-          "name": "Project 2",
-          "features": []
-        }
-      ]
-    },
-    {
-      "name": "Team 2",
-      "projects": [
-        {
-          "name": "Project 1",
-          "features": [
-            {
-              "name": "Feature 1",
-              "topics": [
-                {
-                  "name": "1-User Registration and Authentication",
-                  "steps": [
-                    "Design the User Interface: Create screens/pages for user registration and login. Include fields for capturing user information like name, email, password, etc. Design an intuitive and user-friendly interface for a smooth registration and login experience.",
-                    "Backend Development: Set up a server-side framework or backend technology (e.g., Node.js, Django, Ruby on Rails) to handle user registration and authentication. Use a secure protocol like HTTPS to encrypt data transmission.",
-                    "User Registration: Develop the functionality to handle user registration requests. Validate and sanitize user input to prevent common security issues like SQL injection and cross-site scripting (XSS). Hash and salt the user passwords to securely store them in the database.",
-                    "Email Verification: Implement an email verification process to confirm the user's email address. Send a verification email with a unique link/token that the user can click to verify their account. Handle the verification process on the server-side to activate the account.",
-                    "User Login: Develop the login functionality to authenticate users. Verify the user's credentials against the stored hashed password. Generate a secure session token or JSON Web Token (JWT) to identify and authenticate the user for subsequent requests.",
-                    "Password Recovery: Create a password recovery mechanism that allows users to reset their passwords if they forget them. This can be done by sending a password reset email with a unique link/token that leads to a password reset form.",
-                    "Secure Session Management: Implement secure session management techniques to handle user sessions. Use session tokens or JWTs, set appropriate expiration times, and securely store session-related data on the server-side.",
-                    "Security Measures: Implement security measures like brute-force protection, account lockouts, and CAPTCHA verification to prevent unauthorized access and improve the overall security of the authentication system.",
-                    "Two-Factor Authentication (2FA): For enhanced security, consider implementing optional two-factor authentication. This can be done using SMS verification codes, authenticator apps (e.g., Google Authenticator), or hardware tokens.",
-                    "Testing and Validation: Thoroughly test the registration and authentication flows to ensure they work correctly and handle edge cases like invalid inputs, concurrent logins, and session timeouts. Perform security audits and vulnerability testing to identify and fix any potential security issues."
-                  ]
-                },
-                {
-                  "name": "2-User Profile Management",
-                  "steps": []
-                }
-              ]
-            },
-            {
-              "name": "Feature 2",
-              "topics": []
-            }
-          ]
-        },
-        {
-          "name": "Project 2",
-          "features": []
-        }
-      ]
-    },
-    {
-      "name": "Team 1",
-      "projects": [
-        {
-          "name": "Project 1",
-          "features": [
-            {
-              "name": "Feature 1",
-              "topics": [
-                {
-                  "name": "1-User Registration and Authentication",
-                  "steps": [
-                    "Design the User Interface: Create screens/pages for user registration and login. Include fields for capturing user information like name, email, password, etc. Design an intuitive and user-friendly interface for a smooth registration and login experience.",
-                    "Backend Development: Set up a server-side framework or backend technology (e.g., Node.js, Django, Ruby on Rails) to handle user registration and authentication. Use a secure protocol like HTTPS to encrypt data transmission.",
-                    "User Registration: Develop the functionality to handle user registration requests. Validate and sanitize user input to prevent common security issues like SQL injection and cross-site scripting (XSS). Hash and salt the user passwords to securely store them in the database.",
-                    "Email Verification: Implement an email verification process to confirm the user's email address. Send a verification email with a unique link/token that the user can click to verify their account. Handle the verification process on the server-side to activate the account.",
-                    "User Login: Develop the login functionality to authenticate users. Verify the user's credentials against the stored hashed password. Generate a secure session token or JSON Web Token (JWT) to identify and authenticate the user for subsequent requests.",
-                    "Password Recovery: Create a password recovery mechanism that allows users to reset their passwords if they forget them. This can be done by sending a password reset email with a unique link/token that leads to a password reset form.",
-                    "Secure Session Management: Implement secure session management techniques to handle user sessions. Use session tokens or JWTs, set appropriate expiration times, and securely store session-related data on the server-side.",
-                    "Security Measures: Implement security measures like brute-force protection, account lockouts, and CAPTCHA verification to prevent unauthorized access and improve the overall security of the authentication system.",
-                    "Two-Factor Authentication (2FA): For enhanced security, consider implementing optional two-factor authentication. This can be done using SMS verification codes, authenticator apps (e.g., Google Authenticator), or hardware tokens.",
-                    "Testing and Validation: Thoroughly test the registration and authentication flows to ensure they work correctly and handle edge cases like invalid inputs, concurrent logins, and session timeouts. Perform security audits and vulnerability testing to identify and fix any potential security issues."
-                  ]
-                },
-                {
-                  "name": "2-User Profile Management",
-                  "steps": []
-                }
-              ]
-            },
-            {
-              "name": "Feature 2",
-              "topics": []
-            }
-          ]
-        },
-        {
-          "name": "Project 2",
-          "features": []
-        }
-      ]
-    },
-    {
-      "name": "Team 2",
-      "projects": [
-        {
-          "name": "Project 1",
-          "features": [
-            {
-              "name": "Feature 1",
-              "topics": [
-                {
-                  "name": "1-User Registration and Authentication",
-                  "steps": [
-                    "Design the User Interface: Create screens/pages for user registration and login. Include fields for capturing user information like name, email, password, etc. Design an intuitive and user-friendly interface for a smooth registration and login experience.",
-                    "Backend Development: Set up a server-side framework or backend technology (e.g., Node.js, Django, Ruby on Rails) to handle user registration and authentication. Use a secure protocol like HTTPS to encrypt data transmission.",
-                    "User Registration: Develop the functionality to handle user registration requests. Validate and sanitize user input to prevent common security issues like SQL injection and cross-site scripting (XSS). Hash and salt the user passwords to securely store them in the database.",
-                    "Email Verification: Implement an email verification process to confirm the user's email address. Send a verification email with a unique link/token that the user can click to verify their account. Handle the verification process on the server-side to activate the account.",
-                    "User Login: Develop the login functionality to authenticate users. Verify the user's credentials against the stored hashed password. Generate a secure session token or JSON Web Token (JWT) to identify and authenticate the user for subsequent requests.",
-                    "Password Recovery: Create a password recovery mechanism that allows users to reset their passwords if they forget them. This can be done by sending a password reset email with a unique link/token that leads to a password reset form.",
-                    "Secure Session Management: Implement secure session management techniques to handle user sessions. Use session tokens or JWTs, set appropriate expiration times, and securely store session-related data on the server-side.",
-                    "Security Measures: Implement security measures like brute-force protection, account lockouts, and CAPTCHA verification to prevent unauthorized access and improve the overall security of the authentication system.",
-                    "Two-Factor Authentication (2FA): For enhanced security, consider implementing optional two-factor authentication. This can be done using SMS verification codes, authenticator apps (e.g., Google Authenticator), or hardware tokens.",
-                    "Testing and Validation: Thoroughly test the registration and authentication flows to ensure they work correctly and handle edge cases like invalid inputs, concurrent logins, and session timeouts. Perform security audits and vulnerability testing to identify and fix any potential security issues."
-                  ]
-                },
-                {
-                  "name": "2-User Profile Management",
-                  "steps": []
-                }
-              ]
-            },
-            {
-              "name": "Feature 2",
-              "topics": []
-            }
-          ]
-        },
-        {
-          "name": "Project 2",
-          "features": []
-        }
-      ]
-    },
-    {
-      "name": "Team 1",
-      "projects": [
-        {
-          "name": "Project 1",
-          "features": [
-            {
-              "name": "Feature 1",
-              "topics": [
-                {
-                  "name": "1-User Registration and Authentication",
-                  "steps": [
-                    "Design the User Interface: Create screens/pages for user registration and login. Include fields for capturing user information like name, email, password, etc. Design an intuitive and user-friendly interface for a smooth registration and login experience.",
-                    "Backend Development: Set up a server-side framework or backend technology (e.g., Node.js, Django, Ruby on Rails) to handle user registration and authentication. Use a secure protocol like HTTPS to encrypt data transmission.",
-                    "User Registration: Develop the functionality to handle user registration requests. Validate and sanitize user input to prevent common security issues like SQL injection and cross-site scripting (XSS). Hash and salt the user passwords to securely store them in the database.",
-                    "Email Verification: Implement an email verification process to confirm the user's email address. Send a verification email with a unique link/token that the user can click to verify their account. Handle the verification process on the server-side to activate the account.",
-                    "User Login: Develop the login functionality to authenticate users. Verify the user's credentials against the stored hashed password. Generate a secure session token or JSON Web Token (JWT) to identify and authenticate the user for subsequent requests.",
-                    "Password Recovery: Create a password recovery mechanism that allows users to reset their passwords if they forget them. This can be done by sending a password reset email with a unique link/token that leads to a password reset form.",
-                    "Secure Session Management: Implement secure session management techniques to handle user sessions. Use session tokens or JWTs, set appropriate expiration times, and securely store session-related data on the server-side.",
-                    "Security Measures: Implement security measures like brute-force protection, account lockouts, and CAPTCHA verification to prevent unauthorized access and improve the overall security of the authentication system.",
-                    "Two-Factor Authentication (2FA): For enhanced security, consider implementing optional two-factor authentication. This can be done using SMS verification codes, authenticator apps (e.g., Google Authenticator), or hardware tokens.",
-                    "Testing and Validation: Thoroughly test the registration and authentication flows to ensure they work correctly and handle edge cases like invalid inputs, concurrent logins, and session timeouts. Perform security audits and vulnerability testing to identify and fix any potential security issues."
-                  ]
-                },
-                {
-                  "name": "2-User Profile Management",
-                  "steps": []
-                }
-              ]
-            },
-            {
-              "name": "Feature 2",
-              "topics": []
-            }
-          ]
-        },
-        {
-          "name": "Project 2",
-          "features": []
         }
       ]
     }
