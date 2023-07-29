@@ -44,21 +44,21 @@
 
 import { GetStaticPaths, GetStaticProps } from "next";
 
-interface Ninja {
-  id: number;
-  name: string;
-  email: string;
-  website: string;
-  address: {
-    city: string;
-  };
-}
+// interface Ninja {
+//   id: number;
+//   name: string;
+//   email: string;
+//   website: string;
+//   address: {
+//     city: string;
+//   };
+// }
 
-interface DetailsProps {
-  ninja: Ninja;
-}
+// interface DetailsProps {
+//   ninja: Ninja;
+// }
 
-const Details = ({ ninja }: DetailsProps) => {
+const Details = ({ ninja }) => {
   return (
     <div>
       <h1>{ninja.name}</h1>
@@ -69,11 +69,11 @@ const Details = ({ ninja }: DetailsProps) => {
   );
 };
 
-export const getStaticPaths: GetStaticPaths = async () => {
+export const getStaticPaths = async () => {
   const res = await fetch("https://jsonplaceholder.typicode.com/users");
   const data = await res.json();
 
-  const paths = data.map((ninja: Ninja) => {
+  const paths = data.map((ninja) => {
     return {
       params: { id: ninja.id.toString() },
     };
@@ -103,7 +103,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 //   };
 // };
 
-export const getStaticProps: GetStaticProps<DetailsProps> = async (context) => {
+export const getStaticProps  = async (context) => {
   const id = context.params?.id?.toString();
 
   if (!id) {

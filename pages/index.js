@@ -1,16 +1,16 @@
 import Head from "next/head";
-// import Image from 'next/image'
-import { Inter } from "@next/font/google";
+import Image from 'next/image'
+// import { Inter } from "@next/font/google";
 import styles from "../styles/Home.module.css";
 import Link from "next/link";
 
-const inter = Inter({ subsets: ["latin"] });
+// const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
     <>
       <Head>
-        <title>SECU | Home</title>
+        <title >SECU | Home</title>
         <meta name="keywords" content="ninjas"></meta>
       </Head>
       <div>
@@ -32,10 +32,9 @@ export default function Home() {
         </p>
 
         <div className="dvBtn">
-          <Link href="/ninja" className={styles.btn}>
-            Team projects
+          <Link href="/secu" className={styles.btn}>
+            All Teams
           </Link>
-       
         </div>
       </div>
     </>
