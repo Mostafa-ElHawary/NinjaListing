@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Image from 'next/image'
+import Image from "next/image";
 // import { Inter } from "@next/font/google";
 import styles from "../styles/Home.module.css";
 import Link from "next/link";
@@ -10,11 +10,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title >SECU | Home</title>
+        <title>SECU | Home</title>
         <meta name="keywords" content="ninjas"></meta>
       </Head>
-      <div>
-        <p className={styles.text}>
+      <div className="container mx-auto px-4">
+        <p className="text-lg text-gray-800 mt-6">
           In today&apos;s fast-paced world, waiting for acceptance in companies
           can be time-consuming and frustrating for aspiring software
           developers. To address this issue, we propose the creation of a
@@ -31,8 +31,11 @@ export default function Home() {
           community now and be a part of this exciting initiative
         </p>
 
-        <div className="dvBtn">
-          <Link href="/secu" className={styles.btn}>
+        <div className="mt-8">
+          <Link
+            href="/secu"
+            className="bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600"
+          >
             All Teams
           </Link>
         </div>
@@ -40,3 +43,4 @@ export default function Home() {
     </>
   );
 }
+
