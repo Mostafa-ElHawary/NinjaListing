@@ -1,3 +1,4 @@
+import Link from "next/link";
 export const getStaticPaths = async () => {
   const res = await fetch("http://localhost:4000/teams/");
   const data = await res.json();
@@ -30,10 +31,10 @@ function Details({ ninja }) {
   return (
     <div>
       {ninja.projects.map((ninj) => {
-        <div key={ninj.id}>
+        <Link key={ninj.id}>
         <h3>{ninj.name}</h3>
 
-        </div>
+        </Link>
       })}
     </div>
   );
