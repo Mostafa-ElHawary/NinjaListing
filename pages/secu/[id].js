@@ -1,4 +1,23 @@
 import Link from "next/link";
+
+
+import React from "react";
+
+const Details = ({ ninja }) =>  {
+  return (
+    <div>
+    {ninja.projects.map((ninj) => (
+      <Link key={ninj.id} href={`/secu/${ninja.id}/${ninj.id}`}>
+        <h3>{ninj.name}</h3>
+      </Link>
+    ))}
+    </div>
+  );
+}
+
+
+
+
 export const getStaticPaths = async () => {
   const res = await fetch("http://localhost:4000/teams/");
   const data = await res.json();
@@ -25,20 +44,7 @@ export const getStaticProps = async (context) => {
   };
 };
 
-import React from "react";
 
-function Details({ ninja }) {
-  return (
-    <div>
-      {ninja.projects.map((ninj) => {
-        <Link key={ninj.id}>
-        <h3>{ninj.name}</h3>
-
-        </Link>
-      })}
-    </div>
-  );
-}
 
 export default Details;
 
