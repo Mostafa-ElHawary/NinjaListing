@@ -1,30 +1,32 @@
 import Link from "next/link";
 
-
 import React from "react";
 
-const Details = ({ ninja }) =>  {
+const Details = ({ team }) => {
   return (
-    <div>
-    {ninja.projects.map((ninj) => (
-      <Link key={ninj.id} href={`/secu/${ninja.id}/${ninj.id}`}>
-        <h3>{ninj.name}</h3>
+    <div className="container mx-auto px-4 mt-8">
+      {team.map((team) => (
+        <Link
+        className="block mb-4 p-4 bg-blue-500 text-white rounded-md hover:bg-blue-600"
+        key={team.id}
+        href={`projects/${team.id}`}
+      >
+        <h3 className="text-xl font-semibold"> 1 - {team.name}</h3>
       </Link>
-    ))}
+      ))}
     </div>
   );
-}
-
-
-
+};
 
 export const getStaticPaths = async () => {
-  const res = await fetch("http://localhost:4000/teams/");
+  const res = await fetch("http://localhost:4001/teams/");
   const data = await res.json();
 
-  const paths = data.map((ninja) => {
+  const paths = data.map((team) => {
     return {
-      params: { id: ninja.id.toString() },
+      params: {
+        teamid: `${team.id}`,
+      },
     };
   });
 
@@ -35,19 +37,19 @@ export const getStaticPaths = async () => {
 };
 
 export const getStaticProps = async (context) => {
-  const id = context.params.id;
-  const res = await fetch(`http://localhost:4000/teams/${id}`);
-  const data = await res.json();
+  // const id = context.params.id;
+  const { params } = context;
+  const res = await fetch(`http://localhost:4001/teams/${params.teamid}`);
 
+  const data = await res.json();
   return {
-    props: { ninja: data },
+    props: {
+      team: data,
+    },
   };
 };
 
-
-
 export default Details;
-
 
 // import React from "react";
 
