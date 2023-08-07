@@ -4,12 +4,9 @@ import React from "react";
 const projects = [
   {
     id: 1,
-    name: " web app movieeeee1 ",
+    name: "  Task Management Application ",
   },
-  {
-    id: 2,
-    name: " web app movieeeee2 ",
-  },
+
 ];
 
 export default async function Teams({ id }) {

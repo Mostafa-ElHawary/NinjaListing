@@ -26,10 +26,10 @@ export default function Home() {
                   className="rounded-lg"
                 />
               </div>
-              <p className="font-bold text-blue-600 text-2xl">
+              <p className="font-extrabold text-blue-500 text-2xl">
                 {item.title} {index + 1}
               </p>
-              <p className="mb-3 text-xl font-semibold text-blue-300 hover:underline" >{item.name}</p>
+              <p className="mb-3 text-sm font-semibold text-gray-500 no-underline" >{item.name}</p>
             </div>
           </Link>
         ))}
