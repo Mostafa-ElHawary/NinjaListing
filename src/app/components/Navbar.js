@@ -28,7 +28,7 @@ import {
     }
 function Navbar() {
   return (
-    <div className="sticky top-0 z-50 tracking-wider flex items-center p-2 lg:px-5 shadow-md">
+    <div className="sticky top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30 ">
     {/* Left */}
     <div className="flex items-center">
       <div className="flex ml-2 items-center rounded-full p-2 text-blue-500 whitespace-nowrap font-semibold text-2xl">
@@ -37,16 +37,16 @@ function Navbar() {
     </div>
     {/* Center */}
     <div className="flex justify-center flex-grow">
-      <div className="flex space-x-10 md:space-x-2">
-        <Link href="/" className="text-gray-600 text-6xl"> 
+      <div className="flex space-x-10 md:space-x-2 items-center">
+        <Link href="/" className="text-gray-600  "> 
          
             <NavbarIcon Icon={HomeIcon} href="/" />
          
         </Link>
-        <NavbarIcon Icon={FlagIcon} />
-        <Link href="/secu">
+       
+        <Link href="/secu" className="text-gray-600  ">
           
-            <NavbarIcon active={false} Icon={UserGroupIcon} href="/secu" />
+            <NavbarIcon active={false} Icon={UserGroupIcon} href="/" />
           
         </Link>
       </div>
