@@ -12,11 +12,11 @@ const des = [
 ]
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-gray-100 dark:bg-gray-900 p-24">
+    <main className="flex min-h-screen flex-col items-center justify-center lg:dark:bg-zinc-800/30 dark:bg-gray-900 p-24">
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 max-w-screen-xl mx-auto">
         {des.map((item, index) => (
           <Link key={item.id} href={`/team${item.id}`}>
-            <div className="bg-white rounded-lg shadow-lg p-1 flex flex-col items-left">
+            <div className="rounded-lg shadow-lg p-2 flex flex-col items-left bg-white">
               <div className="mb-4">
                 <img
                   width={400}
@@ -26,10 +26,10 @@ export default function Home() {
                   className="rounded-lg"
                 />
               </div>
-              <p className="font-extrabold text-blue-500 text-2xl">
+              <p className="font-extrabold text-gray-500 text-xl">
                 {item.title} {index + 1}
               </p>
-              <p className="mb-3 text-sm font-semibold text-gray-500 no-underline" >{item.name}</p>
+              <p className="mb-3 text-sm font-semibold text-gray-400 no-underline" >{item.name}</p>
             </div>
           </Link>
         ))}
