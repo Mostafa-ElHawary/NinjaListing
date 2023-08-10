@@ -1,0 +1,3323 @@
+[
+  {
+    "id": 1,
+    "name": "Team 1",
+    "techstack": "React | Node",
+    "images": [
+      {
+        "id": 1,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/347449333_735903064952136_7039743733420764117_n.jpg?stp=c36.84.254.254a_dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFgdwLeBGuOUzKV_hX-ANToZZ8yEbbKFrplnzIRtsoWulcO_DG2frRHn60tJMVvbqI27QGiRYdC-lMBoz714qCA&_nc_ohc=Z7zy_MHLi6AAX_hCtee&_nc_ht=scontent.fcai1-2.fna&oh=00_AfD8m6frLrbynsH3MKkkOwuUQf-TCHShU0-nYDKHxSujMQ&oe=64DA2D3E"
+      },
+      {
+        "id": 2,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/347260651_2425652497603551_8132731209702351699_n.jpg?stp=dst-jpg_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFBJ9oOIp8FesBkHMGxkbeJWtgHfDCh4XJa2Ad8MKHhcrDQ1i8VsoME7XO1NvQhyYb6UugyZeAuHV7IIAWZcLx1&_nc_ohc=kDrU2J1U7ZYAX85P9eT&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA0TTB4f1OUjVs33gYQ_RBZtbB65NFepMXV1zxfWf_Ugw&oe=64D8B27C"
+      },
+      {
+        "id": 3,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/359776729_1014515319719291_1882629519141487111_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFPTSHthO1YYuLKlS0rzEOAVYG3P6sNyMJVgbc_qw3IwtQK9biWY61Rn7BCRFcI9BBkQtgbC__62_kfJ4GohLf5&_nc_ohc=VDwsGgkNOc4AX8iYHWd&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDEuMsnJlFCYtBmtZSil2jS2j1DoP_pTJj-F0ODrKznpw&oe=64D9425F"
+      },
+      {
+        "id": 4,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/346631232_3438214643061595_1548751768507451144_n.jpg?stp=dst-jpg_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeG0U0TX9DhEuY59GRbr-GfWx-Un9fQE1irH5Sf19ATWKjYgHlX9kuljJpQOAQxEkB9k4TNaYZR5Ecgz9sw9QsVY&_nc_ohc=wpEAYkwZWZEAX_9z5J0&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDrLsLh0ZBcpLmlaK_yQtABx8QDaNcXFHNJmgAEPE4J-w&oe=64DA41D0"
+      },
+      {
+        "id": 5,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/355160024_947044123297236_7042382059825197878_n.jpg?stp=dst-jpg_p160x160&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH3Lc8vJX9pr-4XMLgmK-ErAz-QFwNwzmgDP5AXA3DOaFhpkzKC5F8vXzcqhqR3D2B8RLcvMtELAbf9QilW4Lct&_nc_ohc=fidqnnXsCL4AX9NKFMJ&_nc_oc=AQlmZ86JUTBwZc1iAhi_SddpqYjSFfqZOrdHYJMvHwIdAzdat1mZNKl95xnznkDn-Bw&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCAJhro_RHiTA1lX20h3oxC7v-yqlrgYWucExofVJXWrw&oe=64D99F97"
+      },
+      {
+        "id": 6,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/355346626_1679226835850071_2904603981798565029_n.jpg?stp=dst-jpg_p320x320&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFZlm3NZbKTOEc8t5hxzBUNiN4gF7_7LhaI3iAXv_suFp7FMn64JgkILjxDC8dGACToWoYP6H6EYcirYO8uIm4Q&_nc_ohc=7sn8Gz-Q800AX_lBWX8&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCj9oT4urjxo1nmTm27sqJI4diw009RZiB6ag_4yu8Atg&oe=64D99E96"
+      },
+      {
+        "id": 7,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/325733683_1328192914629851_8402537316679469055_n.jpg?stp=c1.0.160.160a_dst-jpg_p160x160&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFusI4QHCAIkGJxz_-ZhQQQMb0aXEMbkJAxvRpcQxuQkGpr8sAFq3OSqXZ3XCHC7jMc9OqOjjUjT3HO5mgXW1tB&_nc_ohc=C5SbWiMTWm8AX_BVl34&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCdJZqGEfCV9JlkaQPouhKse0ySk9PiUPctcP9Tf_z09A&oe=64DA3B14"
+      }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": " Online Marketplace for Local Artisans ",
+        "description": "Create an online marketplace that connects local artisans and craftsmen with potential customers. The platform will allow artisans to showcase their products, manage orders, and interact with buyers, while customers can discover unique handmade items from their local community.",
+        "conclusions": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
+        "img": "https://cdn.dribbble.com/users/1895316/screenshots/17237179/media/af4a5e099516217b2d1ecf89f20a0d21.png?resize=1000x750&vertical=center",
+        "features": [
+          {
+            "id": 1,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "User registration and login with secure authentication.",
+                  "Artisan profiles with information about their craft, products, and contact details."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Product Listings",
+                "topic": [
+                  "Artisans can create and manage product listings, including images, descriptions, and pricing.",
+                  "Users can browse and search for products based on categories, keywords, or location."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Shopping Cart and Checkout",
+                "topic": [
+                  "Users can add products to their cart, review their selections, and proceed to checkout.",
+                  "Seamless payment integration for processing orders securely."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Artisan Dashboard",
+                "topic": [
+                  "Artisans have access to a dashboard where they can view orders, manage inventory, and update their profile."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Reviews and Ratings",
+                "topic": [
+                  "Customers can leave reviews and ratings for products they've purchased.",
+                  "Artisans can respond to reviews and showcase positive feedback."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Location-Based Search",
+                "topic": [
+                  "Implement location-based search to help users discover artisans and products in their local area."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Instant Messaging",
+                "topic": [
+                  "Enable users to communicate directly with artisans through an integrated messaging system."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Product Favoriting",
+                "topic": [
+                  "Allow users to save favorite products for future reference.",
+                  "Artisans can see which products are popular among users."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Artisan Verification and Onboarding",
+                "topic": [
+                  "Implement a verification process to ensure the authenticity of artisans and their products."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Order Tracking and Notifications",
+                "topic": [
+                  "Provide order tracking updates to customers.",
+                  "Notify customers about order confirmations, shipment, and delivery."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Categories and Tags",
+                "topic": [
+                  "Categorize products by type (e.g., jewelry, home decor, clothing) and allow users to filter by tags."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Promotions and Discounts",
+                "topic": [
+                  "Allow artisans to offer discounts or promotions on their products.",
+                  "Highlight special deals to attract customers."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the platform is accessible and usable on various devices, including mobile phones and tablets."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Backend Services",
+                "topic": [
+                  "Set up a backend using technologies like Node.js or Ruby on Rails.",
+                  "Develop RESTful APIs for user management, product listings, and order processing."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Database Management",
+                "topic": [
+                  "Choose a database like MongoDB or MySQL to store user profiles, product details, and order information."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Data Privacy and Security",
+                "topic": [
+                  "Implement proper data encryption and follow best practices to protect user information."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Deployment and Hosting",
+                "topic": [
+                  "Deploy the frontend on platforms like Netlify or Vercel.",
+                  "Deploy the backend on services like Heroku or AWS."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Testing and Quality",
+                "topic": [
+                  "Write unit tests for backend APIs and frontend components.",
+                  "Perform thorough testing to ensure a smooth user experience."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Documentation",
+                "topic": [
+                  "Provide clear instructions for users and artisans to navigate and utilize the platform effectively."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": " Task and Project Management System",
+        "description": "Develop a comprehensive task and project management system that helps individuals and teams organize, track, and collaborate on tasks and projects. The system will provide a user-friendly interface for managing tasks, setting priorities, assigning responsibilities, and monitoring progress.",
+        "conclusions": "By creating a task and project management system, you'll demonstrate your full-stack development skills and provide a valuable tool for individuals and teams to stay organized, collaborate effectively, and achieve their goals.",
+        "img": "https://cdn.dribbble.com/userupload/4014289/file/original-0f17695dbe19fe7ff5bfdfb19c89cae8.png?resize=1024x768",
+        "features": [
+          {
+            "id": 1,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Authentication and Roles",
+                "topic": [
+                  "User registration and login with secure authentication.",
+                  "Implement different user roles such as administrators, team leads, and members."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Dashboard and Overview",
+                "topic": [
+                  "Provide a customizable dashboard that displays tasks, projects, and upcoming deadlines.",
+                  "Show an overview of completed tasks, ongoing projects, and pending assignments."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Task Creation and Assignment",
+                "topic": [
+                  "Allow users to create new tasks and assign them to team members.",
+                  "Set due dates, priorities, and descriptions for each task."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Project Management",
+                "topic": [
+                  "Create and manage projects with associated tasks, deadlines, and milestones.",
+                  "Allow users to group related tasks into projects."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Task Tracking and Progress",
+                "topic": [
+                  "Enable users to update task status, add comments, and mark tasks as complete.",
+                  "Show a visual progress bar to indicate the completion level of tasks and projects."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Notifications and Reminders",
+                "topic": [
+                  "Send notifications and reminders for upcoming task deadlines or project milestones.",
+                  "Notify users when tasks are assigned to them or updated."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Collaboration and Comments",
+                "topic": [
+                  "Allow users to collaborate on tasks by adding comments, attachments, and links.",
+                  "Facilitate discussions and feedback within the task context."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Task Dependencies",
+                "topic": [
+                  "Implement task dependencies to ensure that certain tasks must be completed before others.",
+                  "Prevent progress until dependent tasks are finished."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Kanban Board View",
+                "topic": [
+                  "Offer a Kanban board interface for visualizing tasks in different stages (To-Do, In Progress, Done).",
+                  "Enable users to easily move tasks between columns."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Gantt Chart Visualization",
+                "topic": [
+                  "Provide a Gantt chart view for visualizing project timelines, dependencies, and resource allocation.",
+                  "Allow users to drag and drop tasks to adjust schedules."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Time Tracking",
+                "topic": [
+                  "Allow users to track time spent on tasks and projects.",
+                  "Generate time reports for individual tasks and overall projects."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Integration with Calendar",
+                "topic": [
+                  "Sync task due dates and project milestones with users' external calendars (Google Calendar, Outlook).",
+                  "Provide a unified view of work and personal schedules."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Search and Filtering",
+                "topic": [
+                  "Implement advanced search and filtering options to quickly find tasks and projects.",
+                  "Allow users to search by keywords, tags, or assigned users."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Data Analytics and Insights",
+                "topic": [
+                  "Provide analytics on team performance, task completion rates, and project timelines.",
+                  "Generate reports for productivity analysis."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User-Friendly Interface",
+                "topic": [
+                  "Design an intuitive and user-friendly interface for easy navigation and task management."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Backend Services",
+                "topic": [
+                  "Set up a backend server using technologies like Node.js or Django.",
+                  "Develop RESTful APIs for data retrieval, storage, and user management."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Database Management",
+                "topic": [
+                  "Choose a suitable database like MongoDB or PostgreSQL to store task and project information."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Data Privacy and Security",
+                "topic": [
+                  "Implement data encryption and follow best practices to secure user information."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Deployment and Hosting",
+                "topic": [
+                  "Deploy the frontend on platforms like Netlify or Vercel.",
+                  "Deploy the backend on services like Heroku or AWS."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Testing and Quality",
+                "topic": [
+                  "Write unit tests for backend APIs and frontend components.",
+                  "Ensure the app is free of bugs and performs well."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Team 2",
+    "techstack": "Angular | .NET",
+    "images": [
+      {
+        "id": 1,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/363781111_1602780326915056_7116545118250458668_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGuYqOI-2VmYPhnvcKRoWBU62FOciALXljrYU5yIAteWF7AdFRO5U0cVS-SQYiqsiPcr5a-6ntMzuprH8J70qpb&_nc_ohc=VRQ5Ghs5w_8AX_iOn7j&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCDGqv-wwuLK-bdM-_P1WXk6MN9QflZnMersPagmIcRfQ&oe=64DA0C3D"
+      },
+      {
+        "id": 2,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/347255830_3294680964104452_1079746285163824082_n.jpg?stp=dst-jpg_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH6XWbdXo0aPBu1wCiV7D_czdMolT7xYI_N0yiVPvFgj30QpG622FhdP_xLXKq2s_oY2WLRtTvxKfcpy5F3bclG&_nc_ohc=AtRu_vctso0AX-imH9Q&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA-jJ7rZOpTXyRoOXjJvcStvxysR542YFPgBpDIGuBBWg&oe=64D8C271"
+      },
+      {
+        "id": 3,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/341010141_523460336432639_866591396047969128_n.jpg?stp=c0.0.320.320a_dst-jpg_p320x320&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGpJKyu_UCU7Gcl09lIQskrvqJkSbQo0oO-omRJtCjSg-2xQpEv0iS-vaDQWEqSUfTZxVA8O8SDE2GJIFJdD8LY&_nc_ohc=evtdnBl0zLkAX9g7xxR&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAwJ5UegfWdF3Mz7SwC5UN0DLXI404Twn7wJLbUysi6Fw&oe=64D93506"
+      },
+      {
+        "id": 4,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/344950742_574284674808007_4680583811650889960_n.jpg?stp=dst-jpg_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGShWFpGHGuSreqTYmmUDiIZ8kw9GpioehnyTD0amKh6OZuPKaJCWGe8CQxKhD7ZIYvhho4BB4-dKWvvmpsBv9B&_nc_ohc=W6Mwcf1Az8EAX_s7Ehn&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBD3lAzN80mCHGhZxHLuC_hamvhjys1KWY-tS0qWDgxDQ&oe=64D9E130"
+      },
+      {
+        "id": 5,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/331452491_574496184592429_5131640737550191847_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeF03hv-6JX7KNFnhcgDtj89yZbmqR9YK7bJluapH1grtpNxY9vEtHcUiC8xXJ3BEpdwCzASiqTzhuXBJKVuURn7&_nc_ohc=fBSusg7noKoAX-eyYqB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDkWn90DmqJ5GHJAWV3qy1loF5IqXhO97xq1ae8gE3rZA&oe=64D90143"
+      },
+      {
+        "id": 6,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/82532697_981993958848496_8327061037043941376_n.jpg?stp=dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGEDw3oB3VVE03R8kwzPKKsgusfaQCF7kiC6x9pAIXuSMdFV4E8j0RwLzBbcTi2E6wHuWoRp8zi6xIkI3rH6LG0&_nc_ohc=5YHQKkT5p84AX_dbx4_&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAanUFnN2WtOLV4jgpDcEDK1LLLdLmWY_yu4Wqw5pCgow&oe=64FC0B1B"
+      }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": " Online Learning Platform ",
+        "description": "Create a comprehensive online learning platform where users can access and learn from a variety of courses. The platform will have features for course enrollment, progress tracking, interactive lessons, and user engagement.",
+        "conclusions": "Building an online learning platform with these features will not only showcase your full-stack development skills but also provide a valuable resource for learners seeking to expand their knowledge. Be sure to prioritize user experience, security, and scalability while creating this project. As you work on each feature, you'll gain insights into frontend, backend, database management, user experience design, and more.",
+        "img": "https://cdn.dribbble.com/users/5606997/screenshots/17646996/media/8de733949679e1838416a55d889e4187.png",
+        "features": [
+          {
+            "id": 1,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "Users can create accounts, log in, and reset passwords.",
+                  "User profiles display enrolled courses, progress, and achievements.",
+                  "Implement OAuth authentication for third-party login options."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Course Management",
+                "topic": [
+                  "Course creators can create, edit, and publish courses.",
+                  "Courses can have multiple lessons, quizzes, and assignments.",
+                  "Admin panel for managing courses, instructors, and user accounts."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Interactive Lessons",
+                "topic": [
+                  "Lessons can include text, images, videos, and interactive elements.",
+                  "Implement code playgrounds for coding exercises.",
+                  "Support multimedia elements like audio and video lectures."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "features  ",
+            "description": [
+              {
+                "title": "Progress Tracking",
+                "topic": [
+                  "Users can track their progress within each course.",
+                  "Implement completion tracking for lessons and assignments."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Discussion Forums",
+                "topic": [
+                  "Course-specific discussion forums for users to ask questions and interact with instructors and peers.",
+                  "Users can upvote and mark helpful answers."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "features  ",
+            "description": [
+              {
+                "title": "Quizzes and Assignments",
+                "topic": [
+                  "Courses include quizzes and assignments to assess learning.",
+                  "Automatic grading for multiple-choice questions and coding exercises."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "features  ",
+            "description": [
+              {
+                "title": "Payment Integration",
+                "topic": [
+                  "Users can purchase individual courses or subscribe to premium access.",
+                  "Integrate payment gateways like Stripe or PayPal."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Recommendations and Personalization",
+                "topic": [
+                  "Provide personalized course recommendations based on user preferences and past activities.",
+                  "Implement a machine learning model to suggest relevant courses."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Notifications and Reminders",
+                "topic": [
+                  "Send notifications for course updates, upcoming deadlines, and achievements.",
+                  "Users can set preferences for notification frequency."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Real-time Collaboration",
+                "topic": [
+                  "Integrate real-time collaborative features like live coding sessions or study groups."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Mobile App Support",
+                "topic": [
+                  "Develop a mobile app for users to access courses on the go.",
+                  "Ensure a responsive design for seamless mobile browsing."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Analytics and Insights",
+                "topic": [
+                  "Provide course creators with insights into user engagement, completion rates, and quiz performance.",
+                  "Generate reports to help instructors improve their content."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Accessibility and Localization",
+                "topic": [
+                  "Ensure the platform is accessible to users with disabilities.",
+                  "Implement localization for multiple languages and regions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "features",
+            "description": [
+              {
+                "title": "Reviews and Ratings",
+                "topic": [
+                  "Allow users to leave reviews and ratings for courses they've completed.",
+                  "Aggregate ratings to help users make informed choices."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Social Sharing and Gamification",
+                "topic": [
+                  "Enable users to share their achievements on social media.",
+                  "Implement gamification elements like badges, certificates, and leaderboards."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Search and Filtering",
+                "topic": [
+                  "Implement a robust search and filtering system to help users find courses of interest."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Secure and Scalable Infrastructure",
+                "topic": [
+                  "Deploy the application on cloud services like AWS or Azure.",
+                  "Implement security best practices to protect user data and prevent attacks."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Continuous Improvement",
+                "topic": [
+                  "Gather user feedback and continuously improve the platform based on user needs."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": " Fitness Tracking App ",
+        "description": "Develop a comprehensive fitness tracking application that allows users to set fitness goals, track their activities, and monitor their progress. The app will encompass both frontend and backend components, employing modern technologies to provide an engaging fitness experience.",
+        "conclusions": "By building a fitness tracking app with these features, you'll demonstrate your full-stack development skills and create a valuable tool for individuals looking to improve their health and fitness.",
+        "img": "https://cdn.dribbble.com/userupload/6543087/file/original-c5500bf122feb8bbe1c329bba5389ae9.png?resize=1905x1429",
+        "features": [
+          {
+            "id": 1,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "User registration and login with secure authentication.",
+                  "User profiles with personal information, fitness goals, and activity history."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Activity Tracking",
+                "topic": [
+                  "Users can log various activities such as running, cycling, weightlifting, etc.",
+                  "Record activity details like distance, duration, calories burned, and route (if applicable)."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "features",
+            "description": [
+              {
+                "title": "Goal Setting",
+                "topic": [
+                  "Set fitness goals like daily step counts, weekly exercise minutes, or weight loss targets.",
+                  "Track progress towards goals and receive notifications upon achievement."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "features",
+            "description": [
+              {
+                "title": "Dashboard and Progress Charts",
+                "topic": [
+                  "Visualize activity history and progress through interactive charts.",
+                  "Show comparative data over time for better insights."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "features",
+            "description": [
+              {
+                "title": "Workout Plans",
+                "topic": [
+                  "Offer predefined workout plans for different fitness levels and goals.",
+                  "Allow users to create custom workout routines and track completed exercises."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "features",
+            "description": [
+              {
+                "title": "Nutrition Tracking",
+                "topic": [
+                  "Enable users to log their daily food intake and track nutritional information.",
+                  "Provide access to a food database for easy logging."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "features",
+            "description": [
+              {
+                "title": "Social Interactions",
+                "topic": [
+                  "Implement a social feed where users can share their achievements and workouts.",
+                  "Allow users to follow friends and cheer them on."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "features",
+            "description": [
+              {
+                "title": "Challenges and Competitions",
+                "topic": [
+                  "Organize fitness challenges and competitions among users.",
+                  "Award badges or rewards to winners based on achievements."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "features",
+            "description": [
+              {
+                "title": "Integration with Wearable Devices",
+                "topic": [
+                  "Integrate with popular wearable devices like fitness trackers or smartwatches.",
+                  "Sync activity data seamlessly with the app."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "features",
+            "description": [
+              {
+                "title": "Reminders and Notifications",
+                "topic": [
+                  "Send reminders for scheduled workouts, hydration, and meals.",
+                  "Notify users about milestones reached and upcoming challenges."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "features",
+            "description": [
+              {
+                "title": "Community Support",
+                "topic": [
+                  "Include a community forum where users can seek advice, share tips, and ask questions.",
+                  "Provide space for fitness enthusiasts to connect and support each other."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "features",
+            "description": [
+              {
+                "title": "Achievements and Badges",
+                "topic": [
+                  "Reward users with badges or virtual rewards for hitting milestones.",
+                  "Gamify the fitness journey to encourage engagement."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "features",
+            "description": [
+              {
+                "title": "Workout Video Integration",
+                "topic": [
+                  "Integrate workout video tutorials or guides for specific exercises.",
+                  "Allow users to follow along with guided workouts."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "features",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the app is responsive and usable on both desktop and mobile devices."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "features",
+            "description": [
+              {
+                "title": "Backend Services",
+                "topic": [
+                  "Set up a backend server using technologies like Node.js or Django.",
+                  "Implement RESTful APIs for data retrieval, storage, and user management."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "features",
+            "description": [
+              {
+                "title": "Database Management",
+                "topic": [
+                  "Choose a suitable database like MongoDB or PostgreSQL to store user profiles, activities, and goals."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "features",
+            "description": [
+              {
+                "title": "User Data Privacy and Security",
+                "topic": [
+                  "Implement data encryption and follow best practices to secure user information."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "features",
+            "description": [
+              {
+                "title": "Deployment and Hosting",
+                "topic": [
+                  "Deploy the frontend on platforms like Netlify or Vercel",
+                  "Deploy the backend on services like Heroku or AWS"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "features",
+            "description": [
+              {
+                "title": "Testing and Quality",
+                "topic": [
+                  "Write unit tests for backend APIs and frontend components",
+                  "Ensure the app is free of bugs and performs well"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "features",
+            "description": [
+              {
+                "title": "Documentation",
+                "topic": [
+                  "Provide clear instructions for users to navigate and utilize the app effectively"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "Team 3",
+    "techstack": "React | Node",
+    "images": [
+      {
+        "id": 1,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/84303757_848254418938552_9034058038884958208_n.jpg?stp=dst-jpg_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHxHOvedbrZO-prQhoSXGf9gUMCXJ90WfuBQwJcn3RZ-6HdLa0fPzvWUVVRWlWFSIwy2Yvfi5eDMWbNXSNqosnK&_nc_ohc=k7i9CmqJSpoAX_TuH9l&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDE6KqvOA8KAq9LYA1OvUP1sFNHa_-BJsLyQO5cmxtKjA&oe=64FC2B5F"
+      },
+      {
+        "id": 2,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/122072572_3242157309229692_271341476685353753_n.jpg?stp=dst-jpg_p320x320&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFzOcDrlo_6RvLF4toeZn8kXK8sv4g6Mk5cryy_iDoyTnTdPHIU64NPLRjBJMkJIs-NkCKqKVf1gszbJ_co-zdC&_nc_ohc=yq6tjn_-4UsAX89pn7g&_nc_ht=scontent.fcai1-2.fna&oh=00_AfB8bTXY2oomwEWb7AJ9gxMbghlmUhkRcQRlURiZ_y2pxw&oe=64FC1DE3"
+      },
+      {
+        "id": 3,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/193118817_1483247458674064_6065421771220558092_n.jpg?stp=dst-jpg_p320x320&_nc_cat=102&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGFu-CtvWfYZOOMy5xccxg1uRrhuu3CX1G5GuG67cJfUS3r29iHfE4vpGv8z6wUl0ac4GErAEmKC_qBZ0RnStQT&_nc_ohc=BQl8wSKl9coAX_SeZgR&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCQBz8QMqyncnx6z0Pg1Wus8HU25XFetXFow-r6Y7wbjw&oe=64FC254D"
+      },
+      {
+        "id": 4,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.18169-1/12718352_441057932770375_6852945249867423286_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHx5Hn0Bpf9PDmm9PKvq_0aKZA6fU65XOEpkDp9Trlc4XZvItFHTlj3LQW-CqgmPpqmGERDq12BVAXYwOax1lqf&_nc_ohc=PVYirT0hrXEAX9RrxZN&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAjN4TKtvSIXLqSNyxbQN6j1ZssMMq_uqdV53ybWIxjgQ&oe=64FC1697"
+      },
+      {
+        "id": 5,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/358374802_1306414276633628_449858033973760490_n.jpg?stp=dst-jpg_p320x320&_nc_cat=103&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH-wLj4gizkbDyPvfW724x5jWKh53MsMOCNYqHncyww4CuWa_KZJwhjhu0vdaVR611hSkOlRjXAgZhBwV5pbXCn&_nc_ohc=wM9LJjmEkgQAX_K8aF-&_nc_oc=AQnbfvqmE5sRaaOByYq_AVGVjlZQf7noOgG60e3BY3HG_wFpQ-0ZtBVuBAw8vcsni7M&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCC3vqNs8dyffTNYh2q8ctpedp9DfuHpsLqMLHfRgSUTw&oe=64D9F93A"
+      },
+      {
+        "id": 6,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX8UViiI&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDAaLDyp27smMbHEmbqgP5QvLHNDgVlq7vVaRVF9uD9bQ&oe=64FC16F8"
+      }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": " Online Food Delivery Platform ",
+        "description": "Build a comprehensive online food delivery platform that connects customers with local restaurants, allowing them to browse menus, place orders, and have their favorite meals delivered to their doorstep. The platform should provide a user-friendly experience for both customers and restaurant owners",
+        "conclusions": "By building an online food delivery platform, you'll gain experience in creating a system that connects customers, restaurants, and delivery drivers while considering various aspects of user experience, payment integration, and real-time tracking",
+        "img": "https://cdn.dribbble.com/userupload/3290255/file/original-84cdd6b0e6a7369d13d1fa032eef410d.png?resize=1600x1200",
+        "features": [
+          {
+            "id": 2,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Restaurant Listings and Menus",
+                "topic": [
+                  "Restaurants can create and manage their profiles with details, images, and operating hours.",
+                  "Display restaurant menus with item descriptions, prices, and images."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Food Ordering and Cart",
+                "topic": [
+                  "Customers can add items to their cart, customize orders, and proceed to checkout.",
+                  "Support multiple items, quantities, and special instructions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Location-based Search",
+                "topic": [
+                  "Implement geolocation to allow users to find restaurants and delivery options near their location.",
+                  "Display restaurants on a map with distance indicators."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Payment Integration",
+                "topic": [
+                  "Integrate payment gateways (e.g., Stripe, PayPal) for secure transactions.",
+                  "Allow customers to save payment methods for quick checkout."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Order Tracking",
+                "topic": [
+                  "Provide real-time order tracking, allowing customers to monitor the status of their orders.",
+                  "Notify users about order preparation, delivery, and estimated arrival time."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Rating and Reviews",
+                "topic": [
+                  "Customers can rate and review restaurants and dishes.",
+                  "Showcase average ratings and customer feedback for each restaurant."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Restaurant Dashboard",
+                "topic": [
+                  "Restaurants have access to a dashboard to manage orders, update menus, and track sales.",
+                  "Receive notifications about new orders and manage order fulfillment."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Promotions and Discounts",
+                "topic": [
+                  "Allow restaurants to offer special promotions, discounts, and coupon codes.",
+                  "Display active promotions on restaurant profiles."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Driver and Delivery Management",
+                "topic": [
+                  "Implement a driver management system to assign drivers to orders and track deliveries.",
+                  "Allow drivers to update order statuses and communicate with customers."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the platform is accessible and user-friendly on various devices, including mobile phones and tablets."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Backend Services",
+                "topic": [
+                  "Develop a backend server using technologies like Node.js, Express, or Django.",
+                  "Create RESTful APIs for user management, order processing, and data storage."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Database Management",
+                "topic": [
+                  "Choose a database such as PostgreSQL or MongoDB to store user profiles, restaurant details, and order information."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Data Privacy and Security",
+                "topic": [
+                  "Implement encryption for sensitive user information and payment data.",
+                  "Follow data protection regulations."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Deployment and Hosting",
+                "topic": [
+                  "Deploy the frontend on platforms like Netlify or Vercel.",
+                  "Host the backend on services like Heroku or AWS."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Testing and Quality",
+                "topic": [
+                  "Conduct thorough testing to ensure a smooth user experience and order flow."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Customer Support Chat",
+                "topic": [
+                  "Implement a real-time chat system for customers to contact support and resolve issues."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Multi-Language Support",
+                "topic": [
+                  "Offer language options to accommodate users from different regions.",
+                  "Provide translated menus and interface."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Offline Mode and Notifications",
+                "topic": [
+                  "Allow users to access basic functionality and view orders in an offline mode",
+                  "Send push notifications about order updates."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Inventory Management (Optional)",
+                "topic": [
+                  "Integrate inventory tracking for restaurants to manage ingredient availability and prevent overordering."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": " Personal Finance Management App ",
+        "description": "Develop a web-based personal finance management application that helps users track their income, expenses, budgets, and financial goals. The app will provide insights into their financial health and offer tools for better money management.",
+        "conclusions": "Creating a personal finance management app will empower users to take control of their finances, while you gain experience in designing user-friendly interfaces, implementing secure data handling, and developing insightful analytics",
+        "img": "https://cdn.dribbble.com/userupload/7795193/file/original-98f229847ff3c86f22a2de2fd5f31ea9.png?resize=1600x1200",
+        "features": [
+          {
+            "id": 1,
+            "name": "User Authentication and Profiles",
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "Users can create accounts, log in, and reset passwords.",
+                  "Users can create profiles with personal information and financial goals.",
+                  "Implement OAuth authentication for third-party login options."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Expense Tracking and Categorization",
+            "description": [
+              {
+                "title": "Expense Tracking and Categorization",
+                "topic": [
+                  "Allow users to log their expenses, categorize them (e.g., groceries, utilities, entertainment), and add optional descriptions.",
+                  "Provide options to upload photos of receipts."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Income Management",
+            "description": [
+              {
+                "title": "Income Management",
+                "topic": [
+                  "Users can record different sources of income, such as salary, freelance work, or investments.",
+                  "Display total income and calculate net cash flow."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Budget Creation and Monitoring",
+            "description": [
+              {
+                "title": "Budget Creation and Monitoring",
+                "topic": [
+                  "Enable users to set monthly budgets for various expense categories.",
+                  "Display progress and alerts when budget limits are exceeded."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Financial Goals and Savings",
+            "description": [
+              {
+                "title": "Financial Goals and Savings",
+                "topic": [
+                  "Allow users to define financial goals (e.g., saving for a vacation, emergency fund, retirement).",
+                  "Provide a progress tracker and tips to achieve these goals."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Expense Analysis and Visualization",
+            "description": [
+              {
+                "title": "Expense Analysis and Visualization",
+                "topic": [
+                  "Generate charts and graphs to visualize spending patterns over time.",
+                  "Display insights into which categories contribute the most to expenses."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Reminder and Notification System",
+            "description": [
+              {
+                "title": "Reminder and Notification System",
+                "topic": [
+                  "Send reminders for upcoming bill payments, subscription renewals, or savings milestones.",
+                  "Provide notifications for budget updates and financial achievements."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Currency Conversion (Optional)",
+            "description": [
+              {
+                "title": "Currency Conversion (Optional)",
+                "topic": [
+                  "Integrate currency conversion for international users who deal with multiple currencies."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Secure Data Storage",
+            "description": [
+              {
+                "title": "Secure Data Storage",
+                "topic": [
+                  "Implement data encryption for sensitive financial information and adhere to data protection regulations."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Responsive Design",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the application is accessible and responsive on various devices, including desktops and mobile devices."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Backend Services",
+            "description": [
+              {
+                "title": "Backend Services",
+                "topic": [
+                  "Develop a backend server using technologies like Node.js, Express, or Flask.",
+                  "Create RESTful APIs for user management, financial data storage, and analytics."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Database Management",
+            "description": [
+              {
+                "title": "Database Management",
+                "topic": [
+                  "Choose a database such as PostgreSQL or MySQL to store user profiles, financial transactions, and goals."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Payment Integration (Optional)",
+            "description": [
+              {
+                "title": "Payment Integration (Optional)",
+                "topic": [
+                  "Integrate payment gateways for users to pay bills directly through the app."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "User Data Privacy and Security",
+            "description": [
+              {
+                "title": "User Data Privacy and Security",
+                "topic": [
+                  "Implement encryption for sensitive user information and financial data."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Deployment and Hosting",
+            "description": [
+              {
+                "title": "Deployment and Hosting",
+                "topic": [
+                  "Deploy the frontend on platforms like Netlify or Vercel.",
+                  "Host the backend on services like Heroku or AWS."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Testing and Quality",
+            "description": [
+              {
+                "title": "Testing and Quality",
+                "topic": [
+                  "Conduct thorough testing to ensure accurate calculations and a user-friendly interface."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Multi-Language Support",
+            "description": [
+              {
+                "title": "Multi-Language Support",
+                "topic": [
+                  "Offer language options to cater to users from different regions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Backup and Data Export",
+            "description": [
+              {
+                "title": "Backup and Data Export",
+                "topic": [
+                  "Allow users to export their financial data for backup or analysis purposes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Investment Tracking (Optional)",
+            "description": [
+              {
+                "title": "Investment Tracking (Optional)",
+                "topic": [
+                  "Integrate with investment platforms or APIs to track investment portfolios."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Financial Education Resources",
+            "description": [
+              {
+                "title": "Financial Education Resources",
+                "topic": [
+                  "Provide articles or resources related to financial literacy and money management."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "Team 4",
+    "techstack": "Angular | laravel",
+
+    "images": [
+      {
+        "id": 1,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/356362608_3501442883444960_5162069896562441522_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEDZCkeUzldKkhS6rteIu7GUw-qxxwJHxJTD6rHHAkfEonjuwjyrxaCdvyYCPpOxk_wIRvjndxx9kTGEVKq7Aqr&_nc_ohc=kQ0f_CcG9UYAX_m2ZF1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCvOxxQ0xPxm0MNmQJ-fdq0qskEPnW7kNmpOyKJ6N7X4g&oe=64D948BD"
+      },
+      {
+        "id": 2,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/279250500_1396377914146915_3878789775120181204_n.jpg?stp=dst-jpg_s160x160&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEQb_izVGwkT6lmVhq8uhp_jcfSMhtwvyeNx9IyG3C_J5B2PCCW4Jx4T-iYjBWbExhrnX7UDFzFvs_zU4dUKExS&_nc_ohc=OjWITedfmykAX_MZZEJ&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBiLHEnOtKSmAXrwQx6-yS4AY6-2ESiKBfmyzXSFyCCkQ&oe=64DA37C8"
+      },
+      {
+        "id": 3,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/338159500_208189865153963_6987004798041695902_n.jpg?stp=dst-jpg_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHAC8oKZAuoPF0_ufxaizjNN9Cd5Q8c1C030J3lDxzULaJukjOS5ANnCg1BEQeOnVuXh1odiwbHlxZyeoW8DoRs&_nc_ohc=oPMYborg4IoAX-Q7mfr&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBBoDMceaXiMyMi-e_Y43LUQlYj5uFj0wOJ3OuIHFHxYA&oe=64D95922"
+      },
+      {
+        "id": 4,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/278346321_3261288814197734_1786990048058946759_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGeIAE2SBaZ6wdcowgdzo21MF8aO8g2U-swXxo7yDZT63TevnpFUaiYSvSlIbOYTnRx6Al1jxM5Inmkdj45o081&_nc_ohc=1nbOPc-Av8kAX-Pw4yC&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAGK3AdpgJU37oMCdarLHeT3AQOKwi2cOrUkQAUK4fXDA&oe=64D8AE86"
+      },
+      {
+        "id": 5,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/331778365_670988984776515_807164426226262083_n.jpg?stp=dst-jpg_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEw7DYo7VZQe7bb9_B_O1mh_PSzfvZ4RYP89LN-9nhFg_hee4FhfZAT4T51vAppDRG-EuNFVDZxjosBRVXKg9rW&_nc_ohc=IxK1yTrJIUQAX84vKjP&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCa2ds_UqAz2jcb5vBIbjMOlhXVOJVntOX3MWs07HItdA&oe=64D996E5"
+      },
+      {
+        "id": 6,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/348424046_999455551494527_5724032586358420334_n.jpg?stp=dst-jpg_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEdicvgI6sJcPZGHkcRcpRWZjEloJmdxu9mMSWgmZ3G77TpLcE8NuwluM8mv74l5Z24ZdS_VAYriyZ2Kb_Vnagf&_nc_ohc=xz-1h-YVKSkAX9J8oG3&_nc_ht=scontent.fcai1-2.fna&oh=00_AfArNgcZ-MywRP9HMlqZaQwYCYserv84DLh3UB4WtRQILA&oe=64DA428C"
+      },
+      {
+        "id": 7,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/278893226_3510613585833711_4728399600023231810_n.jpg?stp=dst-jpg_p160x160&_nc_cat=111&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeHJbWCHb097oQX4LiYRr9OJiunqWaUgctOK6epZpSBy00IMUF3LfkEw_lhUCzluW2jFii9sFBCR4tCDrwOZHfiW&_nc_ohc=kUUOLWLM4GUAX9bKUDd&_nc_ht=scontent.fcai1-2.fna&oh=00_AfD2iQWaHdlrAn1M78dzyGrC8gFwi9We6TmnmW1-8pEeMw&oe=64D8F699"
+      }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": " Online Marketplace for Handmade Crafts ",
+        "description": "Create an online platform where artisans and crafters can showcase and sell their unique handmade crafts, while customers can browse and purchase these items. The platform will provide a marketplace for connecting creators and buyers, enhancing the appreciation of handcrafted products.",
+        "conclusions": "By building an online marketplace for handmade crafts, you'll not only support artisans but also gain experience in designing user-friendly interfaces, managing transactions, and creating a vibrant community platform.",
+        "img": "https://cdn.dribbble.com/userupload/3248151/file/original-5e54831e0f42cc6c4d40daae50979df3.png?resize=1600x1200",
+        "features": [
+          {
+            "id": 1,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "User registration, login, and password reset functionality.",
+                  "Crafters can create profiles with information about their crafts and artistic style.",
+                  "Implement OAuth authentication for third-party login options."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Product Listings and Categories",
+                "topic": [
+                  "Artisans can list their crafts with images, descriptions, prices, and categorize them (e.g., jewelry, home decor, fashion).",
+                  "Customers can browse and search for crafts by category, keywords, or artist."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Shopping Cart and Checkout",
+                "topic": [
+                  "Customers can add crafts to their shopping cart and proceed to checkout.",
+                  "Implement a secure payment gateway for transactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Craft Details and Customization",
+                "topic": [
+                  "Allow crafters to provide detailed descriptions, materials used, and dimensions for each product.",
+                  "Customers can customize certain aspects (e.g., colors, sizes) if applicable."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Craft Rating and Reviews",
+                "topic": [
+                  "Enable customers to rate and write reviews for crafts they've purchased.",
+                  "Display average ratings and testimonials for each artisan."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Artisan Dashboard",
+                "topic": [
+                  "Provide a dashboard for crafters to manage their listings, inventory, and orders.",
+                  "Send notifications for new orders and customer inquiries."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Wishlist and Favorites",
+                "topic": [
+                  "Allow customers to create wishlists and mark favorite crafts for future reference."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Search and Filters",
+                "topic": [
+                  "Implement advanced search filters to help customers find specific crafts.",
+                  "Provide options to sort by price, popularity, or newly added."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the platform is accessible and user-friendly on various devices."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Backend Services",
+                "topic": [
+                  "Develop a backend server using technologies like Node.js, Express, or Django.",
+                  "Create RESTful APIs for user management, product listings, and orders."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Database Management",
+                "topic": [
+                  "Choose a database such as PostgreSQL or MongoDB to store user profiles, craft details, and transactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Image Upload and Storage",
+                "topic": [
+                  "Allow artisans to upload high-quality images of their crafts for display.",
+                  "Use cloud storage services to manage and serve these images."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Data Privacy and Security",
+                "topic": [
+                  "Implement encryption for sensitive user information and payment data."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Deployment and Hosting",
+                "topic": [
+                  "Deploy the frontend on platforms like Netlify or Vercel.",
+                  "Host the backend on services like Heroku or AWS."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Testing and Quality",
+                "topic": [
+                  "Conduct thorough testing to ensure a smooth shopping experience and secure transactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Multi-Language Support",
+                "topic": [
+                  "Offer language options to cater to users from different regions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Shipping and Delivery Integration",
+                "topic": [
+                  "Integrate with shipping services to provide accurate delivery estimates and tracking."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Customer Support Chat",
+                "topic": [
+                  "Implement a real-time chat system for customers to contact support and ask questions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Artisan Profiles and Portfolios",
+                "topic": [
+                  "Allow artisans to showcase their work through comprehensive profiles and portfolios."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Sales Analytics and Insights",
+                "topic": [
+                  "Provide artisans with analytics on sales trends, popular products, and customer demographics."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": " Recipe Sharing and Meal Planning App ",
+        "description": "Develop a web-based platform where users can discover, share, and plan meals. The app will allow users to explore new recipes, create meal plans, and collaborate with others to enhance their cooking and meal preparation experience.",
+        "conclusions": "By building a recipe sharing and meal planning app, you'll create a valuable resource for food enthusiasts, gain experience in creating interactive interfaces, handling user-generated content, and facilitating collaboration.",
+        "img": "https://cdn.dribbble.com/users/1804673/screenshots/12209180/media/0df0e84fa3e27d1bc07bdff7726efced.png",
+        "features": [
+          {
+            "id": 1,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "User registration, login, and password reset functionality.",
+                  "Users can create profiles, upload profile pictures, and provide dietary preferences."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Recipe Discovery and Sharing",
+                "topic": [
+                  "Users can search for recipes based on keywords, ingredients, or categories.",
+                  "Allow users to submit their own recipes, including ingredients, preparation steps, and cooking times."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Recipe Ratings and Reviews",
+                "topic": [
+                  "Enable users to rate and review recipes they've tried.",
+                  "Display average ratings and user testimonials for each recipe."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Meal Planning and Calendar",
+                "topic": [
+                  "Users can create weekly or monthly meal plans by selecting recipes.",
+                  "Integrate a calendar view to display planned meals for each day."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Grocery List Generation",
+                "topic": [
+                  "Generate a shopping list based on the selected recipes and quantities needed.",
+                  "Allow users to check off items as they shop."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Personalized Recommendations",
+                "topic": [
+                  "Provide recipe recommendations based on user preferences and previous selections."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Collections and Favorites",
+                "topic": [
+                  "Allow users to create collections of favorite recipes and share them with others."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Interactive Cooking Instructions",
+                "topic": [
+                  "Display step-by-step cooking instructions with images or videos.",
+                  "Implement timers and alerts for different cooking stages."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Social Sharing and Collaboration",
+                "topic": [
+                  "Users can share their meal plans, recipes, and cooking achievements on social media.",
+                  "Enable collaborative meal planning among friends or family members."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the app is accessible and user-friendly on various devices."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Backend Services",
+                "topic": [
+                  "Develop a backend server using technologies like Node.js, Express, or Django.",
+                  "Create RESTful APIs for user management, recipe handling, and collaboration."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Database Management",
+                "topic": [
+                  "Choose a database such as PostgreSQL or MongoDB to store user profiles, recipes, and meal plans."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Image Upload and Storage",
+                "topic": [
+                  "Allow users to upload high-quality images for their recipes.",
+                  "Utilize cloud storage services to manage and serve these images."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Data Privacy and Security",
+                "topic": [
+                  "Implement encryption for sensitive user information and recipe data."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Deployment and Hosting",
+                "topic": [
+                  "Deploy the frontend on platforms like Netlify or Vercel.",
+                  "Host the backend on services like Heroku or AWS."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Testing and Quality",
+                "topic": [
+                  "Conduct thorough testing to ensure smooth recipe sharing and meal planning."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Multi-Language Support",
+                "topic": [
+                  "Offer language options to cater to users from different regions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Advanced Search and Filters",
+                "topic": [
+                  "Implement advanced filters for dietary preferences, allergies, and cuisines."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Integration with Smart Home Devices (Optional)",
+                "topic": [
+                  "Allow users to sync cooking instructions with smart kitchen devices."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Nutritional Information Display",
+                "topic": [
+                  "Calculate and display nutritional information for each recipe."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "name": "Team 5",
+    "techstack": "React | Node",
+    "images": [
+      {
+        "id": 1,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/99399222_1613533938804522_1232236373604302848_n.jpg?stp=dst-jpg_p320x320&_nc_cat=106&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeH9dnd8xsvB3R3NmZgGZZS6Y5U6AYv7zThjlToBi_vNON_GFW-lhl96yic79A4j4xXwHzR73J5qLW_t96RJlm2O&_nc_ohc=DI43NjB5Hk0AX_4-G-a&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAhR6M-ORwJhchdQlGJi23djMF8Zvqyc5GJAtfqY50hxw&oe=64FC3134"
+      },
+      {
+        "id": 2,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/361650118_2960072300792767_7994770843316607596_n.jpg?stp=dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEM1p6qN53R04kM9K3Ek8u4yTVBrcxM28DJNUGtzEzbwGDeTCnBMsQSMUtWptkz3607HMfqwgFWuE_cAFgzM7xz&_nc_ohc=YL6ALL4d2OkAX9oIVGK&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCeHkSz7i7uxmmmUwah0tWhDYGiZY9vLfuS-62h4s0MIA&oe=64D9B42E"
+      },
+      {
+        "id": 3,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/243456906_1028197888015946_5973179380084481815_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEGvaF-ur-0qObAeUbyJdJ0ji_ilthzeYyOL-KW2HN5jEe2lzgwwf-9UKkZumdMg4Gs9oxeKwxyc3vmoDPfTwdP&_nc_ohc=5VQYGqYBWaYAX9K9Czb&_nc_ht=scontent.fcai1-2.fna&oh=00_AfC_rxuouDKTTmhs9yRzEk6elG3r1BCRWfbMHea1_OunPA&oe=64D8E156"
+      },
+      {
+        "id": 4,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/343060086_1389213361843556_5405203893402533411_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGt_7EHChGDfjGkfDeLPDcQ6luGrRGBju_qW4atEYGO75_tEEnBYxEq8_xWD2Ug4UbE4m2iuP2LnN-2Pv85_Lv5&_nc_ohc=RZHu3TGM6s4AX91fqiF&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA7ZcSqNT07SHhLsb9UR0xZwYd49aip2-ang43M2i29nQ&oe=64DA2E32"
+      },
+      {
+        "id": 5,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/279400856_1319071288582554_5279296343968092550_n.jpg?stp=dst-jpg_s160x160&_nc_cat=108&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeFeT5zh18KCSt-MXmBnDv9oUZ2EMqs-eoBRnYQyqz56gEDQG9uukVHPz9PeQqrDJ5FjzRwHXRTmUxPDEftFFJYk&_nc_ohc=fohkMTKdSpoAX-ML8Pk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBYACbfZwP9gmCvLcBRAqGtwFMtr4vmbtL79Z2YizywfA&oe=64D9DAF5"
+      }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": " Online Learning Management System ",
+        "description": "Develop a comprehensive online learning management system that allows instructors to create and deliver courses, manage student enrollments, and facilitate interactive learning experiences. The platform will empower instructors to share their expertise and engage with students effectively.",
+        "conclusions": "By building an online learning management system, you'll provide a platform for instructors to share knowledge effectively and engage with students in a meaningful way, while gaining experience in designing educational interfaces, managing user interactions, and delivering engaging content.",
+        "img": "https://cdn.dribbble.com/userupload/4020341/file/original-84270be086ac1611476289257ab639d9.png?resize=1905x1429",
+        "features": [
+          {
+            "id": 1,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Instructor Authentication and Profiles",
+                "topic": [
+                  "Instructors can register, log in, and reset passwords.",
+                  "Instructors can create profiles with their expertise and teaching credentials."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Course Creation and Management",
+                "topic": [
+                  "Instructors can create courses, define syllabus, and set learning objectives.",
+                  "Upload course materials, videos, and assignments."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Student Enrollment and Progress Tracking",
+                "topic": [
+                  "Students can enroll in courses and track their progress.",
+                  "Instructors can monitor student progress, grades, and performance."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Interactive Lessons and Quizzes",
+                "topic": [
+                  "Instructors can create interactive lessons with multimedia elements.",
+                  "Include quizzes and assessments to reinforce learning."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Discussion Boards and Q&A Forums",
+                "topic": [
+                  "Enable students to discuss course materials and ask questions.",
+                  "Instructors can provide answers and facilitate discussions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Live Classes and Webinars",
+                "topic": [
+                  "Host live classes or webinars with real-time interaction.",
+                  "Record sessions for later access by students."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Assignment Submission and Feedback",
+                "topic": [
+                  "Students can submit assignments online.",
+                  "Instructors can review and provide feedback on assignments."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Gradebook and Performance Analytics",
+                "topic": [
+                  "Instructors can manage grades and provide students with feedback.",
+                  "Provide analytics on student performance and engagement."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Certificates and Achievements",
+                "topic": [
+                  "Instructors can award certificates upon course completion.",
+                  "Recognize students' achievements and progress."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the platform is accessible and user-friendly on various devices."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Backend Services",
+                "topic": [
+                  "Develop a backend server using technologies like Node.js, Express, or Flask.",
+                  "Create APIs for user management, course creation, and interaction."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Database Management",
+                "topic": [
+                  "Choose a database such as PostgreSQL or MongoDB to store user profiles, course data, and interactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "features ",
+            "description": [
+              {
+                "title": "User Data Privacy and Security",
+                "topic": [
+                  "Implement encryption for sensitive user information and learning data."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Deployment and Hosting",
+                "topic": [
+                  "Deploy the frontend on platforms like Netlify or Vercel.",
+                  "Host the backend on services like Heroku or AWS."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Testing and Quality",
+                "topic": [
+                  "Conduct thorough testing to ensure effective teaching and learning experiences."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Multi-Language Support",
+                "topic": [
+                  "Offer language options for instructors and students from different regions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Notification and Reminders",
+                "topic": [
+                  "Send notifications for upcoming classes, assignments, and announcements."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Integration with Video Conferencing Tools (Optional)",
+                "topic": [
+                  "Integrate with tools like Zoom or Microsoft Teams for live classes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Feedback and Improvement Surveys",
+                "topic": [
+                  "Gather feedback from students to improve course content and delivery."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Custom Branding for Instructors (Optional)",
+                "topic": [
+                  "Allow instructors to customize the appearance of their course pages."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": " Online Marketplace Platform ",
+        "description": "Develop an online marketplace platform that allows users to buy and sell various products. This project will cover a wide range of functionalities and technologies, making it an excellent opportunity for students to learn about full-stack development.",
+        "conclusions": "This project will help students develop practical skills in building complex web applications, handling user interactions, managing databases, integrating external services, and implementing security measures. The real-world scenario of an online marketplace covers a broad range of features commonly found in modern web applications, making it an excellent learning opportunity.",
+        "img": "https://cdn.dribbble.com/userupload/2578697/file/original-12b84ee6ffdd1c6bc33d4c4bac7f625c.png?resize=1600x1200",
+        "features": [
+          {
+            "id": 1,
+            "name": "User Authentication and Profiles",
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "User registration and login system.",
+                  "User profiles with information about their listed products, purchased items, and ratings."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Product Listings",
+            "description": [
+              {
+                "title": "Product Listings",
+                "topic": [
+                  "Users can list products for sale, including images, descriptions, prices, and categories/tags.",
+                  "Support for different types of products (physical items, digital goods, services)."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Product Search and Filtering",
+            "description": [
+              {
+                "title": "Product Search and Filtering",
+                "topic": [
+                  "Users can search for products based on keywords, categories, and price ranges.",
+                  "Advanced filtering options for refining search results."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Shopping Cart",
+            "description": [
+              {
+                "title": "Shopping Cart",
+                "topic": [
+                  "Users can add products to their shopping cart while browsing.",
+                  "Cart displays the total cost and allows users to adjust quantities or remove items."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Checkout and Payment",
+            "description": [
+              {
+                "title": "Checkout and Payment",
+                "topic": [
+                  "Secure payment processing integration (e.g., Stripe, PayPal).",
+                  "Order confirmation emails to buyers and sellers."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Order Management",
+            "description": [
+              {
+                "title": "Order Management",
+                "topic": [
+                  "Users can view their order history and order statuses.",
+                  "Sellers can manage orders, mark orders as shipped, and communicate with buyers."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Messaging and Notifications",
+                "topic": [
+                  "Internal messaging system for buyers and sellers to communicate.",
+                  "Notifications for new messages, order updates, and important events."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Rating and Reviews",
+                "topic": [
+                  "Buyers can rate and leave reviews for products and sellers.",
+                  "Overall rating displayed on seller profiles."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Admin Panel",
+                "topic": [
+                  "Admin dashboard to manage users, products, and reported content.",
+                  "Ability to take actions against fraudulent or inappropriate listings."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the platform is accessible and usable across different devices and screen sizes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "features ",
+            "description": [
+              {
+                "title": "Technologies",
+                "topic": [
+                  "Front-end: React or Angular for building dynamic user interfaces.",
+                  "Back-end: Node.js with Express or Ruby on Rails for handling server-side logic and APIs.",
+                  "Database: PostgreSQL or MySQL for storing user data, product information, and orders.",
+                  "Payment Integration: Integration with payment gateways like Stripe or PayPal.",
+                  "Real-time Communication: WebSockets for real-time messaging and notifications.",
+                  "User Authentication: JWT or OAuth for secure user authentication and authorization.",
+                  "Styling: CSS or CSS frameworks for a polished UI."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "name": "Team 6",
+    "techstack": "React | Node",
+    "images": [
+      {
+        "id": 1,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
+      },
+      {
+        "id": 2,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/193118817_1483247458674064_6065421771220558092_n.jpg?stp=dst-jpg_p320x320&_nc_cat=102&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGFu-CtvWfYZOOMy5xccxg1uRrhuu3CX1G5GuG67cJfUS3r29iHfE4vpGv8z6wUl0ac4GErAEmKC_qBZ0RnStQT&_nc_ohc=BQl8wSKl9coAX_SeZgR&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCQBz8QMqyncnx6z0Pg1Wus8HU25XFetXFow-r6Y7wbjw&oe=64FC254D"
+      },
+      {
+        "id": 3,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/307923207_10217708433502571_4710942872885061275_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeF9OrmqSzNQ6Fukq-n3OcvH7ukm_MwZG_ru6Sb8zBkb-nLixBctWGR5ru2E2RC9cAhrkvxfy9mIONsULhQ6QDPI&_nc_ohc=x27wo9Sz3DcAX_Snme1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCOJdbmK8ka8IwMNaKbL5_m3Dv0kn4oOMEDVPT5I4zPGw&oe=64DA553E"
+      },
+      {
+        "id": 4,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/134413405_1352282688445667_9158187513519847689_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHitlrokti7lQK1jx-93f8so5JHI8jLmKSjkkcjyMuYpN59fFoOG_IpTPAZSHESukdKOFRyT3NcMGebyYaCwcVC&_nc_ohc=Wf_uKMPBegAAX-dovY0&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_WvtZM0m8BVOLXdXJmVCVbNe-YMScGhbPzrEG_2od0w&oe=64FC25B8"
+      }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": " Social Media Platform ",
+        "description": "Create a social media platform that enables users to connect, share posts, and engage with content. This project will give your students a chance to delve into various aspects of full-stack development, from user interactions to data management.",
+        "conclusions": "Developing a social media platform involves a wide range of technical challenges, including user interactions, real-time communication, data management, and responsive design. This project will help your students gain practical experience in creating dynamic web applications with a focus on user engagement and interaction.",
+        "img": "https://cdn.dribbble.com/users/1788965/screenshots/17000563/media/ead6692ef2ceab36459a0214a543a166.png",
+        "features": [
+          {
+            "id": 1,
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "User registration and login with email or social media accounts.",
+                  "User profiles with customizable avatars, bios, and contact information."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "description": [
+              {
+                "title": "News Feed and Posts",
+                "topic": [
+                  "Users can create, edit, and delete posts with text, images, and videos.",
+                  "Posts appear in the user's news feed and on their profile."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "description": [
+              {
+                "title": "Interactions",
+                "topic": [
+                  "Like, comment, and share functionality for posts.",
+                  "Real-time updates for new likes, comments, and shares."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "description": [
+              {
+                "title": "Follow System",
+                "topic": [
+                  "Users can follow/unfollow other users.",
+                  "News feed shows posts from followed users."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "description": [
+              {
+                "title": "Explore Page",
+                "topic": [
+                  "Displays trending posts, popular users, and suggested content.",
+                  "Utilize hashtags or categories to organize content."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "description": [
+              {
+                "title": "Direct Messaging",
+                "topic": [
+                  "Users can send private messages to each other.",
+                  "Group chat functionality for multiple users."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "description": [
+              {
+                "title": "Notifications",
+                "topic": [
+                  "Users receive notifications for new followers, likes, comments, and messages."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "description": [
+              {
+                "title": "Privacy Settings",
+                "topic": [
+                  "Users can control the visibility of their posts and profile information.",
+                  "Option to make accounts private."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "description": [
+              {
+                "title": "User Search",
+                "topic": [
+                  "Search functionality to find and follow other users."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "description": [
+              {
+                "title": "Analytics",
+                "topic": [
+                  "Provide insights into user engagement (likes, comments, shares) for each post."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the platform is accessible and user-friendly on various devices."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "description": [
+              {
+                "title": "Technologies",
+                "topic": [
+                  "Front-end: React or Vue.js for building interactive user interfaces.",
+                  "Back-end: Node.js with Express or Django for server-side logic and APIs.",
+                  "Database: MongoDB or PostgreSQL for storing user data, posts, and interactions.",
+                  "Real-time Functionality: WebSockets (Socket.IO) for instant updates.",
+                  "User Authentication: JWT or OAuth for secure user authentication.",
+                  "Styling: CSS or CSS frameworks for a visually appealing design."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": " E-Commerce Platform ",
+        "description": "Develop an e-commerce platform that enables users to browse, shop, and manage their orders. This project will provide your students with valuable experience in building a complex web application that involves various aspects of full-stack development.",
+        "conclusions": "Building an e-commerce platform involves various challenges like handling user data securely, managing transactions, and providing a seamless user experience. This project will enable your students to gain hands-on experience with the intricacies of full-stack development while working on a project that closely resembles real-world applications.",
+        "img": "https://cdn.dribbble.com/userupload/3956908/file/original-330b830777da492ec3c5dfebb0ea4e45.png?resize=1000x750",
+        "features": [
+          {
+            "id": 1,
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "User registration and login using email or social media accounts.",
+                  "User profiles with order history, saved addresses, and payment methods."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "description": [
+              {
+                "title": "Product Listings",
+                "topic": [
+                  "Display a catalog of products with images, descriptions, prices, and ratings.",
+                  "Categorize products for easy navigation."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "description": [
+              {
+                "title": "Product Search and Filtering",
+                "topic": [
+                  "Search functionality with autocomplete and suggested results.",
+                  "Filter products by category, price range, and attributes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "description": [
+              {
+                "title": "Shopping Cart",
+                "topic": [
+                  "Users can add products to their cart, adjust quantities, and remove items.",
+                  "Cart displays total price and items count."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "description": [
+              {
+                "title": "Checkout and Payment",
+                "topic": [
+                  "Multi-step checkout process with address selection and payment method.",
+                  "Integration with a secure payment gateway (e.g., Stripe)."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "description": [
+              {
+                "title": "Order Tracking",
+                "topic": [
+                  "Users can track their orders' status and receive updates.",
+                  "Email notifications for order confirmation and shipping updates."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "description": [
+              {
+                "title": "Reviews and Ratings",
+                "topic": [
+                  "Users can leave reviews and ratings for products.",
+                  "Display average ratings and reviews on product pages."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "description": [
+              {
+                "title": "Wishlist and Favorites",
+                "topic": [
+                  "Users can save products to their wishlist for future purchase."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "description": [
+              {
+                "title": "Admin Panel",
+                "topic": [
+                  "Admin dashboard for managing products, orders, and user accounts.",
+                  "CRUD operations for products, user management, and order processing."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "description": [
+              {
+                "title": "Inventory Management",
+                "topic": [
+                  "Update product availability and quantities based on orders."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the platform is user-friendly across different devices."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "description": [
+              {
+                "title": "Recommendation Engine",
+                "topic": [
+                  "Provide personalized product recommendations based on user behavior."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "description": [
+              {
+                "title": "Technologies",
+                "topic": [
+                  "Front-end: React or Angular for creating dynamic user interfaces.",
+                  "Back-end: Node.js with Express or Ruby on Rails for server-side logic.",
+                  "Database: PostgreSQL or MySQL for storing user data, products, and orders.",
+                  "Payment Integration: Integration with a payment gateway like Stripe.",
+                  "User Authentication: JWT or OAuth for secure user authentication.",
+                  "Real-time Communication: WebSockets for real-time notifications.",
+                  "Styling: CSS or CSS frameworks for a polished UI."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "name": "Team 7",
+    "techstack": "Angular | laravel",
+    "images": [
+      {
+        "id": 1,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/339419640_1097424791650143_6174326333348669285_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=f67be1&_nc_eui2=AeGICkmL_IhNmEs2coHZyBGF-FZ3tUgUsDH4Vne1SBSwMfaSFwu7OT-NYE3azLSAYInPeGBZaZFhj0eDtQWDQdM2&_nc_ohc=YDHFie2dN4MAX8BQ0E6&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA-DWzvGMb7mJAq8sBZ1Uz4cJozPXoakZ0D9YswVbNDfw&oe=64DA1111"
+      },
+      {
+        "id": 2,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/42898580_2102704926430352_8725199596235522048_n.jpg?stp=dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeFA1-xIVdYwM0x1Hb0uMbMIqUYSgufTqFupRhKC59OoW77QZ5O_O1relZR-woLnWDjByGWPuMa_ez7vhxZ3J_4w&_nc_ohc=MF0qOSULGzIAX9VekzX&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA03u2UcvTfvuBQ0X8H_cBKunkZNYoCJ4HewdKJ9-UKgg&oe=64FC27B3"
+      },
+      {
+        "id": 3,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/314379866_5492118347571709_8200670023213121529_n.jpg?stp=dst-jpg_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGa3A3ZQKox0aZ0ABQPiW82HWcGrPzdLZIdZwas_N0tkmC-cNMJZpxw380qetrbN1uz_vXjK3vfntCFQfksulsM&_nc_ohc=2IderI_25iwAX_qdBtI&_nc_oc=AQlG5HZUspAwKBPjS1cWgtlbj5XV5qiVQ1TNC47h53-ruJHVssErJzGblKwnB0kFNtM&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBCMB44XGKxtUcf_3r_IJdQrFtHMmhfEINVzkeoVVn7Mg&oe=64D9588C"
+      },
+      {
+        "id": 4,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/347230087_935745747767248_6934275457569540615_n.jpg?stp=dst-jpg_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEuoGyG-5mGu0vA7eB-MiYL9IkpXtArtkP0iSle0Cu2Q-g72qX6j0QiwpvBLghQ9W91wEdCl6F2nv_iFsml_ULA&_nc_ohc=hM8IwMvmU_wAX-PfwBr&_nc_oc=AQmH7zj6cnpHehPGAQv6uwgeS31xKtOv42PBKo4MoMlHu1hlPJ6ihirYVVTXNLaqCO4&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBs7yMBaUy4jpzodT2O-PGRdw4yPfUPb-ryLbqLYDJzuA&oe=64DA4A43"
+      },
+      {
+        "id": 5,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/364120526_3560035880909198_4251405505060112904_n.jpg?stp=c0.10.320.320a_dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFxOvSAht1qtUJZ5sVtUN3lmvla4lMLAC2a-VriUwsALeOFc08fZt0QzdI2pzrdPX_uIvgLh5Any3lGvs5qCKSt&_nc_ohc=gNN8fTLE9sEAX9d3bmt&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAqXhc8SSatkqPotUbK1WpSPrxxUd8x0rvb9xzgPAd0lQ&oe=64D91DE9"
+      }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": " Online Event Management System ",
+        "description": "Develop a comprehensive online platform that enables event organizers to create, manage, and promote various events while allowing attendees to browse and register for these events.",
+        "conclusions": "An Online Event Management System project provides students with hands-on experience in building a platform that connects event organizers and attendees. It covers user authentication, data management, real-time interactions, and analytics, offering a well-rounded learning opportunity in full-stack development.",
+        "img": "https://cdn.dribbble.com/users/5031392/screenshots/14547016/media/5f1ea18845904c363792ed5145e47348.png",
+        "features": [
+          {
+            "id": 1,
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "User registration and login with email or social media accounts.",
+                  "User profiles containing personal details, event registrations, and attended events."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "description": [
+              {
+                "title": "Event Creation and Management",
+                "topic": [
+                  "Event organizers can create events with information such as title, date, time, location, and description.",
+                  "Support for various event types (conferences, workshops, seminars) with customizable settings."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "description": [
+              {
+                "title": "Event Registration and Ticketing",
+                "topic": [
+                  "Users can view event details, select tickets, and register for events.",
+                  "Secure payment processing integration for purchasing tickets."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "description": [
+              {
+                "title": "Event Promotion",
+                "topic": [
+                  "Event organizers can upload event banners, posters, and promotional materials.",
+                  "Social media sharing buttons to facilitate event promotion."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "description": [
+              {
+                "title": "Session and Schedule Management",
+                "topic": [
+                  "Events can consist of multiple sessions or tracks.",
+                  "Organizers can set up schedules, assign speakers, and define session topics."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "description": [
+              {
+                "title": "Speaker and Presenter Profiles",
+                "topic": [
+                  "Detailed profiles for speakers including their biographies, photos, and previous speaking engagements.",
+                  "Link speakers to sessions they're presenting in."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "description": [
+              {
+                "title": "Attendee Networking",
+                "topic": [
+                  "Attendees can connect and engage through discussion forums and chat rooms.",
+                  "Real-time chat functionality for event-related conversations."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "description": [
+              {
+                "title": "Feedback and Ratings",
+                "topic": [
+                  "Attendees can provide feedback and ratings for sessions, speakers, and the overall event experience.",
+                  "Organizers can gather insights for future improvements."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "description": [
+              {
+                "title": "Event Analytics",
+                "topic": [
+                  "Visualize event data such as registration trends, attendee demographics, and session popularity.",
+                  "Generate reports for organizers to assess event success."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "description": [
+              {
+                "title": "Admin Dashboard",
+                "topic": [
+                  "Admin panel for managing events, users, and content moderation.",
+                  "Monitor event metrics, user interactions, and ensure a smooth experience."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "description": [
+              {
+                "title": "Notifications and Reminders",
+                "topic": [
+                  "Users receive notifications for event updates, session changes, and upcoming events.",
+                  "Automatic reminders for registered users about upcoming events."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the platform is accessible and user-friendly on different devices."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": " Online Task Management System ",
+        "description": "Create an online task management system that allows users to create, organize, and track their tasks. The system will consist of a web application with both frontend and backend components. This project will cover various aspects of full-stack development, including user authentication, database management, API design, and responsive frontend design.",
+        "conclusions": "This project idea covers a wide range of technologies and concepts, including frontend development (HTML/CSS/JavaScript), backend development (Node.js, Express), database management (SQL or NoSQL), user authentication, API design, real-time updates, and deployment. It provides ample opportunities for your students to learn and practice full-stack development skills.",
+        "img":"https://cdn.dribbble.com/users/443226/screenshots/7141724/media/72d3e061d067fdc7452389289acc0982.jpg",
+        "features": [
+          {
+            "id": 1,
+            "description": [
+              {
+                "title": "User Registration and Authentication",
+                "topic": [
+                  "Users can register with the system using their email or social media accounts.",
+                  "Implement a secure authentication system with password hashing and token-based authentication."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "description": [
+              {
+                "title": "Task Management",
+                "topic": [
+                  "Users can create, edit, and delete tasks.",
+                  "Each task will have a title, description, due date, priority level, and status (e.g., to-do, in-progress, completed).",
+                  "Implement drag-and-drop functionality to allow users to change the status of tasks."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "description": [
+              {
+                "title": "Task Sorting and Filtering",
+                "topic": [
+                  "Users can sort tasks by due date, priority, and status.",
+                  "Provide filtering options to display tasks based on their status."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "description": [
+              {
+                "title": "Collaboration",
+                "topic": [
+                  "Users can share tasks with other registered users.",
+                  "Implement real-time notifications when tasks are assigned or updated."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "description": [
+              {
+                "title": "User Dashboard",
+                "topic": [
+                  "Display a personalized dashboard showing tasks assigned to the user.",
+                  "Include graphical representations of task distribution and completion."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "description": [
+              {
+                "title": "Reminders and Notifications",
+                "topic": [
+                  "Allow users to set reminders for upcoming tasks.",
+                  "Send email or in-app notifications for approaching deadlines or task updates."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "description": [
+              {
+                "title": "User Profiles",
+                "topic": [
+                  "Users can customize their profiles with avatars and brief descriptions.",
+                  "Display user-specific statistics, such as completed tasks and productivity streaks."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "description": [
+              {
+                "title": "Responsive UI Design",
+                "topic": [
+                  "Design a responsive and user-friendly frontend using HTML, CSS, and JavaScript.",
+                  "Ensure the application works well on different devices and screen sizes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "description": [
+              {
+                "title": "Backend and Database",
+                "topic": [
+                  "Use a backend framework like Node.js, Django, or Ruby on Rails to handle API requests.",
+                  "Choose a database (SQL or NoSQL) for storing user information and tasks."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "description": [
+              {
+                "title": "Security and Validation",
+                "topic": [
+                  "Implement input validation and sanitization to prevent common security vulnerabilities.",
+                  "Secure API endpoints to ensure that only authorized users can access and modify data."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "description": [
+              {
+                "title": "Deployment",
+                "topic": [
+                  "Deploy the frontend and backend on separate servers, utilizing platforms like Heroku, AWS, or Azure.",
+                  "Set up continuous integration and deployment (CI/CD) pipelines."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "description": [
+              {
+                "title": "Testing",
+                "topic": [
+                  "Write unit and integration tests for both frontend and backend components.",
+                  "Implement end-to-end testing to ensure the complete functionality of the application."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
