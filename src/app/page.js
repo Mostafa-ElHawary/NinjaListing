@@ -5,39 +5,49 @@ import projectsData from "./projectsdata.json"; // Adjust the path based on your
 
 export default function Home(TeamId) {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-gray-100 p-24">
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 max-w-screen-xl mx-auto">
-        {projectsData.map((project) => (
-          <Link Link href={`/teams/${project.id}/`} passHref
-            key={project.id}
-            className="rounded-lg shadow-md overflow-hidden bg-white transform hover:scale-105 transition-transform duration-300 ease-in-out"
-          >
-            <div className="p-4">
-              <p className="font-bold text-gray-500 text-lg">{project.name}</p>
-              <p className="text-sm text-gray-400 mb-2">{project.techstack}</p>
-              <div className=" flex space-x-1-">
+    <main className="flex min-h-screen flex-col items-center justify-center bg-gray-100 p-8">
+    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 max-w-screen-xl mx-auto">
+      {projectsData.map((project) => (
+        <Link key={project.id} href={`/teams/${project.id}/`} passHref>
+          <div className="rounded-lg shadow-md overflow-hidden bg-white transform hover:scale-105 transition-transform duration-300 ease-in-out ">
+          <div className="relative">
+         
+                <img
+                  key={project.id}
+                  src={project.portfolio}
+                  alt="Event"
+                  className="w-full h-40 object-cover"
+                />
+             
+                <button className="absolute top-2 right-2 text-blue-500 hover:underline">
+                  Edit
+                </button>
+              </div>
+          <div className="p-4">
+              <p className="font-semibold text-gray-800 text-lg">{project.name}</p>
+              <p className="text-sm text-gray-500 mb-2">{project.techstack}</p>
+              <div className="flex space-x-2 items-center">
                 {project.images.map((img) => (
                   <img
                     key={img.id}
                     src={img.url}
                     alt="Team Member"
-                    className="w-5 h-5 rounded-full"
+                    className="w-6 h-6 rounded-full"
                   />
                 ))}
               </div>
-              <div className="mt-4 flex space-x-2">
-                <button className="text-gray-500 hover:text-gray-800">
-                  Edit
-                </button>
-                <button className="text-gray-500 hover:text-gray-800">
-                  Delete
-                </button>
-              </div>
+{
+              // <div className="mt-4">
+              //   <button className="text-blue-500 hover:underline">Edit</button>
+              // </div>
+
+              }
             </div>
-          </Link>
-        ))}
-      </div>
-    </main>
+          </div>
+        </Link>
+      ))}
+    </div>
+  </main>
   );
 }
 

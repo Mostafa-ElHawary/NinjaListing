@@ -25,7 +25,7 @@ function Navbar() {
     <div className="max-w-screen-xl mx-auto flex justify-between items-center py-3 px-6">
       {/* Left */}
       <div className="flex items-center">
-        <div className="rounded-full bg-blue-500 text-white font-semibold text-2xl py-2 px-4">
+        <div className="rounded-full  text-white font-semibold text-2xl py-2 px-4">
           SECU
         </div>
       </div>
@@ -48,7 +48,7 @@ function Navbar() {
       <div className="flex items-center sm:space-x-2 justify-end">
         <Link href="https://web.facebook.com/messages/t/6637727359687956">
           <div className="icon">
-            <ChatIcon className="w-6 h-6 text-blue-500" />
+            <ChatIcon className="w-6 h-6 text-white " />
           </div>
         </Link>
       </div>
