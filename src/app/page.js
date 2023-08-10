@@ -50,11 +50,7 @@ export default function Home(TeamId) {
                         viewBox="0 0 20 20"
                         fill="currentColor"
                       >
-                        <path
-                          fillRule="evenodd"
-                          d="M2 10a8 8 0 118 8 8.01 8.01 0 01-8-8zm9-3a1 1 0 00-1-1 1 1 0 00-1 1v5H6a1 1 0 100 2h3v3a1 1 0 102 0v-3h3a1 1 0 100-2h-3V7z"
-                          clipRule="evenodd"
-                        />
+                      
                       </svg>
                       Interested
                     </button>
@@ -65,16 +61,7 @@ export default function Home(TeamId) {
                         viewBox="0 0 20 20"
                         fill="currentColor"
                       >
-                        <path
-                          fillRule="evenodd"
-                          d="M5 3a2 2 0 012-2h6a2 2 0 012 2v1h2a1 1 0 011 1v13a2 2 0 01-2 2H5a2 2 0 01-2-2V5a1 1 0 011-1h2V3zM3 6v12a1 1 0 001 1h14a1 1 0 001-1V6H3z"
-                          clipRule="evenodd"
-                        />
-                        <path
-                          fillRule="evenodd"
-                          d="M9 2a1 1 0 011-1h2a1 1 0 011 1v1a1 1 0 01-1 1H9a1 1 0 01-1-1V2z"
-                          clipRule="evenodd"
-                        />
+                        
                       </svg>
                       Share
                     </button>
