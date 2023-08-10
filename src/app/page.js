@@ -27,7 +27,7 @@ export default function Home() {
                 />
               </div>
               <p className="font-extrabold text-gray-500 text-xl">
-                {item.title} {index + 1}
+                {item.title} {index + 1} Members
               </p>
               <p className="mb-3 text-sm font-semibold text-gray-400 no-underline" >{item.name}</p>
             </div>

@@ -21,7 +21,6 @@ const projects = [
 
 export default async function Teams({ id }) {
   const paramsId = id;
-  // const teams = await getTeamsData();
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 max-w-screen-xl mx-auto px-4 py-8">
     {projects.map((projectId) => {

@@ -107,7 +107,6 @@ const projects = [
           },
         ],
       },
-
     ],
   },
   {
@@ -138,7 +137,7 @@ const projects = [
             topic: [
               "Instructors can create and manage courses.",
               "Students can browse and enroll in courses.",
-              "Students can browse and enroll in courses."
+              "Students can browse and enroll in courses.",
             ],
           },
         ],
@@ -165,7 +164,7 @@ const projects = [
             topic: [
               "Include a quiz system with various question types (multiple-choice, true/false, etc.).",
               "Allow instructors to create quizzes and assignments for their courses",
-              "Enable students to submit assignments and receive feedback."
+              "Enable students to submit assignments and receive feedback.",
             ],
           },
         ],
@@ -204,7 +203,7 @@ const projects = [
             title: "Search and Filters",
             topic: [
               "Implement a search feature to find courses based on keywords or categories",
-              "Allow users to filter courses by subject, level, instructor, etc."
+              "Allow users to filter courses by subject, level, instructor, etc.",
             ],
           },
         ],
@@ -233,7 +232,6 @@ const projects = [
           },
         ],
       },
-
     ],
   },
 ];
@@ -249,35 +247,36 @@ export default async function Teams({ params }) {
 
   return (
     <div className="min-h-screen p-4 flex justify-center items-center">
-    <div className="bg-white rounded-lg shadow-lg p-6 w-full max-w-xl">
-      <h1 className="text-2xl font-bold mb-4 text-blue-600">
-        {selectedProject.name} features
-      </h1>
-      {selectedProject.features.map((feature) => (
-        <div key={feature.id} className="border-t pt-3">
-          <p className="text-lg font-semibold mb-2 text-gray-800">
-            {feature.name}
-          </p>
-          {feature.description &&
-            feature.description.map((desc, idx) => (
-              <div key={idx} className="pl-4">
-                <p className="text-gray-600 mb-1">
-                  <span className="font-semibold">Title:</span> {desc.title}
-                </p>
-                <div className="mb-1">
-                  <span className="font-semibold text-gray-600 mb-1">Topics:</span>
-                  {desc.topic.map((topic, topicIdx) => (
-                    <p className="text-gray-600" key={topicIdx}>
-                      - {topic}
-                    </p>
-                  ))}
+      <div className="bg-white rounded-lg shadow-lg p-6 w-full max-w-xl">
+        <h1 className="text-2xl font-bold mb-4 text-blue-600">
+          {selectedProject.name} features
+        </h1>
+        {selectedProject.features.map((feature) => (
+          <div key={feature.id} className="border-t pt-3">
+            <p className="text-lg font-semibold mb-2 text-gray-800">
+              {feature.name}
+            </p>
+            {feature.description &&
+              feature.description.map((desc, idx) => (
+                <div key={idx} className="pl-4">
+                  <p className="text-gray-600 mb-1">
+                    <span className="font-semibold">Title:</span> {desc.title}
+                  </p>
+                  <div className="mb-1">
+                    <span className="font-semibold text-gray-600 mb-1">
+                      Topics:
+                    </span>
+                    {desc.topic.map((topic, topicIdx) => (
+                      <p className="text-gray-600" key={topicIdx}>
+                        - {topic}
+                      </p>
+                    ))}
+                  </div>
                 </div>
-              </div>
-            ))}
-        </div>
-      ))}
+              ))}
+          </div>
+        ))}
+      </div>
     </div>
-  </div>
   );
 }
-
