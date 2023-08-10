@@ -1131,243 +1131,168 @@
         "img": "https://cdn.dribbble.com/userupload/3290255/file/original-84cdd6b0e6a7369d13d1fa032eef410d.png?resize=1600x1200",
         "features": [
           {
-            "id": 2,
-            "name": "features ",
+            "id": 1,
+            "name": "User Authentication and Profiles",
             "description": [
               {
-                "title": "Restaurant Listings and Menus",
+                "title": "User Authentication and Profiles",
                 "topic": [
-                  "Restaurants can create and manage their profiles with details, images, and operating hours.",
-                  "Display restaurant menus with item descriptions, prices, and images."
+                  "User registration and login using email or social media accounts.",
+                  "User profiles with order history, delivery addresses, and payment methods."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Restaurant Listings",
+            "description": [
+              {
+                "title": "Restaurant Listings",
+                "topic": [
+                  "Display a list of restaurants with images, ratings, and delivery time estimates.",
+                  "Search and filter options based on cuisine, location, and ratings."
                 ]
               }
             ]
           },
           {
             "id": 3,
-            "name": "features ",
+            "name": "Menu Exploration",
             "description": [
               {
-                "title": "Food Ordering and Cart",
+                "title": "Menu Exploration",
                 "topic": [
-                  "Customers can add items to their cart, customize orders, and proceed to checkout.",
-                  "Support multiple items, quantities, and special instructions."
+                  "Users can explore restaurant menus with item descriptions, images, and prices.",
+                  "Categorized menus for easy navigation."
                 ]
               }
             ]
           },
           {
             "id": 4,
-            "name": "features ",
+            "name": "Food Ordering",
             "description": [
               {
-                "title": "Location-based Search",
+                "title": "Food Ordering",
                 "topic": [
-                  "Implement geolocation to allow users to find restaurants and delivery options near their location.",
-                  "Display restaurants on a map with distance indicators."
+                  "Users can add items to their cart, customize orders (e.g., toppings), and specify delivery details.",
+                  "Real-time price calculation and order summary."
                 ]
               }
             ]
           },
           {
             "id": 5,
-            "name": "features ",
+            "name": "Payment Integration",
             "description": [
               {
                 "title": "Payment Integration",
                 "topic": [
-                  "Integrate payment gateways (e.g., Stripe, PayPal) for secure transactions.",
-                  "Allow customers to save payment methods for quick checkout."
+                  "Integration with payment gateways for secure online payments.",
+                  "Support for multiple payment methods like credit cards, mobile wallets, and cash on delivery."
                 ]
               }
             ]
           },
           {
             "id": 6,
-            "name": "features ",
+            "name": "Order Tracking",
             "description": [
               {
                 "title": "Order Tracking",
                 "topic": [
-                  "Provide real-time order tracking, allowing customers to monitor the status of their orders.",
-                  "Notify users about order preparation, delivery, and estimated arrival time."
+                  "Real-time order tracking with updates on order preparation, delivery, and estimated arrival time.",
+                  "Notifications via SMS or app notifications."
                 ]
               }
             ]
           },
           {
             "id": 7,
-            "name": "features ",
+            "name": "Ratings and Reviews",
             "description": [
               {
-                "title": "Rating and Reviews",
+                "title": "Ratings and Reviews",
                 "topic": [
-                  "Customers can rate and review restaurants and dishes.",
-                  "Showcase average ratings and customer feedback for each restaurant."
+                  "Users can rate restaurants and leave reviews for dishes.",
+                  "Display average ratings and reviews on restaurant and dish pages."
                 ]
               }
             ]
           },
           {
             "id": 8,
-            "name": "features ",
+            "name": "Promotions and Discounts",
             "description": [
               {
-                "title": "Restaurant Dashboard",
+                "title": "Promotions and Discounts",
                 "topic": [
-                  "Restaurants have access to a dashboard to manage orders, update menus, and track sales.",
-                  "Receive notifications about new orders and manage order fulfillment."
+                  "Apply promo codes and discounts during checkout.",
+                  "Highlight ongoing offers and promotions."
                 ]
               }
             ]
           },
           {
             "id": 9,
-            "name": "features ",
+            "name": "Delivery Management",
             "description": [
               {
-                "title": "Promotions and Discounts",
+                "title": "Delivery Management",
                 "topic": [
-                  "Allow restaurants to offer special promotions, discounts, and coupon codes.",
-                  "Display active promotions on restaurant profiles."
+                  "Backend for delivery personnel to manage order assignments, status updates, and navigation.",
+                  "Real-time updates on order assignments and location."
                 ]
               }
             ]
           },
           {
             "id": 10,
-            "name": "features ",
+            "name": "Customer Support",
             "description": [
               {
-                "title": "Driver and Delivery Management",
+                "title": "Customer Support",
                 "topic": [
-                  "Implement a driver management system to assign drivers to orders and track deliveries.",
-                  "Allow drivers to update order statuses and communicate with customers."
+                  "In-app chat or support ticket system for addressing user inquiries and issues."
                 ]
               }
             ]
           },
           {
             "id": 11,
-            "name": "features ",
+            "name": "Admin Dashboard",
             "description": [
               {
-                "title": "Responsive Design",
+                "title": "Admin Dashboard",
                 "topic": [
-                  "Ensure the platform is accessible and user-friendly on various devices, including mobile phones and tablets."
+                  "Dashboard for restaurant owners to manage menus, update availability, and process orders.",
+                  "Admin panel to monitor platform health, user activity, and resolve disputes."
                 ]
               }
             ]
           },
           {
             "id": 12,
-            "name": "features ",
+            "name": "Data Analytics",
             "description": [
               {
-                "title": "Backend Services",
+                "title": "Data Analytics",
                 "topic": [
-                  "Develop a backend server using technologies like Node.js, Express, or Django.",
-                  "Create RESTful APIs for user management, order processing, and data storage."
+                  "Analyze user behavior, popular dishes, and peak ordering times.",
+                  "Generate insights to improve user experience and business decisions."
                 ]
               }
             ]
           },
           {
             "id": 13,
-            "name": "features ",
+            "name": "Responsive Design",
             "description": [
               {
-                "title": "Database Management",
+                "title": "Responsive Design",
                 "topic": [
-                  "Choose a database such as PostgreSQL or MongoDB to store user profiles, restaurant details, and order information."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 14,
-            "name": "features ",
-            "description": [
-              {
-                "title": "User Data Privacy and Security",
-                "topic": [
-                  "Implement encryption for sensitive user information and payment data.",
-                  "Follow data protection regulations."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 15,
-            "name": "features ",
-            "description": [
-              {
-                "title": "Deployment and Hosting",
-                "topic": [
-                  "Deploy the frontend on platforms like Netlify or Vercel.",
-                  "Host the backend on services like Heroku or AWS."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 16,
-            "name": "features ",
-            "description": [
-              {
-                "title": "Testing and Quality",
-                "topic": [
-                  "Conduct thorough testing to ensure a smooth user experience and order flow."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 17,
-            "name": "features ",
-            "description": [
-              {
-                "title": "Customer Support Chat",
-                "topic": [
-                  "Implement a real-time chat system for customers to contact support and resolve issues."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 18,
-            "name": "features ",
-            "description": [
-              {
-                "title": "Multi-Language Support",
-                "topic": [
-                  "Offer language options to accommodate users from different regions.",
-                  "Provide translated menus and interface."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 19,
-            "name": "features ",
-            "description": [
-              {
-                "title": "Offline Mode and Notifications",
-                "topic": [
-                  "Allow users to access basic functionality and view orders in an offline mode",
-                  "Send push notifications about order updates."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 20,
-            "name": "features ",
-            "description": [
-              {
-                "title": "Inventory Management (Optional)",
-                "topic": [
-                  "Integrate inventory tracking for restaurants to manage ingredient availability and prevent overordering."
+                  "Ensure the platform is accessible and user-friendly across various devices."
                 ]
               }
             ]
