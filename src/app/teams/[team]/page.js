@@ -9,7 +9,7 @@ export default async function Teams({ params }) {
   const paramsId = params.team;
   console.log(paramsId);
   return (
-    <div className="max-w-screen-xl mx-auto px-4 py-8 lg:dark:bg-zinc-800/30 dark:bg-gray-900">
+    <div className="max-w-screen-xl mx-auto px-4 py-8  dark:bg-gray-900">
     {projectsData.map((team) => {
       if (team.id == paramsId) {
         return team.projects.map((project) => (
