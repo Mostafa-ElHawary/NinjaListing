@@ -5,7 +5,7 @@ import projectsData from "./projectsdata.json"; // Adjust the path based on your
 
 export default function Home(TeamId) {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-gray-100 p-8">
+    <main className="flex min-h-screen flex-col items-center justify-center lg:dark:bg-zinc-800/30 dark:bg-gray-900 p-8">
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 max-w-screen-xl mx-auto">
       {projectsData.map((project) => (
         <Link key={project.id} href={`/teams/${project.id}/`} passHref>
