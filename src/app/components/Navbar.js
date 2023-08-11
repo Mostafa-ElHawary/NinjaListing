@@ -21,7 +21,7 @@ import {
 
 function Navbar() {
   return (
-    <div className="bg-twitter-blue">
+    <div className="">
       <div className="max-w-screen-xl mx-auto flex justify-between items-center py-3 px-6">
         {/* Left */}
         <div className="flex items-center">

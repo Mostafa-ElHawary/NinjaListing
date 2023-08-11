@@ -16,9 +16,11 @@ export default function Home(TeamId) {
                   alt="Event"
                   className="w-full h-40 object-cover"
                 />
-                <button className="absolute top-2 right-2 text-blue-500 hover:underline">
-                  Edit
-                </button>
+                {
+                  // <button className="absolute top-2 right-2 text-blue-500 hover:underline">
+                  //   Edit
+                  // </button>
+                }
               </div>
               <div className="p-4">
                 <p className="font-semibold text-gray-800 text-lg">
@@ -30,14 +32,12 @@ export default function Home(TeamId) {
 
                 <div className="flex mb-5 -space-x-1">
                   {project.images.map((img) => (
-                   
-                      <img
+                    <img
                       key={img.id}
-                        src={img.url}
-                        alt="Team Member"
-                        className="w-5 h-5 rounded-full"
-                      />
-                 
+                      src={img.url}
+                      alt="Team Member"
+                      className="w-5 h-5 rounded-full"
+                    />
                   ))}
                 </div>
 
@@ -49,9 +49,7 @@ export default function Home(TeamId) {
                         className="h-4 w-4 mr-1"
                         viewBox="0 0 20 20"
                         fill="currentColor"
-                      >
-                      
-                      </svg>
+                      ></svg>
                       Interested
                     </button>
                     <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-3 py-1 text-sm">
@@ -60,10 +58,8 @@ export default function Home(TeamId) {
                         className="h-4 w-4 mr-1"
                         viewBox="0 0 20 20"
                         fill="currentColor"
-                      >
-                        
-                      </svg>
-                      Share
+                      ></svg>
+                      Edit
                     </button>
                   </div>
                   <p className="text-gray-400 text-sm">{project.date}</p>
