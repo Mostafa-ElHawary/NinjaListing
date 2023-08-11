@@ -1,5 +1,4 @@
 /* eslint-disable @next/next/no-img-element */
-
 import Link from "next/link";
 import projectsData from "../../../projectsdata.json";
 export default async function Teams({ params }) {
@@ -45,7 +44,7 @@ export default async function Teams({ params }) {
         Like
       </button>
     </div>
-    <p className="text-gray-800">{selectedProject.conclusions}</p>
+    <p className="text-gray-800">{selectedProject.conclusions.map((data)=> data.title)}</p>
     {selectedProject.features.map((feature) => (
       <div key={feature.id} className="border-t pt-4 mt-4">
         <div className="mb-3">

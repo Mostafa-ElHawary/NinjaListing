@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Team 1",
     "techstack": "React | Node",
-    "portfolio":"https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
+    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
     "images": [
       {
         "id": 1,
@@ -39,7 +39,32 @@
         "id": 1,
         "name": " Online Marketplace for Local Artisans ",
         "description": "Create an online marketplace that connects local artisans and craftsmen with potential customers. The platform will allow artisans to showcase their products, manage orders, and interact with buyers, while customers can discover unique handmade items from their local community.",
-        "conclusions": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
+
+        "conclusions": [
+          {
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers."
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
         "img": "https://cdn.dribbble.com/users/1895316/screenshots/17237179/media/af4a5e099516217b2d1ecf89f20a0d21.png?resize=1000x750&vertical=center",
         "features": [
           {
@@ -286,7 +311,31 @@
         "id": 2,
         "name": " Task and Project Management System",
         "description": "Develop a comprehensive task and project management system that helps individuals and teams organize, track, and collaborate on tasks and projects. The system will provide a user-friendly interface for managing tasks, setting priorities, assigning responsibilities, and monitoring progress.",
-        "conclusions": "By creating a task and project management system, you'll demonstrate your full-stack development skills and provide a valuable tool for individuals and teams to stay organized, collaborate effectively, and achieve their goals.",
+        "conclusions": [
+          {
+            "title": "By creating a task and project management system, you'll demonstrate your full-stack development skills and provide a valuable tool for individuals and teams to stay organized, collaborate effectively, and achieve their goals.."
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
         "img": "https://cdn.dribbble.com/userupload/4014289/file/original-0f17695dbe19fe7ff5bfdfb19c89cae8.png?resize=1024x768",
         "features": [
           {
@@ -555,7 +604,7 @@
     "id": 2,
     "name": "Team 2",
     "techstack": "Angular | .NET",
-    "portfolio":"https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
+    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
     "images": [
       {
         "id": 1,
@@ -587,7 +636,31 @@
         "id": 1,
         "name": " Online Learning Platform ",
         "description": "Create a comprehensive online learning platform where users can access and learn from a variety of courses. The platform will have features for course enrollment, progress tracking, interactive lessons, and user engagement.",
-        "conclusions": "Building an online learning platform with these features will not only showcase your full-stack development skills but also provide a valuable resource for learners seeking to expand their knowledge. Be sure to prioritize user experience, security, and scalability while creating this project. As you work on each feature, you'll gain insights into frontend, backend, database management, user experience design, and more.",
+        "conclusions": [
+          {
+            "title": "Building an online learning platform with these features will not only showcase your full-stack development skills but also provide a valuable resource for learners seeking to expand their knowledge. Be sure to prioritize user experience, security, and scalability while creating this project. As you work on each feature, you'll gain insights into frontend, backend, database management, user experience design, and more."
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
         "img": "https://cdn.dribbble.com/users/5606997/screenshots/17646996/media/8de733949679e1838416a55d889e4187.png",
         "features": [
           {
@@ -830,7 +903,31 @@
         "id": 2,
         "name": " Fitness Tracking App ",
         "description": "Develop a comprehensive fitness tracking application that allows users to set fitness goals, track their activities, and monitor their progress. The app will encompass both frontend and backend components, employing modern technologies to provide an engaging fitness experience.",
-        "conclusions": "By building a fitness tracking app with these features, you'll demonstrate your full-stack development skills and create a valuable tool for individuals looking to improve their health and fitness.",
+        "conclusions": [
+          {
+            "title": "By building a fitness tracking app with these features, you'll demonstrate your full-stack development skills and create a valuable tool for individuals looking to improve their health and fitness."
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
         "img": "https://cdn.dribbble.com/userupload/6543087/file/original-c5500bf122feb8bbe1c329bba5389ae9.png?resize=1905x1429",
         "features": [
           {
@@ -1098,7 +1195,7 @@
     "id": 3,
     "name": "Team 3",
     "techstack": "React | Node",
-    "portfolio":"https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
+    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
     "images": [
       {
         "id": 1,
@@ -1130,7 +1227,31 @@
         "id": 1,
         "name": " Online Food Delivery Platform ",
         "description": "Build a comprehensive online food delivery platform that connects customers with local restaurants, allowing them to browse menus, place orders, and have their favorite meals delivered to their doorstep. The platform should provide a user-friendly experience for both customers and restaurant owners",
-        "conclusions": "By building an online food delivery platform, you'll gain experience in creating a system that connects customers, restaurants, and delivery drivers while considering various aspects of user experience, payment integration, and real-time tracking",
+        "conclusions": [
+          {
+            "title": "By building an online food delivery platform, you'll gain experience in creating a system that connects customers, restaurants, and delivery drivers while considering various aspects of user experience, payment integration, and real-time tracking"
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
         "img": "https://cdn.dribbble.com/userupload/3290255/file/original-84cdd6b0e6a7369d13d1fa032eef410d.png?resize=1600x1200",
         "features": [
           {
@@ -1306,7 +1427,31 @@
         "id": 2,
         "name": " Personal Finance Management App ",
         "description": "Develop a web-based personal finance management application that helps users track their income, expenses, budgets, and financial goals. The app will provide insights into their financial health and offer tools for better money management.",
-        "conclusions": "Creating a personal finance management app will empower users to take control of their finances, while you gain experience in designing user-friendly interfaces, implementing secure data handling, and developing insightful analytics",
+        "conclusions": [
+          {
+            "title": "Creating a personal finance management app will empower users to take control of their finances, while you gain experience in designing user-friendly interfaces, implementing secure data handling, and developing insightful analytics"
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
         "img": "https://cdn.dribbble.com/userupload/7795193/file/original-98f229847ff3c86f22a2de2fd5f31ea9.png?resize=1600x1200",
         "features": [
           {
@@ -1568,7 +1713,7 @@
     "id": 4,
     "name": "Team 4",
     "techstack": "Angular | laravel",
-    "portfolio":"https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
+    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
     "images": [
       {
         "id": 1,
@@ -1604,7 +1749,31 @@
         "id": 1,
         "name": " Online Marketplace for Handmade Crafts ",
         "description": "Create an online platform where artisans and crafters can showcase and sell their unique handmade crafts, while customers can browse and purchase these items. The platform will provide a marketplace for connecting creators and buyers, enhancing the appreciation of handcrafted products.",
-        "conclusions": "By building an online marketplace for handmade crafts, you'll not only support artisans but also gain experience in designing user-friendly interfaces, managing transactions, and creating a vibrant community platform.",
+        "conclusions": [
+          {
+            "title": "By building an online marketplace for handmade crafts, you'll not only support artisans but also gain experience in designing user-friendly interfaces, managing transactions, and creating a vibrant community platform."
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
         "img": "https://cdn.dribbble.com/userupload/3248151/file/original-5e54831e0f42cc6c4d40daae50979df3.png?resize=1600x1200",
         "features": [
           {
@@ -1864,7 +2033,31 @@
         "id": 2,
         "name": " Recipe Sharing and Meal Planning App ",
         "description": "Develop a web-based platform where users can discover, share, and plan meals. The app will allow users to explore new recipes, create meal plans, and collaborate with others to enhance their cooking and meal preparation experience.",
-        "conclusions": "By building a recipe sharing and meal planning app, you'll create a valuable resource for food enthusiasts, gain experience in creating interactive interfaces, handling user-generated content, and facilitating collaboration.",
+        "conclusions": [
+          {
+            "title": "By building a recipe sharing and meal planning app, you'll create a valuable resource for food enthusiasts, gain experience in creating interactive interfaces, handling user-generated content, and facilitating collaboration."
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
         "img": "https://cdn.dribbble.com/users/1804673/screenshots/12209180/media/0df0e84fa3e27d1bc07bdff7726efced.png",
         "features": [
           {
@@ -2126,7 +2319,7 @@
     "id": 5,
     "name": "Team 5",
     "techstack": "React | Node",
-    "portfolio":"https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
+    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
     "images": [
       {
         "id": 1,
@@ -2154,7 +2347,31 @@
         "id": 1,
         "name": " Online Learning Management System ",
         "description": "Develop a comprehensive online learning management system that allows instructors to create and deliver courses, manage student enrollments, and facilitate interactive learning experiences. The platform will empower instructors to share their expertise and engage with students effectively.",
-        "conclusions": "By building an online learning management system, you'll provide a platform for instructors to share knowledge effectively and engage with students in a meaningful way, while gaining experience in designing educational interfaces, managing user interactions, and delivering engaging content.",
+        "conclusions": [
+          {
+            "title": "By building an online learning management system, you'll provide a platform for instructors to share knowledge effectively and engage with students in a meaningful way, while gaining experience in designing educational interfaces, managing user interactions, and delivering engaging content."
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
         "img": "https://cdn.dribbble.com/userupload/4020341/file/original-84270be086ac1611476289257ab639d9.png?resize=1905x1429",
         "features": [
           {
@@ -2414,7 +2631,31 @@
         "id": 2,
         "name": " Online Marketplace Platform ",
         "description": "Develop an online marketplace platform that allows users to buy and sell various products. This project will cover a wide range of functionalities and technologies, making it an excellent opportunity for students to learn about full-stack development.",
-        "conclusions": "This project will help students develop practical skills in building complex web applications, handling user interactions, managing databases, integrating external services, and implementing security measures. The real-world scenario of an online marketplace covers a broad range of features commonly found in modern web applications, making it an excellent learning opportunity.",
+        "conclusions": [
+          {
+            "title": "This project will help students develop practical skills in building complex web applications, handling user interactions, managing databases, integrating external services, and implementing security measures. The real-world scenario of an online marketplace covers a broad range of features commonly found in modern web applications, making it an excellent learning opportunity."
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
         "img": "https://cdn.dribbble.com/userupload/2578697/file/original-12b84ee6ffdd1c6bc33d4c4bac7f625c.png?resize=1600x1200",
         "features": [
           {
@@ -2573,7 +2814,7 @@
     "id": 6,
     "name": "Team 6",
     "techstack": "React | Node",
-    "portfolio":"https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
+    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
     "images": [
       {
         "id": 1,
@@ -2597,7 +2838,31 @@
         "id": 1,
         "name": " Social Media Platform ",
         "description": "Create a social media platform that enables users to connect, share posts, and engage with content. This project will give your students a chance to delve into various aspects of full-stack development, from user interactions to data management.",
-        "conclusions": "Developing a social media platform involves a wide range of technical challenges, including user interactions, real-time communication, data management, and responsive design. This project will help your students gain practical experience in creating dynamic web applications with a focus on user engagement and interaction.",
+        "conclusions": [
+          {
+            "title": "Developing a social media platform involves a wide range of technical challenges, including user interactions, real-time communication, data management, and responsive design. This project will help your students gain practical experience in creating dynamic web applications with a focus on user engagement and interaction."
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
         "img": "https://cdn.dribbble.com/users/1788965/screenshots/17000563/media/ead6692ef2ceab36459a0214a543a166.png",
         "features": [
           {
@@ -2750,7 +3015,31 @@
         "id": 2,
         "name": " E-Commerce Platform ",
         "description": "Develop an e-commerce platform that enables users to browse, shop, and manage their orders. This project will provide your students with valuable experience in building a complex web application that involves various aspects of full-stack development.",
-        "conclusions": "Building an e-commerce platform involves various challenges like handling user data securely, managing transactions, and providing a seamless user experience. This project will enable your students to gain hands-on experience with the intricacies of full-stack development while working on a project that closely resembles real-world applications.",
+        "conclusions": [
+          {
+            "title": "Building an e-commerce platform involves various challenges like handling user data securely, managing transactions, and providing a seamless user experience. This project will enable your students to gain hands-on experience with the intricacies of full-stack development while working on a project that closely resembles real-world applications."
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
         "img": "https://cdn.dribbble.com/userupload/3956908/file/original-330b830777da492ec3c5dfebb0ea4e45.png?resize=1000x750",
         "features": [
           {
@@ -2919,7 +3208,7 @@
     "id": 7,
     "name": "Team 7",
     "techstack": "Angular | laravel",
-    "portfolio":"https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
+    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=BasAmNBndpQAX8ecVES&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDa0yt6JEjEeoXrPvfaMO26ddnzymx44pEejYLPZ9gPlQ&oe=64D97BFA",
     "images": [
       {
         "id": 1,
@@ -2947,7 +3236,31 @@
         "id": 1,
         "name": " Online Event Management System ",
         "description": "Develop a comprehensive online platform that enables event organizers to create, manage, and promote various events while allowing attendees to browse and register for these events.",
-        "conclusions": "An Online Event Management System project provides students with hands-on experience in building a platform that connects event organizers and attendees. It covers user authentication, data management, real-time interactions, and analytics, offering a well-rounded learning opportunity in full-stack development.",
+        "conclusions": [
+          {
+            "title": "An Online Event Management System project provides students with hands-on experience in building a platform that connects event organizers and attendees. It covers user authentication, data management, real-time interactions, and analytics, offering a well-rounded learning opportunity in full-stack development."
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
         "img": "https://cdn.dribbble.com/users/5031392/screenshots/14547016/media/5f1ea18845904c363792ed5145e47348.png",
         "features": [
           {
@@ -3099,8 +3412,32 @@
         "id": 2,
         "name": " Online Task Management System ",
         "description": "Create an online task management system that allows users to create, organize, and track their tasks. The system will consist of a web application with both frontend and backend components. This project will cover various aspects of full-stack development, including user authentication, database management, API design, and responsive frontend design.",
-        "conclusions": "This project idea covers a wide range of technologies and concepts, including frontend development (HTML/CSS/JavaScript), backend development (Node.js, Express), database management (SQL or NoSQL), user authentication, API design, real-time updates, and deployment. It provides ample opportunities for your students to learn and practice full-stack development skills.",
-        "img":"https://cdn.dribbble.com/users/443226/screenshots/7141724/media/72d3e061d067fdc7452389289acc0982.jpg",
+        "conclusions": [
+          {
+            "title": "This project idea covers a wide range of technologies and concepts, including frontend development (HTML/CSS/JavaScript), backend development (Node.js, Express), database management (SQL or NoSQL), user authentication, API design, real-time updates, and deployment. It provides ample opportunities for your students to learn and practice full-stack development skills."
+          },
+          {
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+              }
+            ]
+          }
+        ],
+        "img": "https://cdn.dribbble.com/users/443226/screenshots/7141724/media/72d3e061d067fdc7452389289acc0982.jpg",
         "features": [
           {
             "id": 1,
