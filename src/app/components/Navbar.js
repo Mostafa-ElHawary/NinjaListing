@@ -21,18 +21,21 @@ import {
 
 function Navbar() {
   return (
-    <div className="sticky top-0 z-50 max-w-screen-xl mx-auto flex justify-between items-center py-3 px-6 bg-white shadow-2xl hover:shadow-lg">
+    <div className="sticky top-0 z-50 max-w-screen-4xl mx-auto flex justify-between items-center py-3 px-6 bg-white shadow-2xl hover:shadow-lg">
       {/* Left */}
       <Link href="/" className="flex items-center">
         <div className="text-blue-600 font-bold text-lg">SECU</div>
       </Link>
 
-      {/* Right */}
-
       <div className="flex space-x-6 md:space-x-4 items-center">
-        <Link href="https://web.facebook.com/messages/t/6637727359687956">
-          <div className="icon text-gray-600 hover:text-twitter-lightblue text-lg md:text-xl">
-            <ChatIcon className="w-6 h-6 text-blue-600" />
+        <Link href="/">
+          <div className="text-blue-600 hover:text-twitter-lightblue text-lg md:text-xl">
+            Home
+          </div>
+        </Link>
+        <Link href="https://web.facebook.com/groups/680461723922372/">
+          <div className="text-blue-600 hover:text-twitter-lightblue text-lg md:text-xl">
+            Our group
           </div>
         </Link>
       </div>
