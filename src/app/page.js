@@ -22,7 +22,7 @@ export default function Home(TeamId) {
                   // </button>
                 }
               </div>
-              <div className="p-4">
+              <div className="p-5">
                 <p className="font-semibold text-gray-800 text-lg">
                   {project.name}
                 </p>
@@ -43,23 +43,23 @@ export default function Home(TeamId) {
 
                 <div className="flex justify-between items-center">
                   <div className="flex space-x-2">
-                    <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-3 py-1 text-sm">
+                    <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-10 py-1 text-md">
+                      Interested
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         className="h-4 w-4 mr-1"
                         viewBox="0 0 20 20"
                         fill="currentColor"
                       ></svg>
-                      Interested
                     </button>
                     <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-3 py-1 text-sm">
+                      Edit
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         className="h-4 w-4 mr-1"
                         viewBox="0 0 20 20"
                         fill="currentColor"
                       ></svg>
-                      Edit
                     </button>
                   </div>
                   <p className="text-gray-400 text-sm">{project.date}</p>
