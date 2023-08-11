@@ -10,11 +10,14 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className="dark:bg-gray-900">
-      <body className=" dark:bg-gray-900">
+    <html lang="en" className="">
+      <body className=" ">
         <Navbar />
         <div className="">{children}</div>
       </body>
     </html>
   );
 }
+
+// dark:bg-gray-900
+//dark:bg-gray-900
