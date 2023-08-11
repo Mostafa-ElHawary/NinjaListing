@@ -21,69 +21,55 @@ import {
 
 function Navbar() {
   return (
-    <div className="sticky max-w-screen-xl mx-auto flex justify-between items-center py-3 px-6 bg-white shadow-md">
+    <div className="sticky top-0 z-50 max-w-screen-xl mx-auto flex justify-between items-center py-3 px-6 bg-white shadow-lg">
       {/* Left */}
       <Link href="/" className="flex items-center">
-        <div className="text-gray-600 font-bold text-lg">SECU</div>
+        <div className="text-blue-600 font-bold text-lg">SECU</div>
       </Link>
 
-      {/* Center */}
+      {/* Right */}
+
       <div className="flex space-x-6 md:space-x-4 items-center">
-        <NavbarIcon Icon={HomeIcon} href="/" />
         <Link href="https://web.facebook.com/messages/t/6637727359687956">
           <div className="icon text-gray-600 hover:text-twitter-lightblue text-lg md:text-xl">
-            <ChatIcon className="w-6 h-6 text-blue-500" />
+            <ChatIcon className="w-6 h-6 text-blue-600" />
           </div>
         </Link>
       </div>
-
-      {/* Right */}
-      <div className="flex items-center space-x-4">
-        <div className="flex items-center">
-          <img
-            src="https://static.vecteezy.com/system/resources/previews/002/387/693/large_2x/user-profile-icon-free-vector.jpg" // Replace with your profile image URL
-            alt="Profile"
-            className="w-8 h-8 rounded-full ml-2"
-          />
-        </div>
-      </div>
     </div>
   );
-};
+}
 
 export default Navbar;
 
 {
-// <div className="max-w-screen-xl mx-auto flex justify-between items-center py-3 px-6">
-// {/* Left */}
-// <div className="flex items-center">
-//   <div className="text-white font-bold text-lg">SECU</div>
-// </div>
-
-// {/* Center */}
-// <div className="flex space-x-6 md:space-x-4 items-center">
-//   <Link href="/">
-//     <div className="text-white hover:text-twitter-lightblue text-lg md:text-xl">
-//       Home
-//     </div>
-//   </Link>
-//   <Link href="https://web.facebook.com/messages/t/6637727359687956">
-//     <div className="text-white hover:text-twitter-lightblue text-lg md:text-xl">
-//       Messages
-//     </div>
-//   </Link>
-// </div>
-
-// {/* Right */}
-// <div className="flex items-center space-x-4">
-//   <div className="flex items-center">
-//     <img
-//       src="https://static.vecteezy.com/system/resources/previews/002/387/693/large_2x/user-profile-icon-free-vector.jpg" // Replace with your profile image URL
-//       alt="Profile"
-//       className="w-8 h-8 rounded-full ml-2"
-//     />
-//   </div>
-// </div>
-// </div>
-
+  // <div className="max-w-screen-xl mx-auto flex justify-between items-center py-3 px-6">
+  // {/* Left */}
+  // <div className="flex items-center">
+  //   <div className="text-white font-bold text-lg">SECU</div>
+  // </div>
+  // {/* Center */}
+  // <div className="flex space-x-6 md:space-x-4 items-center">
+  //   <Link href="/">
+  //     <div className="text-white hover:text-twitter-lightblue text-lg md:text-xl">
+  //       Home
+  //     </div>
+  //   </Link>
+  //   <Link href="https://web.facebook.com/messages/t/6637727359687956">
+  //     <div className="text-white hover:text-twitter-lightblue text-lg md:text-xl">
+  //       Messages
+  //     </div>
+  //   </Link>
+  // </div>
+  // {/* Right */}
+  // <div className="flex items-center space-x-4">
+  //   <div className="flex items-center">
+  //     <img
+  //       src="https://static.vecteezy.com/system/resources/previews/002/387/693/large_2x/user-profile-icon-free-vector.jpg" // Replace with your profile image URL
+  //       alt="Profile"
+  //       className="w-8 h-8 rounded-full ml-2"
+  //     />
+  //   </div>
+  // </div>
+  // </div>
 }
