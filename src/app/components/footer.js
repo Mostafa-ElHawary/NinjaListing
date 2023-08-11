@@ -13,8 +13,8 @@ const Footer = () => {
         <div className="container mx-auto px-4 flex justify-end items-center space-x-4">
           <Link href="https://web.facebook.com/messages/t/6637727359687956">
             <div className="flex items-center  text-blue-600 hover:text-blue-600">
-              <ChatIcon className="w-6 h-6 mr-2" />
-              <span className=" md:inline">Chat</span>
+            <span className=" md:inline font-bold text-lg md:text-xl">Chat</span>
+              <ChatIcon className="w-6 h-6 ml-2" />
             </div>
           </Link>
         </div>

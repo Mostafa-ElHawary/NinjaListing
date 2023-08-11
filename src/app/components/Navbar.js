@@ -29,12 +29,12 @@ function Navbar() {
 
       <div className="flex space-x-6 md:space-x-4 items-center">
         <Link href="/">
-          <div className="text-blue-600 hover:text-twitter-lightblue text-lg md:text-xl">
+          <div className="text-blue-600  font-bold text-lg md:text-xl">
             Home
           </div>
         </Link>
         <Link href="https://web.facebook.com/groups/680461723922372/">
-          <div className="text-blue-600 hover:text-twitter-lightblue text-lg md:text-xl">
+          <div className="text-blue-600 font-bold text-lg md:text-xl">
             Our group
           </div>
         </Link>
