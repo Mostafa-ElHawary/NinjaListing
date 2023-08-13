@@ -39,33 +39,32 @@
         "id": 1,
         "name": " Online Marketplace for Local Artisans ",
         "description": "Create an online marketplace that connects local artisans and craftsmen with potential customers. The platform will allow artisans to showcase their products, manage orders, and interact with buyers, while customers can discover unique handmade items from their local community.",
-
         "conclusions": [
           {
-            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers."
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
-              {
-                "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
-              },
+            {
+              "id":1,
+              "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/b0fef5167600909.642bf6cd1fce6.jpg"
+            }
+            ,
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
+                "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/424c02167600909.642bf6cd22c61.jpg"
               },
               {
                 "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+                "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/aa6401167600909.642bf6cd21f5f.jpg"
               },
               {
-                "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "id":4,
+                "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/5503f2167600909.642bf6cd20d64.jpg"
               }
             ]
           }
         ],
-        "img": "https://cdn.dribbble.com/users/1895316/screenshots/17237179/media/af4a5e099516217b2d1ecf89f20a0d21.png?resize=1000x750&vertical=center",
+        "img": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b0fef5167600909.642bf6cd1fce6.jpg",
         "features": [
           {
             "id": 1,
@@ -313,30 +312,42 @@
         "description": "Develop a comprehensive task and project management system that helps individuals and teams organize, track, and collaborate on tasks and projects. The system will provide a user-friendly interface for managing tasks, setting priorities, assigning responsibilities, and monitoring progress.",
         "conclusions": [
           {
-            "title": "By creating a task and project management system, you'll demonstrate your full-stack development skills and provide a valuable tool for individuals and teams to stay organized, collaborate effectively, and achieve their goals.."
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+                "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/97d35e153992141.633a5fda9cfe0.png"
               },
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
-              },
+                "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/98b8df153992141.633a5fda9dca2.png"
+              }
+              ,
               {
                 "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
+                "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/94dce1153992141.633a5fda9f5de.png"
               },
               {
                 "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/9c71c5153992141.633a5fdaa1d78.png"
+              },
+              {
+                "id":5,
+                "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/bd23d4153992141.633a5fdaa447d.png"
+              },
+              {
+                "id":6,
+                "image":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/176cf8153992141.633a5fdaa0249.png"
+              },
+              {
+                "id":7,
+                "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6bbb37153992141.633a5fdaa29de.png"
               }
             ]
           }
         ],
-        "img": "https://cdn.dribbble.com/userupload/4014289/file/original-0f17695dbe19fe7ff5bfdfb19c89cae8.png?resize=1024x768",
+        "img": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/97d35e153992141.633a5fda9cfe0.png",
         "features": [
           {
             "id": 1,
@@ -638,30 +649,22 @@
         "description": "Create a comprehensive online learning platform where users can access and learn from a variety of courses. The platform will have features for course enrollment, progress tracking, interactive lessons, and user engagement.",
         "conclusions": [
           {
-            "title": "Building an online learning platform with these features will not only showcase your full-stack development skills but also provide a valuable resource for learners seeking to expand their knowledge. Be sure to prioritize user experience, security, and scalability while creating this project. As you work on each feature, you'll gain insights into frontend, backend, database management, user experience design, and more."
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+                "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/599410175242985.64b004bbca2aa.png"
               },
+             
               {
-                "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
-              },
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
-              },
-              {
-                "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "id":2,
+                "image":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d3c52e175242985.64b004bbcb097.png"
               }
             ]
           }
         ],
-        "img": "https://cdn.dribbble.com/users/5606997/screenshots/17646996/media/8de733949679e1838416a55d889e4187.png",
+        "img": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/6a5c26175242985.64b004bbcc0f3.png",
         "features": [
           {
             "id": 1,
@@ -905,25 +908,16 @@
         "description": "Develop a comprehensive fitness tracking application that allows users to set fitness goals, track their activities, and monitor their progress. The app will encompass both frontend and backend components, employing modern technologies to provide an engaging fitness experience.",
         "conclusions": [
           {
-            "title": "By building a fitness tracking app with these features, you'll demonstrate your full-stack development skills and create a valuable tool for individuals looking to improve their health and fitness."
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
               },
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
-              },
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
-              },
-              {
-                "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
               }
             ]
           }
@@ -1229,25 +1223,16 @@
         "description": "Build a comprehensive online food delivery platform that connects customers with local restaurants, allowing them to browse menus, place orders, and have their favorite meals delivered to their doorstep. The platform should provide a user-friendly experience for both customers and restaurant owners",
         "conclusions": [
           {
-            "title": "By building an online food delivery platform, you'll gain experience in creating a system that connects customers, restaurants, and delivery drivers while considering various aspects of user experience, payment integration, and real-time tracking"
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
               },
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
-              },
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
-              },
-              {
-                "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
               }
             ]
           }
@@ -1429,25 +1414,16 @@
         "description": "Develop a web-based personal finance management application that helps users track their income, expenses, budgets, and financial goals. The app will provide insights into their financial health and offer tools for better money management.",
         "conclusions": [
           {
-            "title": "Creating a personal finance management app will empower users to take control of their finances, while you gain experience in designing user-friendly interfaces, implementing secure data handling, and developing insightful analytics"
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
               },
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
-              },
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
-              },
-              {
-                "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
               }
             ]
           }
@@ -1751,25 +1727,16 @@
         "description": "Create an online platform where artisans and crafters can showcase and sell their unique handmade crafts, while customers can browse and purchase these items. The platform will provide a marketplace for connecting creators and buyers, enhancing the appreciation of handcrafted products.",
         "conclusions": [
           {
-            "title": "By building an online marketplace for handmade crafts, you'll not only support artisans but also gain experience in designing user-friendly interfaces, managing transactions, and creating a vibrant community platform."
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
               },
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
-              },
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
-              },
-              {
-                "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
               }
             ]
           }
@@ -2035,25 +2002,16 @@
         "description": "Develop a web-based platform where users can discover, share, and plan meals. The app will allow users to explore new recipes, create meal plans, and collaborate with others to enhance their cooking and meal preparation experience.",
         "conclusions": [
           {
-            "title": "By building a recipe sharing and meal planning app, you'll create a valuable resource for food enthusiasts, gain experience in creating interactive interfaces, handling user-generated content, and facilitating collaboration."
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
               },
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
-              },
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
-              },
-              {
-                "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
               }
             ]
           }
@@ -2349,25 +2307,16 @@
         "description": "Develop a comprehensive online learning management system that allows instructors to create and deliver courses, manage student enrollments, and facilitate interactive learning experiences. The platform will empower instructors to share their expertise and engage with students effectively.",
         "conclusions": [
           {
-            "title": "By building an online learning management system, you'll provide a platform for instructors to share knowledge effectively and engage with students in a meaningful way, while gaining experience in designing educational interfaces, managing user interactions, and delivering engaging content."
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
               },
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
-              },
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
-              },
-              {
-                "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
               }
             ]
           }
@@ -2633,25 +2582,16 @@
         "description": "Develop an online marketplace platform that allows users to buy and sell various products. This project will cover a wide range of functionalities and technologies, making it an excellent opportunity for students to learn about full-stack development.",
         "conclusions": [
           {
-            "title": "This project will help students develop practical skills in building complex web applications, handling user interactions, managing databases, integrating external services, and implementing security measures. The real-world scenario of an online marketplace covers a broad range of features commonly found in modern web applications, making it an excellent learning opportunity."
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
               },
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
-              },
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
-              },
-              {
-                "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
               }
             ]
           }
@@ -2848,25 +2788,16 @@
         "description": "Create a social media platform that enables users to connect, share posts, and engage with content. This project will give your students a chance to delve into various aspects of full-stack development, from user interactions to data management.",
         "conclusions": [
           {
-            "title": "Developing a social media platform involves a wide range of technical challenges, including user interactions, real-time communication, data management, and responsive design. This project will help your students gain practical experience in creating dynamic web applications with a focus on user engagement and interaction."
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
               },
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
-              },
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
-              },
-              {
-                "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
               }
             ]
           }
@@ -3025,25 +2956,16 @@
         "description": "Develop an e-commerce platform that enables users to browse, shop, and manage their orders. This project will provide your students with valuable experience in building a complex web application that involves various aspects of full-stack development.",
         "conclusions": [
           {
-            "title": "Building an e-commerce platform involves various challenges like handling user data securely, managing transactions, and providing a seamless user experience. This project will enable your students to gain hands-on experience with the intricacies of full-stack development while working on a project that closely resembles real-world applications."
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
               },
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
-              },
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
-              },
-              {
-                "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
               }
             ]
           }
@@ -3246,25 +3168,16 @@
         "description": "Develop a comprehensive online platform that enables event organizers to create, manage, and promote various events while allowing attendees to browse and register for these events.",
         "conclusions": [
           {
-            "title": "An Online Event Management System project provides students with hands-on experience in building a platform that connects event organizers and attendees. It covers user authentication, data management, real-time interactions, and analytics, offering a well-rounded learning opportunity in full-stack development."
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
               },
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
-              },
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
-              },
-              {
-                "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
               }
             ]
           }
@@ -3422,25 +3335,16 @@
         "description": "Create an online task management system that allows users to create, organize, and track their tasks. The system will consist of a web application with both frontend and backend components. This project will cover various aspects of full-stack development, including user authentication, database management, API design, and responsive frontend design.",
         "conclusions": [
           {
-            "title": "This project idea covers a wide range of technologies and concepts, including frontend development (HTML/CSS/JavaScript), backend development (Node.js, Express), database management (SQL or NoSQL), user authentication, API design, real-time updates, and deployment. It provides ample opportunities for your students to learn and practice full-stack development skills."
-          },
-          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
               },
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg"
-              },
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg"
-              },
-              {
-                "id": 4,
-                "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
               }
             ]
           }
@@ -3596,4 +3500,5 @@
       }
     ]
   }
+
 ]

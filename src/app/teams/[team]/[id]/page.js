@@ -1,8 +1,20 @@
 /* eslint-disable @next/next/no-img-element */
+"use client";
 import Link from "next/link";
 import projectsData from "../../../projectsdata.json";
+import { Zoom } from "react-slideshow-image";
+import "react-slideshow-image/dist/styles.css";
+import React, { useState } from "react";
 
-export default async function Teams({ params }) {
+export default function Teams({ params }) {
+  const zoomInProperties = {
+    indicators: true,
+    scale: 1.2,
+    duration: 5000,
+    transitionDuration: 500,
+    infinite: true,
+  };
+
   const teamId = params.team;
   const projectId = parseInt(params.id);
 
@@ -45,9 +57,33 @@ export default async function Teams({ params }) {
             Like
           </button>
         </div>
-        <p className="text-gray-800">
-          {selectedProject.conclusions.map((data) => data.title)}
-        </p>
+
+        <section className="section">
+          <p className="text-gray-800">
+            {selectedProject.conclusions.map((data) => {
+              return (
+                <section className="" key={data.id}>
+                  {data.title}
+                  <Zoom {...zoomInProperties}>
+                    {data.slid.map((slide) => (
+                      <div
+                        key={slide.id}
+                        className="flex justify-center items-center w-full h-[400px] max-w-[600px] mx-auto mt-4"
+                      >
+                        <img
+                          className="w-full h-full object-cover rounded-lg shadow-xl"
+                          src={slide.image}
+                          alt={``}
+                        />
+                      </div>
+                    ))}
+                  </Zoom>
+                </section>
+              );
+            })}
+          </p>
+        </section>
+
         {selectedProject.features.map((feature) => (
           <div key={feature.id} className="border-t pt-4 mt-4">
             <div className="mb-3">
