@@ -22,5 +22,3 @@ export default function RootLayout({ children }) {
   );
 }
 
-// dark:bg-gray-900
-//dark:bg-gray-900

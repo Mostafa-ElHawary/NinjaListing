@@ -38,6 +38,7 @@
       {
         "id": 1,
         "name": " Online Marketplace for Local Artisans ",
+        "status":"Pending",
         "description": "Create an online marketplace that connects local artisans and craftsmen with potential customers. The platform will allow artisans to showcase their products, manage orders, and interact with buyers, while customers can discover unique handmade items from their local community.",
         "conclusions": [
           {
@@ -309,6 +310,7 @@
       {
         "id": 2,
         "name": " Task and Project Management System",
+        "status":"To Do",
         "description": "Develop a comprehensive task and project management system that helps individuals and teams organize, track, and collaborate on tasks and projects. The system will provide a user-friendly interface for managing tasks, setting priorities, assigning responsibilities, and monitoring progress.",
         "conclusions": [
           {
@@ -646,6 +648,7 @@
       {
         "id": 1,
         "name": " Online Learning Platform ",
+        "status":"To Do",
         "description": "Create a comprehensive online learning platform where users can access and learn from a variety of courses. The platform will have features for course enrollment, progress tracking, interactive lessons, and user engagement.",
         "conclusions": [
           {
@@ -654,17 +657,17 @@
             "slid": [
               {
                 "id": 1,
-                "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/599410175242985.64b004bbca2aa.png"
+                "image": "https://cdn.dribbble.com/userupload/3940590/file/original-014d757a58734db8cb850590733e4228.png?resize=640x480"
               },
              
               {
                 "id":2,
-                "image":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d3c52e175242985.64b004bbcb097.png"
+                "image":"https://cdn.dribbble.com/userupload/3940592/file/original-3480c428062d021ccc502ad77e0b0fc4.png?resize=850x638"
               }
             ]
           }
         ],
-        "img": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/6a5c26175242985.64b004bbcc0f3.png",
+        "img": "https://cdn.dribbble.com/userupload/3940590/file/original-014d757a58734db8cb850590733e4228.png?resize=640x480",
         "features": [
           {
             "id": 1,
@@ -905,6 +908,8 @@
       {
         "id": 2,
         "name": " Fitness Tracking App ",
+        "status":"To Do",
+
         "description": "Develop a comprehensive fitness tracking application that allows users to set fitness goals, track their activities, and monitor their progress. The app will encompass both frontend and backend components, employing modern technologies to provide an engaging fitness experience.",
         "conclusions": [
           {
@@ -1220,6 +1225,7 @@
       {
         "id": 1,
         "name": " Online Food Delivery Platform ",
+        "status":"To Do",
         "description": "Build a comprehensive online food delivery platform that connects customers with local restaurants, allowing them to browse menus, place orders, and have their favorite meals delivered to their doorstep. The platform should provide a user-friendly experience for both customers and restaurant owners",
         "conclusions": [
           {
@@ -1411,6 +1417,7 @@
       {
         "id": 2,
         "name": " Personal Finance Management App ",
+        "status":"To Do",
         "description": "Develop a web-based personal finance management application that helps users track their income, expenses, budgets, and financial goals. The app will provide insights into their financial health and offer tools for better money management.",
         "conclusions": [
           {
@@ -1724,6 +1731,7 @@
       {
         "id": 1,
         "name": " Online Marketplace for Handmade Crafts ",
+        "status":"To Do",
         "description": "Create an online platform where artisans and crafters can showcase and sell their unique handmade crafts, while customers can browse and purchase these items. The platform will provide a marketplace for connecting creators and buyers, enhancing the appreciation of handcrafted products.",
         "conclusions": [
           {
@@ -1999,6 +2007,7 @@
       {
         "id": 2,
         "name": " Recipe Sharing and Meal Planning App ",
+        "status":"To Do",
         "description": "Develop a web-based platform where users can discover, share, and plan meals. The app will allow users to explore new recipes, create meal plans, and collaborate with others to enhance their cooking and meal preparation experience.",
         "conclusions": [
           {
@@ -2304,6 +2313,7 @@
       {
         "id": 1,
         "name": " Online Learning Management System ",
+        "status":"To Do",
         "description": "Develop a comprehensive online learning management system that allows instructors to create and deliver courses, manage student enrollments, and facilitate interactive learning experiences. The platform will empower instructors to share their expertise and engage with students effectively.",
         "conclusions": [
           {
@@ -2579,6 +2589,7 @@
       {
         "id": 2,
         "name": " Online Marketplace Platform ",
+        "status":"To Do",
         "description": "Develop an online marketplace platform that allows users to buy and sell various products. This project will cover a wide range of functionalities and technologies, making it an excellent opportunity for students to learn about full-stack development.",
         "conclusions": [
           {
@@ -2785,6 +2796,7 @@
       {
         "id": 1,
         "name": " Social Media Platform ",
+        "status":"To Do",
         "description": "Create a social media platform that enables users to connect, share posts, and engage with content. This project will give your students a chance to delve into various aspects of full-stack development, from user interactions to data management.",
         "conclusions": [
           {
@@ -2953,6 +2965,7 @@
       {
         "id": 2,
         "name": " E-Commerce Platform ",
+        "status":"To Do",
         "description": "Develop an e-commerce platform that enables users to browse, shop, and manage their orders. This project will provide your students with valuable experience in building a complex web application that involves various aspects of full-stack development.",
         "conclusions": [
           {
@@ -3165,6 +3178,7 @@
       {
         "id": 1,
         "name": " Online Event Management System ",
+        "status":"To Do",
         "description": "Develop a comprehensive online platform that enables event organizers to create, manage, and promote various events while allowing attendees to browse and register for these events.",
         "conclusions": [
           {
@@ -3332,6 +3346,7 @@
       {
         "id": 2,
         "name": " Online Task Management System ",
+        "status":"To Do",
         "description": "Create an online task management system that allows users to create, organize, and track their tasks. The system will consist of a web application with both frontend and backend components. This project will cover various aspects of full-stack development, including user authentication, database management, API design, and responsive frontend design.",
         "conclusions": [
           {
