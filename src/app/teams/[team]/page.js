@@ -30,15 +30,18 @@ export default async function Teams({ params }) {
 
                       <p className="text-sm text-gray-500 font-semibold">
                         {project.status === "Pending" ? (
-                          <span className="text-green-600 font-semibold bg-green-100 px-2 py-1 rounded-md">
+                          <span className="flex items-center space-x-1 text-green-600 font-semibold px-2 py-1 rounded-md">
+                            <div className="w-3 h-3 bg-green-500 rounded-full  mr-1"></div>
                             {project.status}
                           </span>
                         ) : project.status === "To Do" ? (
-                          <span className="text-red-600 font-semibold bg-red-100 px-2 py-1 rounded-md">
+                          <span className="flex items-center space-x-1 text-red-600 font-semibold px-2 py-1 rounded-md">
+                            <div className="w-3 h-3 bg-red-500 rounded-full  mr-1"></div>
                             {project.status}
                           </span>
                         ) : project.status === "Done" ? (
-                          <span className="text-blue-600 font-semibold bg-blue-100 px-2 py-1 rounded-md">
+                          <span className="flex items-center space-x-1 text-blue-700 font-semibold  px-2 py-1 rounded-md">
+                            <div className="w-3 h-3 bg-blue-500 rounded-full  mr-1"></div>
                             {project.status}
                           </span>
                         ) : (
