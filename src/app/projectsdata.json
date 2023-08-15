@@ -37,6 +37,303 @@
     "projects": [
       {
         "id": 1,
+        "name": " Kanban-task-management-web-app ",
+        "status":"Pending",
+        "description": "Create a robust and user-friendly web-based platform designed to streamline task management through the implementation of a Kanban methodology. This Kanban Task Management Web App empowers users to efficiently organize tasks, collaborate seamlessly, and monitor project progress. Whether it's for personal use or team collaboration, this app is designed to enhance productivity and facilitate effective task tracking.",
+        "conclusions": [
+          {
+            "id": 1,
+            "title": "This comprehensive set of features will enable users to effectively manage tasks and projects using a Kanban-style workflow. It provides a collaborative environment for teams to work together, track progress, and achieve their goals efficiently.",
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/hlb8i2xkwhhdevpbx1jb.jpg"
+              },
+             
+              {
+                "id":2,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1654885265/Challenges/blovaxconu7jof5w2rbu.jpg"
+              },
+              {
+                "id":3,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1654885265/Challenges/ni33puw1yoksdrpldzgt.jpg"
+              },
+              {
+                "id":4,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1654885327/Challenges/waoapejtl5cpjy9makop.jpg"
+              }
+            ]
+          }
+        ],
+        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/hlb8i2xkwhhdevpbx1jb.jpg",
+        "repo":"https://github.com/Mostafa-ElHawary/Kanban-task-management-web-app",
+        "demo":"https://mostafa-elhawary.github.io/Kanban-task-management-web-app/",
+        "features": [
+          {
+            "id": 1,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Authentication and Authorization",
+                "topic": [
+                  "Allow users to register with their email and password.",
+                  "Provide secure login and token-based authentication.",
+                  "Implement role-based authorization to distinguish between regular users and administrators."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Board Creation and Management",
+                "topic": [
+                  "Users can create multiple boards for different projects or workflows.",
+                  "Each board consists of columns representing task stages (e.g., To Do, In Progress, Done)."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Task Creation and Organization",
+                "topic": [
+                  "Users can create tasks within columns, specifying title, description, due date, and priority.",
+                  "Enable dragging and dropping tasks between columns to indicate progress."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Task Details and Attachments",
+                "topic": [
+                  "Users can add detailed descriptions, attachments, and comments to tasks.",
+                  "Attach documents, images, or links to provide context for each task."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Labels and Categories",
+                "topic": [
+                  "Allow users to assign labels or categories to tasks for better organization.",
+                  "Implement color-coded labels to visually distinguish tasks."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Task Assignment and Collaboration",
+                "topic": [
+                  "Assign tasks to specific users or team members.",
+                  "Enable user mentions in task comments to facilitate collaboration."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Due Date Reminders",
+                "topic": [
+                  "Notify users of approaching due dates for tasks.",
+                  "Implement email or in-app notifications for reminders."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Search and Filters",
+                "topic": [
+                  "Provide search functionality to find tasks by title, description, or label.",
+                  "Allow users to filter tasks based on attributes like due date or assigned user."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Task Dependencies",
+                "topic": [
+                  "Enable users to set task dependencies to indicate task relationships.",
+                  "Tasks cannot progress until their dependent tasks are completed."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Progress Tracking and Analytics",
+                "topic": [
+                  "Display statistics on task completion, average time in each column, and user performance.",
+                  "Generate charts or graphs to visualize project progress."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Activity Feed and History",
+                "topic": [
+                  "Maintain an activity feed that logs changes made to tasks and columns.",
+                  "Allow users to view the history of task modifications and updates."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Profiles",
+                "topic": [
+                  "Enable users to create profiles with profile pictures and information.",
+                  "Display user's assigned tasks and completed tasks on their profile."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the app is responsive and usable on various devices and screen sizes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Data Backup and Recovery",
+                "topic": [
+                  "Regularly back up user data to prevent data loss.",
+                  "Implement recovery mechanisms in case of accidental data deletion."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Notification Center",
+                "topic": [
+                  "Notify users about task assignments, changes, or comments.",
+                  "Provide customizable notification settings for each user."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Collaboration and Sharing",
+                "topic": [
+                  "Allow users to share boards or specific tasks with team members.",
+                  "Implement real-time collaboration on shared boards."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Data Privacy and Security",
+                "topic": [
+                  "Ensure user data and task details are securely stored and protected.",
+                  "Implement encryption and follow best practices for data privacy."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Backend APIs and Database Design",
+                "topic": [
+                  "Develop RESTful APIs to handle user authentication, task management, and interactions.",
+                  "Design a scalable and efficient database schema for tasks, users, and boards."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Testing and Deployment",
+                "topic": [
+                  "Write unit tests and integration tests to ensure the app's functionality.",
+                  "Deploy the app to a cloud platform and set up CI/CD pipelines for continuous deployment."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Feedback and Support",
+                "topic": [
+                  "Implement a feedback mechanism for users to suggest improvements or report issues.",
+                  "Provide customer support channels for assistance with app usage or troubleshooting."
+                ]
+              }
+            ]
+          }
+          
+        ]
+      },
+      {
+        "id": 2,
         "name": " Online Marketplace for Local Artisans ",
         "status":"Pending",
         "description": "Create an online marketplace that connects local artisans and craftsmen with potential customers. The platform will allow artisans to showcase their products, manage orders, and interact with buyers, while customers can discover unique handmade items from their local community.",
@@ -311,7 +608,7 @@
         ]
       },
       {
-        "id": 2,
+        "id": 3,
         "name": " Task and Project Management System",
         "status":"To Do",
         "description": "Develop a comprehensive task and project management system that helps individuals and teams organize, track, and collaborate on tasks and projects. The system will provide a user-friendly interface for managing tasks, setting priorities, assigning responsibilities, and monitoring progress.",
