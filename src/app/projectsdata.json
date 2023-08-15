@@ -4461,6 +4461,294 @@
     "projects": [
       {
         "id": 1,
+        "name": " Entertainment web app ",
+        "status":"Pending",
+        "description": "The Product Feedback App is a dynamic web-based platform designed to facilitate seamless communication between users and product development teams. It empowers users to provide valuable feedback, suggestions, and ideas for improving products and services. Through an intuitive interface, the app enables users to submit their thoughts, upvote or downvote existing feedback, and participate in discussions surrounding various products. With a focus on user engagement and collaboration, the Product Feedback App bridges the gap between customers and the teams responsible for enhancing products.",
+        "conclusions": [
+          {
+            "id": 1,
+            "title": "By integrating these features into your Product Feedback App, you'll create a comprehensive tool for users and product teams to collaborate, prioritize, and improve products based on user input.",
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621706/Challenges/uf4zb5ufaresipumy7jb.jpg"
+              },
+             
+              {
+                "id":2,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1624621619/Challenges/vnx44muoxqyn886oi5sb.jpg"
+              },
+
+              {
+                "id":3,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1624621762/Challenges/tsaibconxg9gus3xvdpj.jpg"
+              }
+            ]
+          }
+        ],
+        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621706/Challenges/uf4zb5ufaresipumy7jb.jpg",
+        "repo":"https://github.com/Mostafa-ElHawary/Product-feedback-app",
+        "demo":"https://mostafa-elhawary.github.io/Product-feedback-app/",
+        "features": [
+          {
+            "id": 1,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Authentication and Authorization",
+                "topic": [
+                  "Allow users to register with their email and password.",
+                  "Provide secure login and token-based authentication.",
+                  "Implement role-based authorization to distinguish between regular users and administrators."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Product Submission",
+                "topic": [
+                  "Enable users to submit new products for which they want to provide feedback.",
+                  "Include fields for product name, description, category, and optional attachments."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Feedback Submission",
+                "topic": [
+                  "Allow users to provide feedback on specific products, including suggestions, bug reports, and feature requests.",
+                  "Implement various feedback types or tags for categorization."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Voting and Ranking",
+                "topic": [
+                  "Allow users to upvote or downvote feedback to indicate popularity and importance.",
+                  "Implement a ranking system to highlight the most popular or critical feedback."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Commenting and Discussions",
+                "topic": [
+                  "Enable users to comment on feedback to engage in discussions.",
+                  "Provide real-time updates for new comments using WebSockets."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Feedback Filtering and Sorting",
+                "topic": [
+                  "Implement sorting options to arrange feedback by most recent, highest votes, etc.",
+                  "Provide filters to view feedback by category, status (open, resolved, in progress), and more."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Moderation and Admin Tools",
+                "topic": [
+                  "Create an admin dashboard to manage user-generated content and feedback.",
+                  "Implement moderation features to approve, edit, or delete feedback as needed."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Profiles",
+                "topic": [
+                  "Allow users to create profiles, including a profile picture and bio.",
+                  "Display a user's submitted feedback and voting history on their profile."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Notifications",
+                "topic": [
+                  "Notify users about updates to their submitted feedback, such as when a status changes or new comments are added.",
+                  "Send reminders for important product updates or resolved issues."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Search and Discovery",
+                "topic": [
+                  "Implement a search bar to quickly find specific products or feedback.",
+                  "Allow users to discover trending or recently submitted feedback."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Analytics and Insights",
+                "topic": [
+                  "Provide analytics on the most popular products, top-voted feedback, and user engagement.",
+                  "Offer insights into common trends and user preferences."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Integration with Customer Support",
+                "topic": [
+                  "Enable users to escalate feedback to customer support tickets.",
+                  "Provide a seamless way to transition from user-reported issues to support resolution."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the app is responsive and user-friendly on various devices, including desktops, tablets, and mobile phones."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Backend APIs",
+                "topic": [
+                  "Develop RESTful APIs to manage user authentication, product and feedback submissions, and interactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Database Design",
+                "topic": [
+                  "Design a database schema to efficiently store user data, product details, feedback, and interactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Testing and Deployment",
+                "topic": [
+                  "Write comprehensive tests to ensure the app's functionality and reliability.",
+                  "Deploy the app to a cloud platform and set up CI/CD pipelines for continuous deployment."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Security and Privacy",
+                "topic": [
+                  "Implement secure authentication mechanisms and ensure the privacy of user data and interactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Collaboration Features",
+                "topic": [
+                  "Allow users to collaborate on feedback by tagging colleagues, sharing links, and discussing internally."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Versioning and Release Notes",
+                "topic": [
+                  "Enable product managers to provide version-specific release notes and gather feedback on new features or improvements."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Feedback Insights",
+                "topic": [
+                  "Provide data visualization to showcase feedback trends, areas of improvement, and successful implementations."
+                ]
+              }
+            ]
+          }
+          
+        ]
+      }, 
+      {
+        "id": 2,
         "name": " Online Event Management System ",
         "status":"To Do",
         "description": "Develop a comprehensive online platform that enables event organizers to create, manage, and promote various events while allowing attendees to browse and register for these events.",
@@ -4630,7 +4918,7 @@
         ]
       },
       {
-        "id": 2,
+        "id": 3,
         "name": " Online Task Management System ",
         "status":"To Do",
         "description": "Create an online task management system that allows users to create, organize, and track their tasks. The system will consist of a web application with both frontend and backend components. This project will cover various aspects of full-stack development, including user authentication, database management, API design, and responsive frontend design.",
