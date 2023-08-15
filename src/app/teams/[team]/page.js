@@ -102,17 +102,20 @@ export default async function Teams({ params }) {
                       </span>
                     </div>
                   )}
+
                   <div className="mt-4 flex items-center space-x-4">
-                    <button className="text-gray-500 hover:text-gray-800 flex items-center space-x-1">
-                      <span>UI</span>
-                    </button>
-                    <button className="text-gray-500 hover:text-gray-800 flex items-center space-x-1">
-                      <span>Edit</span>
-                    </button>
-                    <button className="text-gray-500 hover:text-gray-800 flex items-center space-x-1">
-                      <span>Comment</span>
-                    </button>
-                  </div>
+                  <button className="text-gray-500 hover:text-gray-800 flex items-center space-x-1">
+                  
+                    <span>Like</span>
+                  </button>
+                  <button className="text-gray-500 hover:text-gray-800 flex items-center space-x-1">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="w-5 h-5">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                    <span>Comment</span>
+                  </button>
+                </div>
+                  
                 </div>
               </div>
             ));

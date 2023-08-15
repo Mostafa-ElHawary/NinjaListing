@@ -92,11 +92,10 @@ export default function Teams({ params }) {
                 Feature {feature.id}
               </p>
               <div className="flex space-x-2">
-                <button className="text-gray-500 px-2 py-1 rounded-md hover:text-gray-800 font-semibold bg-green-200  ">
+                <button className="text-gray-500 px-2 py-1 rounded-md hover:text-gray-800 font-semibold ">
                   Edit
                 </button>
-               
-                <button className="text-gray-500 px-2 py-1 rounded-md hover:text-gray-800 font-semibold bg-red-200">
+                <button className="text-gray-500 px-2 py-1 rounded-md hover:text-gray-800 font-semibold ">
                   Delete
                 </button>
               </div>
@@ -124,6 +123,37 @@ export default function Teams({ params }) {
                           </p>
                         ))}
                       </div>
+                      <div className="mt-3 text-gray-600 text-sm">
+                        <button className="hover:underline font-semibold ">Reply</button>
+                        <button className="hover:underline ml-3 font-semibold">3 Likes</button>
+                        <button className="hover:underline ml-3 font-semibold">View comments</button>
+                      </div>
+
+{                      
+                      // <div className="pl-10 mt-3 space-y-2">
+                      //   {/* Example comment */}
+                      //   <div className="flex space-x-2">
+                      //     <img
+                      //       src="https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=muDZJmUNejIAX9AttR1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDIBwU2g3bTvfN-1rUPk2hLK2qhN6prdmJbJI0YOpsEoQ&oe=64D5877A"
+                      //       alt="User Profile"
+                      //       className="w-8 h-8 rounded-full object-cover"
+                      //     />
+                      //     <div className="bg-gray-200 rounded-md p-2">
+                      //       <p className="text-sm text-gray-700">
+                      //         just Testing on Reaply .
+                      //       </p>
+                      //       <button className="text-xs text-gray-500 hover:underline">
+                      //         Like
+                      //       </button>
+                      //       <button className="text-xs text-gray-500 hover:underline ml-2">
+                      //         Reply
+                      //       </button>
+                      //     </div>
+                      //   </div>
+                      //   {/* Other comments... */}
+                      // </div>
+}
+
                     </div>
                   </div>
                 </div>
@@ -131,6 +161,7 @@ export default function Teams({ params }) {
           </div>
         </div>
       ))}
+
     </div>
   </div>
   );

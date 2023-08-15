@@ -3050,6 +3050,251 @@
     "projects": [
       {
         "id": 1,
+        "name": " Job listings with filtering ",
+        "status":"Pending",
+        "description": "Embark on the creation of an innovative web-based platform known as 'Job Listings with Filtering.' This project is poised to revolutionize the job search landscape by providing users with a dynamic and efficient means to explore job opportunities that align with their aspirations and qualifications. By seamlessly integrating advanced filtering capabilities into the job search process, this platform will empower job seekers and employers alike to engage in a more targeted and personalized recruitment experience.",
+        "conclusions": [
+          {
+            "id": 1,
+            "title": "Furthermore, the platform will leverage user preferences and viewing history to provide tailored job recommendations. This personalized touch enhances the user experience, enabling job seekers to uncover opportunities they may have otherwise missed In addition to benefiting job seekers, the platform caters to employers by enabling them to create and manage company profiles. This feature establishes a direct line of communication between employers and potential candidates, fostering a transparent and efficient hiring process.",
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1653574062/Challenges/ewpgjktgzsoeprh5opko.jpg"
+              },
+             
+              {
+                "id":2,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1653574062/Challenges/qlsbtzneygd4bumwadam.jpg"
+              }
+            ]
+          }
+        ],
+        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1653574062/Challenges/ewpgjktgzsoeprh5opko.jpg",
+        "repo":"https://github.com/Mostafa-ElHawary/Job-listings-with-filtering",
+        "demo":"https://mostafa-elhawary.github.io/Job-listings-with-filtering/",
+        "features": [
+          {
+            "id": 1,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Authentication and Authorization",
+                "topic": [
+                  "Allow users to register with their email and password.",
+                  "Provide secure login and token-based authentication.",
+                  "Implement role-based authorization to distinguish between regular users and administrators."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Job Listings Display",
+                "topic": [
+                  "Display a list of job listings fetched from a database.",
+                  "Include essential information such as job title, company name, location, and job type."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Job Filtering and Searching",
+                "topic": [
+                  "Implement filters for job type (full-time, part-time, contract), location, industry, and job category.",
+                  "Provide a search bar for users to search for specific keywords or job titles."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Job Details Page",
+                "topic": [
+                  "Create a detailed page for each job listing with comprehensive information about the job role, company, and requirements.",
+                  "Include a 'Apply Now' button that leads to the application process."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Preferences and Recommendations",
+                "topic": [
+                  "Allow users to set their job preferences, such as job type, location, and industry.",
+                  "Provide job recommendations based on user preferences and viewed job listings."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Saved Jobs and Bookmarks",
+                "topic": [
+                  "Allow users to save jobs they are interested in to a 'Saved Jobs' section.",
+                  "Provide a way for users to bookmark jobs for future reference."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Notifications",
+                "topic": [
+                  "Notify users about new job listings that match their preferences.",
+                  "Send email notifications for important updates, such as application status changes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Company Profiles",
+                "topic": [
+                  "Create profiles for companies that are hiring, displaying information about the company and their job listings.",
+                  "Allow users to view all job listings by a specific company."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Interaction",
+                "topic": [
+                  "Implement features for users to like, share, and comment on job listings.",
+                  "Enable discussions on job listings where users can ask questions or share insights."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Admin Dashboard",
+                "topic": [
+                  "Create a dashboard for administrators to manage job listings, users, and company profiles.",
+                  "Implement moderation features to approve or reject job listings."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the web application is responsive and works well on various devices and screen sizes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Pagination and Infinite Scrolling",
+                "topic": [
+                  "Implement pagination or infinite scrolling to handle a large number of job listings efficiently."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Sorting Options",
+                "topic": [
+                  "Allow users to sort job listings by date posted, relevance, or other criteria."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Advanced Filtering",
+                "topic": [
+                  "Provide advanced filters for more specific job searches, such as by experience level or required skills."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Backend APIs",
+                "topic": [
+                  "Develop RESTful APIs to handle user registration, job listings, applications, and interactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Database Design",
+                "topic": [
+                  "Design a database schema to efficiently store user data, job listings, and interactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Testing and Deployment",
+                "topic": [
+                  "Write unit tests and integration tests to ensure the application's functionality.",
+                  "Deploy the web app to a cloud platform and set up CI/CD pipelines for continuous deployment."
+                ]
+              }
+            ]
+          }
+          
+        ]
+      }, 
+      {
+        "id": 2,
         "name": " Online Learning Management System ",
         "status":"To Do",
         "description": "Develop a comprehensive online learning management system that allows instructors to create and deliver courses, manage student enrollments, and facilitate interactive learning experiences. The platform will empower instructors to share their expertise and engage with students effectively.",
@@ -3327,7 +3572,7 @@
         ]
       },
       {
-        "id": 2,
+        "id": 3,
         "name": " Online Marketplace Platform ",
         "status":"To Do",
         "description": "Develop an online marketplace platform that allows users to buy and sell various products. This project will cover a wide range of functionalities and technologies, making it an excellent opportunity for students to learn about full-stack development.",
