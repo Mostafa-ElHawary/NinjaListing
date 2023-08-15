@@ -69,21 +69,37 @@ export default async function Teams({ params }) {
                   </div>
 
                   <img src={project.img} alt="Post" className="w-full h-auto" />
-                  <div className="p-4">
-                    <p className="text-gray-800">{project.description}</p>
-                    <div className="mt-4 flex items-center space-x-4">
-                      <button className="text-gray-500 hover:text-gray-800 flex items-center space-x-1">
-                        <span>UI</span>
-                      </button>
-                      <button className="text-gray-500 hover:text-gray-800 flex items-center space-x-1">
-                        <span>Edit</span>
-                      </button>
-                      <button className="text-gray-500 hover:text-gray-800 flex items-center space-x-1">
-                        <span>Comment</span>
-                      </button>
-                    </div>
-                  </div>
                 </Link>
+
+                <div className="p-4">
+                <div className="text-gray-800 font-semibold">
+                  <p>{project.description}</p>
+                </div>
+                {project.repo && (
+                  <div className="mt-4 font-semibold">
+                  Repo Link :{" "}
+                    <span className="text-blue-500 hover:underline">
+                     
+                      <Link href={project.repo} target="_blank" rel="noopener noreferrer">
+                        {project.repo}
+                      </Link>
+                    </span>
+                  </div>
+                )}
+                <div className="mt-4 flex items-center space-x-4">
+                  <button className="text-gray-500 hover:text-gray-800 flex items-center space-x-1">
+                    <span>UI</span>
+                  </button>
+                  <button className="text-gray-500 hover:text-gray-800 flex items-center space-x-1">
+                    <span>Edit</span>
+                  </button>
+                  <button className="text-gray-500 hover:text-gray-800 flex items-center space-x-1">
+                    <span>Comment</span>
+                  </button>
+                </div>
+              </div>
+
+
               </div>
             ));
           }
