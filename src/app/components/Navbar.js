@@ -21,7 +21,7 @@ import {
 
 function Navbar() {
   return (
-    <div className="sticky top-0 z-50 max-w-screen-4xl mx-auto flex justify-between items-center py-3 px-6 bg-white shadow-2xl hover:shadow-lg">
+    <div className="sticky top-0 z-50 max-w-screen-4xl mx-auto flex justify-between items-center py-3 px-6 bg-white shadow-lg ">
       {/* Left */}
       <Link href="/" className="flex items-center">
         <div className="text-blue-600 font-bold text-lg">SECU</div>

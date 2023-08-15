@@ -90,7 +90,7 @@ export default async function Teams({ params }) {
                   )}
                   {project.demo && (
                     <div className="mt-4 font-semibold">
-                     Demo :{" "}
+                      Demo :{" "}
                       <span className="text-blue-500 hover:underline">
                         <Link
                           href={project.demo}

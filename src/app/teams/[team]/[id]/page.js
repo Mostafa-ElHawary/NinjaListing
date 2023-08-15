@@ -71,7 +71,7 @@ export default function Teams({ params }) {
                       className="flex justify-center items-center w-full h-[400px] max-w-[600px] mx-auto mt-4"
                     >
                       <img
-                        className="w-full h-full object-cover rounded-lg shadow-xl"
+                        className="w-full h-full object-contain rounded-lg shadow-xl"
                         src={slide.image}
                         alt={``}
                       />

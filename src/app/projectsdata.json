@@ -2176,6 +2176,298 @@
     "projects": [
       {
         "id": 1,
+        "name": " Devjobs web app ",
+        "status":"Pending",
+        "description": "Create a comprehensive web-based Devjobs platform that facilitates a seamless connection between job seekers and employers. This application will empower job seekers to explore job listings tailored to their preferences and skills, while enabling employers to efficiently identify the best-suited candidates for their open positions. Through a user-friendly interface and a range of interactive features, the Devjobs platform will streamline the job search and hiring processes, ultimately benefiting both job seekers and employers.",
+        "conclusions": [
+          {
+            "id": 1,
+            "title": "Employers will be able to create company profiles to showcase their brand and attract top talent. They can manage their job listings, including editing, updating, and closing positions when they're filled. The platform will also feature an admin dashboard that empowers administrators to oversee job listings, user interactions, and ensure a high-quality experience for all users.",
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1623686670/Challenges/fhedaddg5fbhequwkoao.jpg"
+              },
+             
+              {
+                "id":2,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1623686669/Challenges/syy3yy4gbezvrok5etwg.jpg"
+              },
+              {
+                "id":3,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1623686669/Challenges/lrje9tanfhehvrsx6tnd.jpg"
+              },
+              {
+                "id":4,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1601562026/Challenges/c7uhxzz22bfdaejiz99b.jpg"
+              }
+            ]
+          }
+        ],
+        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1623686669/Challenges/syy3yy4gbezvrok5etwg.jpg",
+        "repo":"https://github.com/Mostafa-ElHawary/Devjobs-web-app",
+        "demo":"https://mostafa-elhawary.github.io/Devjobs-web-app/",
+        "features": [
+          {
+            "id": 1,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "Allow users to register with their email and password.",
+                  "Create user profiles where users can provide information about their skills, experience, and resume."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Job Listings",
+                "topic": [
+                  "Display a list of job listings fetched from a database.",
+                  "Include filters for job type (full-time, part-time, remote), location, and programming languages."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Job Details Page",
+                "topic": [
+                  "Create a detailed page for each job listing, displaying all relevant information.",
+                  "Provide a 'Apply Now' button that links to the job application process."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Search Functionality",
+                "topic": [
+                  "Implement a search bar that allows users to search for jobs by keywords, job titles, or skills.",
+                  "Provide auto-suggestions to enhance the search experience."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Job Application Process",
+                "topic": [
+                  "Allow users to apply for jobs directly through the website.",
+                  "Implement a form where users can upload their resumes and cover letters."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Saved Jobs and Bookmarks",
+                "topic": [
+                  "Allow users to save jobs they are interested in to a 'Saved Jobs' section.",
+                  "Provide a way for users to bookmark jobs for future reference."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Notifications",
+                "topic": [
+                  "Notify users about new job listings that match their preferences.",
+                  "Send email notifications for important updates, such as application status changes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Company Profiles",
+                "topic": [
+                  "Create profiles for companies that are hiring, displaying information about the company and their job listings.",
+                  "Allow users to view all job listings by a specific company."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Interaction",
+                "topic": [
+                  "Implement features for users to like, share, and comment on job listings.",
+                  "Enable discussions on job listings where users can ask questions or share insights."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Admin Dashboard",
+                "topic": [
+                  "Create a dashboard for administrators to manage job listings, users, and company profiles.",
+                  "Implement moderation features to approve or reject job listings."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the web application is responsive and works well on various devices and screen sizes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Pagination and Infinite Scrolling",
+                "topic": [
+                  "Implement pagination or infinite scrolling to handle a large number of job listings."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Sorting and Filtering",
+                "topic": [
+                  "Allow users to sort job listings by date posted, relevance, or other criteria.",
+                  "Provide advanced filters for more specific job searches."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Preferences and Recommendations",
+                "topic": [
+                  "Enable users to set their job preferences, such as location, job type, and programming languages.",
+                  "Provide job recommendations based on user preferences and browsing history."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Application Tracking",
+                "topic": [
+                  "Create a dashboard where users can track the status of their job applications.",
+                  "Allow users to withdraw applications if needed."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Technologies and Skills Tags",
+                "topic": [
+                  "Add tags to job listings for the required technologies, programming languages, and skills.",
+                  "Enable users to filter job listings based on these tags."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Messaging System",
+                "topic": [
+                  "Implement a messaging system where employers and applicants can communicate directly within the platform."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Backend APIs",
+                "topic": [
+                  "Develop RESTful APIs to handle user registration, job listings, applications, and interactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Database Design",
+                "topic": [
+                  "Design a database schema to efficiently store user data, job listings, and interactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Testing and Deployment",
+                "topic": [
+                  "Write unit tests and integration tests to ensure the application's functionality.",
+                  "Deploy the web app to a cloud platform and set up CI/CD pipelines for continuous deployment."
+                ]
+              }
+            ]
+          }
+          
+        ]
+      },   
+      {
+        "id": 2,
         "name": " Online Marketplace for Handmade Crafts ",
         "status":"To Do",
         "description": "Create an online platform where artisans and crafters can showcase and sell their unique handmade crafts, while customers can browse and purchase these items. The platform will provide a marketplace for connecting creators and buyers, enhancing the appreciation of handcrafted products.",
@@ -2453,7 +2745,7 @@
         ]
       },
       {
-        "id": 2,
+        "id": 3,
         "name": " Recipe Sharing and Meal Planning App ",
         "status":"To Do",
         "description": "Develop a web-based platform where users can discover, share, and plan meals. The app will allow users to explore new recipes, create meal plans, and collaborate with others to enhance their cooking and meal preparation experience.",
