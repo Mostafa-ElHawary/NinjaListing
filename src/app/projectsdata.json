@@ -647,6 +647,146 @@
     "projects": [
       {
         "id": 1,
+        "name": " Interactive comments section ",
+        "status":"Pending",
+        "description": "Create an interactive comments section application that allows users to engage in discussions and share their thoughts on various topics. Users can post comments, upvote/downvote comments, reply to other users, and format their comments using Markdown. The app provides real-time updates, user notifications, and a user-friendly interface for a seamless commenting experience.",
+        "conclusions": [
+          {
+            "id": 1,
+            "title": "Incorporate a conclusions section in the app where users can summarize the main takeaways or thoughts from the discussion. This could be a separate comment dedicated to summarizing the discussion's key points or allowing users to mark specific comments as conclusions. The conclusions section adds a valuable layer to the interactive comments section, aiding users in finding insightful insights and highlights from the conversation.",
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1639765916/Challenges/l3cxamx1e6vpngqjtdyt.jpg"
+              },
+             
+              {
+                "id":2,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1639765949/Challenges/vvcsdtjqyfzgvj4vvcwl.jpg"
+              },
+              {
+                "id":3,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1639765982/Challenges/nqlhifst3uv1hb8tkibd.jpg"
+              },
+              {
+                "id":4,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1639766022/Challenges/fwkvt3bnvjw3hwplviwc.jpg"
+              }
+            ]
+          }
+        ],
+        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1639765949/Challenges/vvcsdtjqyfzgvj4vvcwl.jpg",
+        "features": [
+          {
+            "id": 1,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Authentication and Authorization",
+                "topic": [
+                  "Allow users to register with their email and password.",
+                  "Provide secure login and token-based authentication.",
+                  "Implement role-based authorization to distinguish between regular users and administrators."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Comments Display",
+                "topic": [
+                  "Display the main content, such as articles or posts, along with the comments section.",
+                  "Implement pagination to manage the display of comments."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Comment Interactivity",
+                "topic": [
+                  "Allow users to add, edit, and delete their comments.",
+                  "Provide real-time updates for new comments and comment deletions using WebSockets."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Comment Actions",
+                "topic": [
+                  "Enable users to upvote/downvote comments to indicate agreement or disagreement.",
+                  "Allow users to mark comments as helpful or report inappropriate comments."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Rich Text Formatting",
+                "topic": [
+                  "Implement a Markdown editor to enable users to format their comments with headings, lists, and links.",
+                  "Render Markdown-formatted comments as HTML content."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Mentions and Notifications",
+                "topic": [
+                  "Allow users to mention other users in comments using the \"@\" symbol.",
+                  "Send real-time notifications to mentioned users when they are tagged in a comment."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Emoji Reactions",
+                "topic": [
+                  "Allow users to react to comments using a range of emojis.",
+                  "Display the total number of reactions for each comment."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Sorting and Filtering",
+                "topic": [
+                  "Implement sorting options to arrange comments by newest, oldest, most upvoted, etc.",
+                  "Provide filters to show comments by specific users or based on keyword searches."
+                ]
+              }
+            ]
+          }
+          
+        ]
+      },
+      {
+        "id": 2,
         "name": " Online Learning Platform ",
         "status":"To Do",
         "description": "Create a comprehensive online learning platform where users can access and learn from a variety of courses. The platform will have features for course enrollment, progress tracking, interactive lessons, and user engagement.",
@@ -906,7 +1046,7 @@
         ]
       },
       {
-        "id": 2,
+        "id": 3,
         "name": " Fitness Tracking App ",
         "status":"To Do",
 
