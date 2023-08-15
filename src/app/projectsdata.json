@@ -3782,6 +3782,299 @@
     "projects": [
       {
         "id": 1,
+        "name": " Entertainment web app ",
+        "status":"Pending",
+        "description": "Create an innovative web-based Entertainment platform that offers users a captivating and diverse range of content to indulge in. The Entertainment Web App will serve as a one-stop destination for users to discover, engage with, and enjoy various forms of entertainment, such as movies, TV shows, music, articles, and games. By leveraging cutting-edge technology and user-centered design, this platform will revolutionize the way people access and interact with entertainment content.",
+        "conclusions": [
+          {
+            "id": 1,
+            "title": "This project will provide your students with a well-rounded experience in building a full-stack entertainment web application. It covers various aspects of modern web development, from user interaction and content management to security and deployment strategies.",
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924284/Challenges/deoobakhb8qajszqrnv5.jpg"
+              },
+             
+              {
+                "id":2,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1646924199/Challenges/ceedr4akadxr0yqn142q.jpg"
+              },
+              {
+                "id":3,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1646924284/Challenges/zoybsht0sfshyonc60tl.jpg"
+              },
+              {
+                "id":4,
+                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1646924408/Challenges/mpqt2crxi11qg5cgr7k2.jpg"
+              }
+            ]
+          }
+        ],
+        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924284/Challenges/deoobakhb8qajszqrnv5.jpg",
+        "repo":"https://github.com/Mostafa-ElHawary/Entertainment-web-app",
+        "demo":"https://mostafa-elhawary.github.io/Entertainment-web-app/",
+        "features": [
+          {
+            "id": 1,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Authentication and Authorization",
+                "topic": [
+                  "Allow users to register with their email and password.",
+                  "Provide secure login and token-based authentication.",
+                  "Implement role-based authorization to distinguish between regular users and administrators."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Content Categories and Genres",
+                "topic": [
+                  "Categorize entertainment content into genres, such as movies, TV shows, music, games, articles, etc.",
+                  "Provide an intuitive navigation menu for users to explore content by category."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Content Discovery",
+                "topic": [
+                  "Display featured, trending, and recommended content on the homepage.",
+                  "Implement a search bar for users to find specific content quickly."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Personalized Recommendations",
+                "topic": [
+                  "Use user preferences and viewing history to offer personalized content recommendations.",
+                  "Display a 'Recommended for You' section that suggests content aligned with the user's interests."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Media Playback",
+                "topic": [
+                  "Enable users to stream movies, TV shows, and music directly on the platform.",
+                  "Provide playback controls, volume adjustments, and quality settings."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Interaction",
+                "topic": [
+                  "Allow users to rate, review, and comment on content.",
+                  "Implement social sharing features to let users share their favorite content with friends."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Playlists and Collections",
+                "topic": [
+                  "Enable users to create and manage playlists or collections of their favorite content.",
+                  "Provide options to share playlists with others or keep them private."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Content Details Page",
+                "topic": [
+                  "Create detailed pages for each content item, including descriptions, cast/crew information, release date, and trailers."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User-generated Content",
+                "topic": [
+                  "Allow users to submit their own articles, reviews, or recommendations.",
+                  "Implement moderation tools to review and approve user-generated content."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Social Features",
+                "topic": [
+                  "Allow users to follow others and see their activity on the platform.",
+                  "Implement a friend system and news feed to keep users engaged."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Notifications",
+                "topic": [
+                  "Notify users about new content releases, comments, followers, and other relevant activities.",
+                  "Send notifications via email or in-app alerts."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Emoji Reactions",
+                "topic": [
+                  "Enable users to react to content using a variety of emojis.",
+                  "Display the total number of reactions for each content item."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Sorting and Filtering",
+                "topic": [
+                  "Provide sorting options to arrange content by popularity, release date, or user ratings.",
+                  "Implement filters to refine content searches based on genres, release year, etc."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Bookmarking and Watchlist",
+                "topic": [
+                  "Allow users to bookmark or add content to their watchlist for future viewing.",
+                  "Provide an easy way for users to access their saved items."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Admin Dashboard",
+                "topic": [
+                  "Create a dashboard for administrators to manage users, content, and reports.",
+                  "Implement tools for content moderation and user management."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the web app is responsive and functional on various devices and screen sizes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Backend APIs",
+                "topic": [
+                  "Develop RESTful APIs to handle user registration, content management, interactions, and notifications."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Database Design",
+                "topic": [
+                  "Design a database schema to efficiently store user data, content information, and interactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Testing and Deployment",
+                "topic": [
+                  "Write unit tests and integration tests to ensure the app's functionality.",
+                  "Deploy the web app to a cloud platform and set up CI/CD pipelines for continuous deployment."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Security and Privacy",
+                "topic": [
+                  "Implement secure authentication mechanisms and ensure data privacy for user information and interactions."
+                ]
+              }
+            ]
+          }
+          
+        ]
+      }, 
+      {
+        "id": 2,
         "name": " Social Media Platform ",
         "status":"To Do",
         "description": "Create a social media platform that enables users to connect, share posts, and engage with content. This project will give your students a chance to delve into various aspects of full-stack development, from user interactions to data management.",
@@ -3952,7 +4245,7 @@
         ]
       },
       {
-        "id": 2,
+        "id": 3,
         "name": " E-Commerce Platform ",
         "status":"To Do",
         "description": "Develop an e-commerce platform that enables users to browse, shop, and manage their orders. This project will provide your students with valuable experience in building a complex web application that involves various aspects of full-stack development.",
