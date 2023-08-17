@@ -8,7 +8,7 @@ export default async function Teams({ params }) {
   const paramsId = params.team;
   return (
     <div className="min-h-screen p-4 flex justify-center items-center">
-      <div className="bg-white rounded-lg shadow-lg p-1 w-full max-w-xl">
+      <div className="bg-white rounded-lg  p-1 w-full max-w-xl">
         {projectsData.map((team) => {
           if (team.id == paramsId) {
             return team.projects.map((project) => (
