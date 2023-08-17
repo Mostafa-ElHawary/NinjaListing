@@ -28,16 +28,18 @@ function Navbar() {
       </Link>
 
       <div className="flex space-x-6 md:space-x-4 items-center">
-        <Link href="/">
-          <div className="text-blue-600  font-bold text-lg md:text-xl">
-          <NavbarIcon Icon={HomeIcon} href="/" />
-
-          </div>
-        </Link>
         <Link href="https://web.facebook.com/groups/680461723922372/">
           <div className="text-blue-600 font-bold text-lg md:text-xl">
-          <NavbarIcon active={false} Icon={UserGroupIcon} href="https://web.facebook.com/groups/680461723922372/" />
-
+            <NavbarIcon
+              active={false}
+              Icon={UserGroupIcon}
+              href="https://web.facebook.com/groups/680461723922372/"
+            />
+          </div>
+        </Link>
+        <Link href="/">
+          <div className="text-blue-600  font-bold text-lg md:text-xl">
+            <NavbarIcon Icon={HomeIcon} href="/" />
           </div>
         </Link>
       </div>
