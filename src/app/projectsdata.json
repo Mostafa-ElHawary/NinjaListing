@@ -1,5 +1,4 @@
 [
-
   {
     "id": 1,
     "name": "Team 1",
@@ -36,7 +35,7 @@
       {
         "id": 1,
         "name": " Kanban-task-management-web-app ",
-        "status":"Pending",
+        "status": "Pending",
         "description": "Create a robust and user-friendly web-based platform designed to streamline task management through the implementation of a Kanban methodology. This Kanban Task Management Web App empowers users to efficiently organize tasks, collaborate seamlessly, and monitor project progress. Whether it's for personal use or team collaboration, this app is designed to enhance productivity and facilitate effective task tracking.",
         "conclusions": [
           {
@@ -47,25 +46,25 @@
                 "id": 1,
                 "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/hlb8i2xkwhhdevpbx1jb.jpg"
               },
-             
+
               {
-                "id":2,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1654885265/Challenges/blovaxconu7jof5w2rbu.jpg"
+                "id": 2,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1654885265/Challenges/blovaxconu7jof5w2rbu.jpg"
               },
               {
-                "id":3,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1654885265/Challenges/ni33puw1yoksdrpldzgt.jpg"
+                "id": 3,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1654885265/Challenges/ni33puw1yoksdrpldzgt.jpg"
               },
               {
-                "id":4,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1654885327/Challenges/waoapejtl5cpjy9makop.jpg"
+                "id": 4,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1654885327/Challenges/waoapejtl5cpjy9makop.jpg"
               }
             ]
           }
         ],
         "img": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/hlb8i2xkwhhdevpbx1jb.jpg",
-        "repo":"https://github.com/Mostafa-ElHawary/Kanban-task-management-web-app",
-        "demo":"https://mostafa-elhawary.github.io/Kanban-task-management-web-app/",
+        "repo": "https://github.com/Mostafa-ElHawary/Kanban-task-management-web-app",
+        "demo": "https://mostafa-elhawary.github.io/Kanban-task-management-web-app/",
         "features": [
           {
             "id": 1,
@@ -327,24 +326,22 @@
               }
             ]
           }
-          
         ]
       },
       {
         "id": 2,
         "name": " Online Marketplace for Local Artisans ",
-        "status":"To Do",
+        "status": "To Do",
         "description": "Create an online marketplace that connects local artisans and craftsmen with potential customers. The platform will allow artisans to showcase their products, manage orders, and interact with buyers, while customers can discover unique handmade items from their local community.",
         "conclusions": [
           {
             "id": 1,
             "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
             "slid": [
-            {
-              "id":1,
-              "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/b0fef5167600909.642bf6cd1fce6.jpg"
-            }
-            ,
+              {
+                "id": 1,
+                "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b0fef5167600909.642bf6cd1fce6.jpg"
+              },
               {
                 "id": 2,
                 "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/424c02167600909.642bf6cd22c61.jpg"
@@ -354,16 +351,16 @@
                 "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/aa6401167600909.642bf6cd21f5f.jpg"
               },
               {
-                "id":4,
-                "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/5503f2167600909.642bf6cd20d64.jpg"
+                "id": 4,
+                "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/5503f2167600909.642bf6cd20d64.jpg"
               }
             ]
           }
         ],
-        
+
         "img": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b0fef5167600909.642bf6cd1fce6.jpg",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -608,7 +605,7 @@
       {
         "id": 3,
         "name": " Task and Project Management System",
-        "status":"To Do",
+        "status": "To Do",
         "description": "Develop a comprehensive task and project management system that helps individuals and teams organize, track, and collaborate on tasks and projects. The system will provide a user-friendly interface for managing tasks, setting priorities, assigning responsibilities, and monitoring progress.",
         "conclusions": [
           {
@@ -622,8 +619,7 @@
               {
                 "id": 2,
                 "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/98b8df153992141.633a5fda9dca2.png"
-              }
-              ,
+              },
               {
                 "id": 3,
                 "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/94dce1153992141.633a5fda9f5de.png"
@@ -633,23 +629,23 @@
                 "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/9c71c5153992141.633a5fdaa1d78.png"
               },
               {
-                "id":5,
-                "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/bd23d4153992141.633a5fdaa447d.png"
+                "id": 5,
+                "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/bd23d4153992141.633a5fdaa447d.png"
               },
               {
-                "id":6,
-                "image":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/176cf8153992141.633a5fdaa0249.png"
+                "id": 6,
+                "image": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/176cf8153992141.633a5fdaa0249.png"
               },
               {
-                "id":7,
-                "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6bbb37153992141.633a5fdaa29de.png"
+                "id": 7,
+                "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6bbb37153992141.633a5fdaa29de.png"
               }
             ]
           }
         ],
         "img": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/97d35e153992141.633a5fda9cfe0.png",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -948,7 +944,7 @@
       {
         "id": 1,
         "name": " Interactive comments section ",
-        "status":"Pending",
+        "status": "Pending",
         "description": "Create an interactive comments section application that allows users to engage in discussions and share their thoughts on various topics. Users can post comments, upvote/downvote comments, reply to other users, and format their comments using Markdown. The app provides real-time updates, user notifications, and a user-friendly interface for a seamless commenting experience.",
         "conclusions": [
           {
@@ -959,25 +955,25 @@
                 "id": 1,
                 "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1639765916/Challenges/l3cxamx1e6vpngqjtdyt.jpg"
               },
-             
+
               {
-                "id":2,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1639765949/Challenges/vvcsdtjqyfzgvj4vvcwl.jpg"
+                "id": 2,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1639765949/Challenges/vvcsdtjqyfzgvj4vvcwl.jpg"
               },
               {
-                "id":3,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1639765982/Challenges/nqlhifst3uv1hb8tkibd.jpg"
+                "id": 3,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1639765982/Challenges/nqlhifst3uv1hb8tkibd.jpg"
               },
               {
-                "id":4,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1639766022/Challenges/fwkvt3bnvjw3hwplviwc.jpg"
+                "id": 4,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1639766022/Challenges/fwkvt3bnvjw3hwplviwc.jpg"
               }
             ]
           }
         ],
         "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1639765949/Challenges/vvcsdtjqyfzgvj4vvcwl.jpg",
-        "repo":"https://github.com/Mostafa-ElHawary/Interactive-comments-section",
-        "demo":"https://mostafa-elhawary.github.io/Interactive-comments-section/",
+        "repo": "https://github.com/Mostafa-ElHawary/Interactive-comments-section",
+        "demo": "https://mostafa-elhawary.github.io/Interactive-comments-section/",
         "features": [
           {
             "id": 1,
@@ -1084,13 +1080,12 @@
               }
             ]
           }
-          
         ]
       },
       {
         "id": 2,
         "name": " Online Learning Platform ",
-        "status":"To Do",
+        "status": "To Do",
         "description": "Create a comprehensive online learning platform where users can access and learn from a variety of courses. The platform will have features for course enrollment, progress tracking, interactive lessons, and user engagement.",
         "conclusions": [
           {
@@ -1101,17 +1096,17 @@
                 "id": 1,
                 "image": "https://cdn.dribbble.com/userupload/3940590/file/original-014d757a58734db8cb850590733e4228.png?resize=640x480"
               },
-             
+
               {
-                "id":2,
-                "image":"https://cdn.dribbble.com/userupload/3940592/file/original-3480c428062d021ccc502ad77e0b0fc4.png?resize=850x638"
+                "id": 2,
+                "image": "https://cdn.dribbble.com/userupload/3940592/file/original-3480c428062d021ccc502ad77e0b0fc4.png?resize=850x638"
               }
             ]
           }
         ],
         "img": "https://cdn.dribbble.com/userupload/3940590/file/original-014d757a58734db8cb850590733e4228.png?resize=640x480",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -1352,7 +1347,7 @@
       {
         "id": 3,
         "name": " Fitness Tracking App ",
-        "status":"To Do",
+        "status": "To Do",
 
         "description": "Develop a comprehensive fitness tracking application that allows users to set fitness goals, track their activities, and monitor their progress. The app will encompass both frontend and backend components, employing modern technologies to provide an engaging fitness experience.",
         "conclusions": [
@@ -1372,8 +1367,8 @@
           }
         ],
         "img": "https://cdn.dribbble.com/userupload/6543087/file/original-c5500bf122feb8bbe1c329bba5389ae9.png?resize=1905x1429",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -1671,7 +1666,7 @@
       {
         "id": 1,
         "name": " Notifications page ",
-        "status":"Pending",
+        "status": "Pending",
         "description": "Let's dive deeper into how you could handle each of these features for the Notifications page project, along with descriptions and possible conclusions",
         "conclusions": [
           {
@@ -1682,21 +1677,21 @@
                 "id": 1,
                 "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1663251784/Challenges/ouo4noiahpnxrrr0ds8o.jpg"
               },
-             
+
               {
-                "id":2,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1663251784/Challenges/it69nmszi3nz6p7xezsc.jpg"
+                "id": 2,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1663251784/Challenges/it69nmszi3nz6p7xezsc.jpg"
               },
               {
-                "id":3,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/zglfeij1tdtqrbufdzur.jpg"
+                "id": 3,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/zglfeij1tdtqrbufdzur.jpg"
               }
             ]
           }
         ],
         "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1663251784/Challenges/ouo4noiahpnxrrr0ds8o.jpg",
-        "repo":"https://github.com/Mostafa-ElHawary/Notifications-page",
-        "demo":"https://mostafa-elhawary.github.io/Notifications-page/",
+        "repo": "https://github.com/Mostafa-ElHawary/Notifications-page",
+        "demo": "https://mostafa-elhawary.github.io/Notifications-page/",
         "features": [
           {
             "id": 1,
@@ -1955,14 +1950,13 @@
               }
             ]
           }
-          
         ]
       },
-      
+
       {
         "id": 2,
         "name": " Online Food Delivery Platform ",
-        "status":"To Do",
+        "status": "To Do",
         "description": "Build a comprehensive online food delivery platform that connects customers with local restaurants, allowing them to browse menus, place orders, and have their favorite meals delivered to their doorstep. The platform should provide a user-friendly experience for both customers and restaurant owners",
         "conclusions": [
           {
@@ -1981,8 +1975,8 @@
           }
         ],
         "img": "https://cdn.dribbble.com/userupload/3290255/file/original-84cdd6b0e6a7369d13d1fa032eef410d.png?resize=1600x1200",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -2154,9 +2148,9 @@
         ]
       },
       {
-        "id":3,
+        "id": 3,
         "name": " Personal Finance Management App ",
-        "status":"To Do",
+        "status": "To Do",
         "description": "Develop a web-based personal finance management application that helps users track their income, expenses, budgets, and financial goals. The app will provide insights into their financial health and offer tools for better money management.",
         "conclusions": [
           {
@@ -2175,8 +2169,8 @@
           }
         ],
         "img": "https://cdn.dribbble.com/userupload/7795193/file/original-98f229847ff3c86f22a2de2fd5f31ea9.png?resize=1600x1200",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -2472,7 +2466,7 @@
       {
         "id": 1,
         "name": " Devjobs web app ",
-        "status":"Pending",
+        "status": "Pending",
         "description": "Create a comprehensive web-based Devjobs platform that facilitates a seamless connection between job seekers and employers. This application will empower job seekers to explore job listings tailored to their preferences and skills, while enabling employers to efficiently identify the best-suited candidates for their open positions. Through a user-friendly interface and a range of interactive features, the Devjobs platform will streamline the job search and hiring processes, ultimately benefiting both job seekers and employers.",
         "conclusions": [
           {
@@ -2483,21 +2477,21 @@
                 "id": 1,
                 "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1623686670/Challenges/fhedaddg5fbhequwkoao.jpg"
               },
-             
+
               {
-                "id":2,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1623686669/Challenges/syy3yy4gbezvrok5etwg.jpg"
+                "id": 2,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1623686669/Challenges/syy3yy4gbezvrok5etwg.jpg"
               },
               {
-                "id":3,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1623686669/Challenges/lrje9tanfhehvrsx6tnd.jpg"
+                "id": 3,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1623686669/Challenges/lrje9tanfhehvrsx6tnd.jpg"
               }
             ]
           }
         ],
         "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1623686669/Challenges/syy3yy4gbezvrok5etwg.jpg",
-        "repo":"https://github.com/Mostafa-ElHawary/Devjobs-web-app",
-        "demo":"https://mostafa-elhawary.github.io/Devjobs-web-app/",
+        "repo": "https://github.com/Mostafa-ElHawary/Devjobs-web-app",
+        "demo": "https://mostafa-elhawary.github.io/Devjobs-web-app/",
         "features": [
           {
             "id": 1,
@@ -2754,13 +2748,12 @@
               }
             ]
           }
-          
         ]
-      },   
+      },
       {
         "id": 2,
         "name": " Online Marketplace for Handmade Crafts ",
-        "status":"To Do",
+        "status": "To Do",
         "description": "Create an online platform where artisans and crafters can showcase and sell their unique handmade crafts, while customers can browse and purchase these items. The platform will provide a marketplace for connecting creators and buyers, enhancing the appreciation of handcrafted products.",
         "conclusions": [
           {
@@ -2779,8 +2772,8 @@
           }
         ],
         "img": "https://cdn.dribbble.com/userupload/3248151/file/original-5e54831e0f42cc6c4d40daae50979df3.png?resize=1600x1200",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -3038,7 +3031,7 @@
       {
         "id": 3,
         "name": " Recipe Sharing and Meal Planning App ",
-        "status":"To Do",
+        "status": "To Do",
         "description": "Develop a web-based platform where users can discover, share, and plan meals. The app will allow users to explore new recipes, create meal plans, and collaborate with others to enhance their cooking and meal preparation experience.",
         "conclusions": [
           {
@@ -3057,8 +3050,8 @@
           }
         ],
         "img": "https://cdn.dribbble.com/users/1804673/screenshots/12209180/media/0df0e84fa3e27d1bc07bdff7726efced.png",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -3346,7 +3339,7 @@
       {
         "id": 1,
         "name": " Job listings with filtering ",
-        "status":"Pending",
+        "status": "Pending",
         "description": "Embark on the creation of an innovative web-based platform known as 'Job Listings with Filtering.' This project is poised to revolutionize the job search landscape by providing users with a dynamic and efficient means to explore job opportunities that align with their aspirations and qualifications. By seamlessly integrating advanced filtering capabilities into the job search process, this platform will empower job seekers and employers alike to engage in a more targeted and personalized recruitment experience.",
         "conclusions": [
           {
@@ -3357,17 +3350,17 @@
                 "id": 1,
                 "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1653574062/Challenges/ewpgjktgzsoeprh5opko.jpg"
               },
-             
+
               {
-                "id":2,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1653574062/Challenges/qlsbtzneygd4bumwadam.jpg"
+                "id": 2,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1653574062/Challenges/qlsbtzneygd4bumwadam.jpg"
               }
             ]
           }
         ],
         "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1653574062/Challenges/ewpgjktgzsoeprh5opko.jpg",
-        "repo":"https://github.com/Mostafa-ElHawary/Job-listings-with-filtering",
-        "demo":"https://mostafa-elhawary.github.io/Job-listings-with-filtering/",
+        "repo": "https://github.com/Mostafa-ElHawary/Job-listings-with-filtering",
+        "demo": "https://mostafa-elhawary.github.io/Job-listings-with-filtering/",
         "features": [
           {
             "id": 1,
@@ -3585,13 +3578,12 @@
               }
             ]
           }
-          
         ]
-      }, 
+      },
       {
         "id": 2,
         "name": " Online Learning Management System ",
-        "status":"To Do",
+        "status": "To Do",
         "description": "Develop a comprehensive online learning management system that allows instructors to create and deliver courses, manage student enrollments, and facilitate interactive learning experiences. The platform will empower instructors to share their expertise and engage with students effectively.",
         "conclusions": [
           {
@@ -3610,8 +3602,8 @@
           }
         ],
         "img": "https://cdn.dribbble.com/userupload/4020341/file/original-84270be086ac1611476289257ab639d9.png?resize=1905x1429",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -3869,7 +3861,7 @@
       {
         "id": 3,
         "name": " Online Marketplace Platform ",
-        "status":"To Do",
+        "status": "To Do",
         "description": "Develop an online marketplace platform that allows users to buy and sell various products. This project will cover a wide range of functionalities and technologies, making it an excellent opportunity for students to learn about full-stack development.",
         "conclusions": [
           {
@@ -3888,8 +3880,8 @@
           }
         ],
         "img": "https://cdn.dribbble.com/userupload/2578697/file/original-12b84ee6ffdd1c6bc33d4c4bac7f625c.png?resize=1600x1200",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -4078,7 +4070,7 @@
       {
         "id": 1,
         "name": " Entertainment web app ",
-        "status":"Pending",
+        "status": "Pending",
         "description": "Create an innovative web-based Entertainment platform that offers users a captivating and diverse range of content to indulge in. The Entertainment Web App will serve as a one-stop destination for users to discover, engage with, and enjoy various forms of entertainment, such as movies, TV shows, music, articles, and games. By leveraging cutting-edge technology and user-centered design, this platform will revolutionize the way people access and interact with entertainment content.",
         "conclusions": [
           {
@@ -4089,25 +4081,25 @@
                 "id": 1,
                 "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924284/Challenges/deoobakhb8qajszqrnv5.jpg"
               },
-             
+
               {
-                "id":2,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1646924199/Challenges/ceedr4akadxr0yqn142q.jpg"
+                "id": 2,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924199/Challenges/ceedr4akadxr0yqn142q.jpg"
               },
               {
-                "id":3,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1646924284/Challenges/zoybsht0sfshyonc60tl.jpg"
+                "id": 3,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924284/Challenges/zoybsht0sfshyonc60tl.jpg"
               },
               {
-                "id":4,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1646924408/Challenges/mpqt2crxi11qg5cgr7k2.jpg"
+                "id": 4,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924408/Challenges/mpqt2crxi11qg5cgr7k2.jpg"
               }
             ]
           }
         ],
         "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924284/Challenges/deoobakhb8qajszqrnv5.jpg",
-        "repo":"https://github.com/Mostafa-ElHawary/Entertainment-web-app",
-        "demo":"https://mostafa-elhawary.github.io/Entertainment-web-app/",
+        "repo": "https://github.com/Mostafa-ElHawary/Entertainment-web-app",
+        "demo": "https://mostafa-elhawary.github.io/Entertainment-web-app/",
         "features": [
           {
             "id": 1,
@@ -4365,13 +4357,12 @@
               }
             ]
           }
-          
         ]
-      }, 
+      },
       {
         "id": 2,
         "name": " Social Media Platform ",
-        "status":"To Do",
+        "status": "To Do",
         "description": "Create a social media platform that enables users to connect, share posts, and engage with content. This project will give your students a chance to delve into various aspects of full-stack development, from user interactions to data management.",
         "conclusions": [
           {
@@ -4390,8 +4381,8 @@
           }
         ],
         "img": "https://cdn.dribbble.com/users/1788965/screenshots/17000563/media/ead6692ef2ceab36459a0214a543a166.png",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -4542,7 +4533,7 @@
       {
         "id": 3,
         "name": " E-Commerce Platform ",
-        "status":"To Do",
+        "status": "To Do",
         "description": "Develop an e-commerce platform that enables users to browse, shop, and manage their orders. This project will provide your students with valuable experience in building a complex web application that involves various aspects of full-stack development.",
         "conclusions": [
           {
@@ -4561,8 +4552,8 @@
           }
         ],
         "img": "https://cdn.dribbble.com/userupload/3956908/file/original-330b830777da492ec3c5dfebb0ea4e45.png?resize=1000x750",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -4757,7 +4748,7 @@
       {
         "id": 1,
         "name": " Entertainment web app ",
-        "status":"Pending",
+        "status": "Pending",
         "description": "The Product Feedback App is a dynamic web-based platform designed to facilitate seamless communication between users and product development teams. It empowers users to provide valuable feedback, suggestions, and ideas for improving products and services. Through an intuitive interface, the app enables users to submit their thoughts, upvote or downvote existing feedback, and participate in discussions surrounding various products. With a focus on user engagement and collaboration, the Product Feedback App bridges the gap between customers and the teams responsible for enhancing products.",
         "conclusions": [
           {
@@ -4768,22 +4759,22 @@
                 "id": 1,
                 "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621706/Challenges/uf4zb5ufaresipumy7jb.jpg"
               },
-             
+
               {
-                "id":2,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1624621619/Challenges/vnx44muoxqyn886oi5sb.jpg"
+                "id": 2,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621619/Challenges/vnx44muoxqyn886oi5sb.jpg"
               },
 
               {
-                "id":3,
-                "image":"https://res.cloudinary.com/dz209s6jk/image/upload/v1624621762/Challenges/tsaibconxg9gus3xvdpj.jpg"
+                "id": 3,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621762/Challenges/tsaibconxg9gus3xvdpj.jpg"
               }
             ]
           }
         ],
         "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621706/Challenges/uf4zb5ufaresipumy7jb.jpg",
-        "repo":"https://github.com/Mostafa-ElHawary/Product-feedback-app",
-        "demo":"https://mostafa-elhawary.github.io/Product-feedback-app/",
+        "repo": "https://github.com/Mostafa-ElHawary/Product-feedback-app",
+        "demo": "https://mostafa-elhawary.github.io/Product-feedback-app/",
         "features": [
           {
             "id": 1,
@@ -5039,13 +5030,12 @@
               }
             ]
           }
-          
         ]
-      }, 
+      },
       {
         "id": 2,
         "name": " Online Event Management System ",
-        "status":"To Do",
+        "status": "To Do",
         "description": "Develop a comprehensive online platform that enables event organizers to create, manage, and promote various events while allowing attendees to browse and register for these events.",
         "conclusions": [
           {
@@ -5064,8 +5054,8 @@
           }
         ],
         "img": "https://cdn.dribbble.com/users/5031392/screenshots/14547016/media/5f1ea18845904c363792ed5145e47348.png",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -5215,7 +5205,7 @@
       {
         "id": 3,
         "name": " Online Task Management System ",
-        "status":"To Do",
+        "status": "To Do",
         "description": "Create an online task management system that allows users to create, organize, and track their tasks. The system will consist of a web application with both frontend and backend components. This project will cover various aspects of full-stack development, including user authentication, database management, API design, and responsive frontend design.",
         "conclusions": [
           {
@@ -5234,8 +5224,8 @@
           }
         ],
         "img": "https://cdn.dribbble.com/users/443226/screenshots/7141724/media/72d3e061d067fdc7452389289acc0982.jpg",
-        "repo":false,
-        "demo":false,
+        "repo": false,
+        "demo": false,
         "features": [
           {
             "id": 1,
@@ -5386,5 +5376,4 @@
       }
     ]
   }
-
 ]
