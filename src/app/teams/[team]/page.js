@@ -18,7 +18,7 @@ export default async function Teams({ params }) {
               >
                 <div className="flex items-start space-x-4 p-4  border-gray-300 rounded-lg bg-white ">
                   <img
-                    src="https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=muDZJmUNejIAX9AttR1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDIBwU2g3bTvfN-1rUPk2hLK2qhN6prdmJbJI0YOpsEoQ&oe=64D5877A"
+                    src="https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=udzABnJ4z2AAX-jTMgh&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCFZwYxcfcfdw7-X3tfRAGbAZT0ZyE4xanJvfs4UwWVjg&oe=64E5597A"
                     alt="Profile"
                     className="w-12 h-12 rounded-full"
                   />
