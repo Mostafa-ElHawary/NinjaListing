@@ -27,11 +27,11 @@ export default function Teams({ params }) {
   );
 
   if (!selectedTeam) {
-    return <div>Team not found</div>;
+    return <div>Team Not Found</div>;
   }
 
   if (!selectedProject) {
-    return <div>Project not found</div>;
+    return <div>Project Not Found</div>;
   }
 
   return (
