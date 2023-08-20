@@ -1,4 +1,5 @@
 [
+  
   {
     "id": 1,
     "name": "Team 1",
@@ -29,6 +30,27 @@
       {
         "id": 6,
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/325733683_1328192914629851_8402537316679469055_n.jpg?stp=c1.0.160.160a_dst-jpg_p160x160&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFusI4QHCAIkGJxz_-ZhQQQMb0aXEMbkJAxvRpcQxuQkGpr8sAFq3OSqXZ3XCHC7jMc9OqOjjUjT3HO5mgXW1tB&_nc_ohc=C5SbWiMTWm8AX_BVl34&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCdJZqGEfCV9JlkaQPouhKse0ySk9PiUPctcP9Tf_z09A&oe=64DA3B14"
+      },
+      {
+        "id": 7,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/84303757_848254418938552_9034058038884958208_n.jpg?stp=dst-jpg_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHxHOvedbrZO-prQhoSXGf9gUMCXJ90WfuBQwJcn3RZ-6HdLa0fPzvWUVVRWlWFSIwy2Yvfi5eDMWbNXSNqosnK&_nc_ohc=k7i9CmqJSpoAX_TuH9l&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDE6KqvOA8KAq9LYA1OvUP1sFNHa_-BJsLyQO5cmxtKjA&oe=64FC2B5F"
+      },
+      {
+        "id": 8,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/349183306_1195944417966868_5539558708219727534_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFmUMQn7rgin3oSFV0bZIZrS__Ur-0XnDVL_9Sv7RecNYF1D7cwkXdBVVctmVX5Ozpi6bXDqRWzCCi4dH_8mVv1&_nc_ohc=okqYJ_LqzykAX-FocDj&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAfOItt4uGaRIm5xh9HHVV_7USwWTNw7EuQ-sIjKvvFkA&oe=64E4ED26"
+      },
+     
+      {
+        "id": 9,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.18169-1/12718352_441057932770375_6852945249867423286_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHx5Hn0Bpf9PDmm9PKvq_0aKZA6fU65XOEpkDp9Trlc4XZvItFHTlj3LQW-CqgmPpqmGERDq12BVAXYwOax1lqf&_nc_ohc=PVYirT0hrXEAX9RrxZN&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAjN4TKtvSIXLqSNyxbQN6j1ZssMMq_uqdV53ybWIxjgQ&oe=64FC1697"
+      },
+      {
+        "id": 10,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/358374802_1306414276633628_449858033973760490_n.jpg?stp=dst-jpg_p320x320&_nc_cat=103&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH-wLj4gizkbDyPvfW724x5jWKh53MsMOCNYqHncyww4CuWa_KZJwhjhu0vdaVR611hSkOlRjXAgZhBwV5pbXCn&_nc_ohc=wM9LJjmEkgQAX_K8aF-&_nc_oc=AQnbfvqmE5sRaaOByYq_AVGVjlZQf7noOgG60e3BY3HG_wFpQ-0ZtBVuBAw8vcsni7M&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCC3vqNs8dyffTNYh2q8ctpedp9DfuHpsLqMLHfRgSUTw&oe=64D9F93A"
+      },
+      {
+        "id": 11,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX8UViiI&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDAaLDyp27smMbHEmbqgP5QvLHNDgVlq7vVaRVF9uD9bQ&oe=64FC16F8"
       }
     ],
     "projects": [
@@ -905,6 +927,767 @@
             ]
           }
         ]
+      },
+      {
+        "id": 4,
+        "name": " Notifications page ",
+        "status": "Pending",
+        "description": "Let's dive deeper into how you could handle each of these features for the Notifications page project, along with descriptions and possible conclusions",
+        "conclusions": [
+          {
+            "id": 1,
+            "title": "By incorporating these features into your project, your students will gain hands-on experience with various aspects of full-stack development, including frontend UI/UX, backend APIs, real-time communication, database design, security, testing, and deployment. This project will provide them with a well-rounded understanding of building a complex web application and prepare them for real-world software engineering challenges.",
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1663251784/Challenges/ouo4noiahpnxrrr0ds8o.jpg"
+              },
+
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1663251784/Challenges/it69nmszi3nz6p7xezsc.jpg"
+              },
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/zglfeij1tdtqrbufdzur.jpg"
+              }
+            ]
+          }
+        ],
+        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1663251784/Challenges/ouo4noiahpnxrrr0ds8o.jpg",
+        "repo": "https://github.com/Mostafa-ElHawary/Notifications-page",
+        "demo": "https://mostafa-elhawary.github.io/Notifications-page/",
+        "features": [
+          {
+            "id": 1,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Authentication and Authorization",
+                "topic": [
+                  "Allow users to register with their email and password.",
+                  "Provide secure login and token-based authentication.",
+                  "Implement role-based authorization to distinguish between regular users and administrators."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Real-time Notifications",
+                "topic": [
+                  "Implement real-time notifications using WebSocket or Server-Sent Events (SSE).",
+                  "Display notifications instantly as they are generated."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Notification Types",
+                "topic": [
+                  "Support various notification types, such as messages, friend requests, likes, comments, etc.",
+                  "Allow users to customize notification preferences for different types."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Notification List",
+                "topic": [
+                  "Display notifications in a list with relevant information like sender, content, and timestamp.",
+                  "Enable actions like marking as read, deleting, or archiving notifications."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Pagination and Infinite Scrolling",
+                "topic": [
+                  "Implement pagination or infinite scrolling to handle a large number of notifications efficiently."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Notification Filtering and Sorting",
+                "topic": [
+                  "Allow users to filter notifications based on categories or by read/unread status.",
+                  "Implement sorting options like sorting by date, type, or importance."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Notification Settings",
+                "topic": [
+                  "Create a settings page where users can manage notification preferences.",
+                  "Provide options to enable/disable certain notification types and choose delivery methods."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Database Design",
+                "topic": [
+                  "Design a database schema to store user profiles, notification data, and their relationships.",
+                  "Use a relational database or NoSQL database, based on the project's requirements."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Backend API Development",
+                "topic": [
+                  "Develop RESTful or GraphQL APIs for creating, retrieving, updating, and deleting notifications.",
+                  "Secure the APIs using authentication and authorization tokens."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Frontend UI/UX",
+                "topic": [
+                  "Design an intuitive and responsive user interface for the Notifications page.",
+                  "Apply modern UI frameworks like React, Angular, or Vue.js for frontend development."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Real-time Updates",
+                "topic": [
+                  "Use a library like Socket.IO to facilitate real-time updates of notifications.",
+                  "Update the UI automatically when a new notification arrives."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Notification Badge and Indicators",
+                "topic": [
+                  "Display a badge with the number of unread notifications on the page header.",
+                  "Use visual indicators (such as changing colors) to distinguish between read and unread notifications."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Mobile Responsiveness",
+                "topic": [
+                  "Ensure the Notifications page is responsive and user-friendly on mobile devices."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Error Handling and Validation",
+                "topic": [
+                  "Implement thorough input validation and error handling on both the frontend and backend.",
+                  "Display user-friendly error messages to guide users in case of mistakes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Profile Integration",
+                "topic": [
+                  "Link the Notifications page to the user's profile.",
+                  "Allow users to navigate back and forth between the profile and notifications."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Testing",
+                "topic": [
+                  "Write unit tests for both frontend and backend components.",
+                  "Implement end-to-end testing to simulate user scenarios."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Documentation",
+                "topic": [
+                  "Create clear and concise documentation for setting up the project, APIs, and deployment instructions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Deployment",
+                "topic": [
+                  "Deploy the application to a cloud platform like AWS, Heroku, or Netlify.",
+                  "Configure CI/CD pipelines for automated deployment."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Analytics and Monitoring",
+                "topic": [
+                  "Integrate analytics tools to track user engagement and interactions with notifications.",
+                  "Set up error monitoring to proactively detect and address issues."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Security Measures",
+                "topic": [
+                  "Implement security best practices to protect user data and prevent common vulnerabilities like cross-site scripting (XSS) and SQL injection."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": 5,
+        "name": " Online Food Delivery Platform ",
+        "status": "To Do",
+        "description": "Build a comprehensive online food delivery platform that connects customers with local restaurants, allowing them to browse menus, place orders, and have their favorite meals delivered to their doorstep. The platform should provide a user-friendly experience for both customers and restaurant owners",
+        "conclusions": [
+          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
+              },
+              {
+                "id": 2,
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
+              }
+            ]
+          }
+        ],
+        "img": "https://cdn.dribbble.com/userupload/3290255/file/original-84cdd6b0e6a7369d13d1fa032eef410d.png?resize=1600x1200",
+        "repo": false,
+        "demo": false,
+        "features": [
+          {
+            "id": 1,
+            "name": "User Authentication and Profiles",
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "User registration and login using email or social media accounts.",
+                  "User profiles with order history, delivery addresses, and payment methods."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Restaurant Listings",
+            "description": [
+              {
+                "title": "Restaurant Listings",
+                "topic": [
+                  "Display a list of restaurants with images, ratings, and delivery time estimates.",
+                  "Search and filter options based on cuisine, location, and ratings."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Menu Exploration",
+            "description": [
+              {
+                "title": "Menu Exploration",
+                "topic": [
+                  "Users can explore restaurant menus with item descriptions, images, and prices.",
+                  "Categorized menus for easy navigation."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Food Ordering",
+            "description": [
+              {
+                "title": "Food Ordering",
+                "topic": [
+                  "Users can add items to their cart, customize orders (e.g., toppings), and specify delivery details.",
+                  "Real-time price calculation and order summary."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Payment Integration",
+            "description": [
+              {
+                "title": "Payment Integration",
+                "topic": [
+                  "Integration with payment gateways for secure online payments.",
+                  "Support for multiple payment methods like credit cards, mobile wallets, and cash on delivery."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Order Tracking",
+            "description": [
+              {
+                "title": "Order Tracking",
+                "topic": [
+                  "Real-time order tracking with updates on order preparation, delivery, and estimated arrival time.",
+                  "Notifications via SMS or app notifications."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Ratings and Reviews",
+            "description": [
+              {
+                "title": "Ratings and Reviews",
+                "topic": [
+                  "Users can rate restaurants and leave reviews for dishes.",
+                  "Display average ratings and reviews on restaurant and dish pages."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Promotions and Discounts",
+            "description": [
+              {
+                "title": "Promotions and Discounts",
+                "topic": [
+                  "Apply promo codes and discounts during checkout.",
+                  "Highlight ongoing offers and promotions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Delivery Management",
+            "description": [
+              {
+                "title": "Delivery Management",
+                "topic": [
+                  "Backend for delivery personnel to manage order assignments, status updates, and navigation.",
+                  "Real-time updates on order assignments and location."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Customer Support",
+            "description": [
+              {
+                "title": "Customer Support",
+                "topic": [
+                  "In-app chat or support ticket system for addressing user inquiries and issues."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Admin Dashboard",
+            "description": [
+              {
+                "title": "Admin Dashboard",
+                "topic": [
+                  "Dashboard for restaurant owners to manage menus, update availability, and process orders.",
+                  "Admin panel to monitor platform health, user activity, and resolve disputes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Data Analytics",
+            "description": [
+              {
+                "title": "Data Analytics",
+                "topic": [
+                  "Analyze user behavior, popular dishes, and peak ordering times.",
+                  "Generate insights to improve user experience and business decisions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Responsive Design",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the platform is accessible and user-friendly across various devices."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": " Personal Finance Management App ",
+        "status": "To Do",
+        "description": "Develop a web-based personal finance management application that helps users track their income, expenses, budgets, and financial goals. The app will provide insights into their financial health and offer tools for better money management.",
+        "conclusions": [
+          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
+              },
+              {
+                "id": 2,
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
+              }
+            ]
+          }
+        ],
+        "img": "https://cdn.dribbble.com/userupload/7795193/file/original-98f229847ff3c86f22a2de2fd5f31ea9.png?resize=1600x1200",
+        "repo": false,
+        "demo": false,
+        "features": [
+          {
+            "id": 1,
+            "name": "User Authentication and Profiles",
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "Users can create accounts, log in, and reset passwords.",
+                  "Users can create profiles with personal information and financial goals.",
+                  "Implement OAuth authentication for third-party login options."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Expense Tracking and Categorization",
+            "description": [
+              {
+                "title": "Expense Tracking and Categorization",
+                "topic": [
+                  "Allow users to log their expenses, categorize them (e.g., groceries, utilities, entertainment), and add optional descriptions.",
+                  "Provide options to upload photos of receipts."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Income Management",
+            "description": [
+              {
+                "title": "Income Management",
+                "topic": [
+                  "Users can record different sources of income, such as salary, freelance work, or investments.",
+                  "Display total income and calculate net cash flow."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Budget Creation and Monitoring",
+            "description": [
+              {
+                "title": "Budget Creation and Monitoring",
+                "topic": [
+                  "Enable users to set monthly budgets for various expense categories.",
+                  "Display progress and alerts when budget limits are exceeded."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Financial Goals and Savings",
+            "description": [
+              {
+                "title": "Financial Goals and Savings",
+                "topic": [
+                  "Allow users to define financial goals (e.g., saving for a vacation, emergency fund, retirement).",
+                  "Provide a progress tracker and tips to achieve these goals."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Expense Analysis and Visualization",
+            "description": [
+              {
+                "title": "Expense Analysis and Visualization",
+                "topic": [
+                  "Generate charts and graphs to visualize spending patterns over time.",
+                  "Display insights into which categories contribute the most to expenses."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Reminder and Notification System",
+            "description": [
+              {
+                "title": "Reminder and Notification System",
+                "topic": [
+                  "Send reminders for upcoming bill payments, subscription renewals, or savings milestones.",
+                  "Provide notifications for budget updates and financial achievements."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Currency Conversion (Optional)",
+            "description": [
+              {
+                "title": "Currency Conversion (Optional)",
+                "topic": [
+                  "Integrate currency conversion for international users who deal with multiple currencies."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Secure Data Storage",
+            "description": [
+              {
+                "title": "Secure Data Storage",
+                "topic": [
+                  "Implement data encryption for sensitive financial information and adhere to data protection regulations."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Responsive Design",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the application is accessible and responsive on various devices, including desktops and mobile devices."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Backend Services",
+            "description": [
+              {
+                "title": "Backend Services",
+                "topic": [
+                  "Develop a backend server using technologies like Node.js, Express, or Flask.",
+                  "Create RESTful APIs for user management, financial data storage, and analytics."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Database Management",
+            "description": [
+              {
+                "title": "Database Management",
+                "topic": [
+                  "Choose a database such as PostgreSQL or MySQL to store user profiles, financial transactions, and goals."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Payment Integration (Optional)",
+            "description": [
+              {
+                "title": "Payment Integration (Optional)",
+                "topic": [
+                  "Integrate payment gateways for users to pay bills directly through the app."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "User Data Privacy and Security",
+            "description": [
+              {
+                "title": "User Data Privacy and Security",
+                "topic": [
+                  "Implement encryption for sensitive user information and financial data."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Deployment and Hosting",
+            "description": [
+              {
+                "title": "Deployment and Hosting",
+                "topic": [
+                  "Deploy the frontend on platforms like Netlify or Vercel.",
+                  "Host the backend on services like Heroku or AWS."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Testing and Quality",
+            "description": [
+              {
+                "title": "Testing and Quality",
+                "topic": [
+                  "Conduct thorough testing to ensure accurate calculations and a user-friendly interface."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Multi-Language Support",
+            "description": [
+              {
+                "title": "Multi-Language Support",
+                "topic": [
+                  "Offer language options to cater to users from different regions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Backup and Data Export",
+            "description": [
+              {
+                "title": "Backup and Data Export",
+                "topic": [
+                  "Allow users to export their financial data for backup or analysis purposes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Investment Tracking (Optional)",
+            "description": [
+              {
+                "title": "Investment Tracking (Optional)",
+                "topic": [
+                  "Integrate with investment platforms or APIs to track investment portfolios."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Financial Education Resources",
+            "description": [
+              {
+                "title": "Financial Education Resources",
+                "topic": [
+                  "Provide articles or resources related to financial literacy and money management."
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -1626,70 +2409,40 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "name": "Team 3",
-    "techstack": "React | Node",
-    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
-    "images": [
-      {
-        "id": 1,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/84303757_848254418938552_9034058038884958208_n.jpg?stp=dst-jpg_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHxHOvedbrZO-prQhoSXGf9gUMCXJ90WfuBQwJcn3RZ-6HdLa0fPzvWUVVRWlWFSIwy2Yvfi5eDMWbNXSNqosnK&_nc_ohc=k7i9CmqJSpoAX_TuH9l&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDE6KqvOA8KAq9LYA1OvUP1sFNHa_-BJsLyQO5cmxtKjA&oe=64FC2B5F"
-      },
-      {
-        "id": 2,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/349183306_1195944417966868_5539558708219727534_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFmUMQn7rgin3oSFV0bZIZrS__Ur-0XnDVL_9Sv7RecNYF1D7cwkXdBVVctmVX5Ozpi6bXDqRWzCCi4dH_8mVv1&_nc_ohc=okqYJ_LqzykAX-FocDj&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAfOItt4uGaRIm5xh9HHVV_7USwWTNw7EuQ-sIjKvvFkA&oe=64E4ED26"
-      },
-      {
-        "id": 3,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/193118817_1483247458674064_6065421771220558092_n.jpg?stp=dst-jpg_p320x320&_nc_cat=102&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGFu-CtvWfYZOOMy5xccxg1uRrhuu3CX1G5GuG67cJfUS3r29iHfE4vpGv8z6wUl0ac4GErAEmKC_qBZ0RnStQT&_nc_ohc=BQl8wSKl9coAX_SeZgR&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCQBz8QMqyncnx6z0Pg1Wus8HU25XFetXFow-r6Y7wbjw&oe=64FC254D"
       },
       {
         "id": 4,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.18169-1/12718352_441057932770375_6852945249867423286_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHx5Hn0Bpf9PDmm9PKvq_0aKZA6fU65XOEpkDp9Trlc4XZvItFHTlj3LQW-CqgmPpqmGERDq12BVAXYwOax1lqf&_nc_ohc=PVYirT0hrXEAX9RrxZN&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAjN4TKtvSIXLqSNyxbQN6j1ZssMMq_uqdV53ybWIxjgQ&oe=64FC1697"
-      },
-      {
-        "id": 5,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/358374802_1306414276633628_449858033973760490_n.jpg?stp=dst-jpg_p320x320&_nc_cat=103&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH-wLj4gizkbDyPvfW724x5jWKh53MsMOCNYqHncyww4CuWa_KZJwhjhu0vdaVR611hSkOlRjXAgZhBwV5pbXCn&_nc_ohc=wM9LJjmEkgQAX_K8aF-&_nc_oc=AQnbfvqmE5sRaaOByYq_AVGVjlZQf7noOgG60e3BY3HG_wFpQ-0ZtBVuBAw8vcsni7M&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCC3vqNs8dyffTNYh2q8ctpedp9DfuHpsLqMLHfRgSUTw&oe=64D9F93A"
-      },
-      {
-        "id": 6,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX8UViiI&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDAaLDyp27smMbHEmbqgP5QvLHNDgVlq7vVaRVF9uD9bQ&oe=64FC16F8"
-      }
-    ],
-    "projects": [
-      {
-        "id": 1,
-        "name": " Notifications page ",
+        "name": " Entertainment web app ",
         "status": "Pending",
-        "description": "Let's dive deeper into how you could handle each of these features for the Notifications page project, along with descriptions and possible conclusions",
+        "description": "Create an innovative web-based Entertainment platform that offers users a captivating and diverse range of content to indulge in. The Entertainment Web App will serve as a one-stop destination for users to discover, engage with, and enjoy various forms of entertainment, such as movies, TV shows, music, articles, and games. By leveraging cutting-edge technology and user-centered design, this platform will revolutionize the way people access and interact with entertainment content.",
         "conclusions": [
           {
             "id": 1,
-            "title": "By incorporating these features into your project, your students will gain hands-on experience with various aspects of full-stack development, including frontend UI/UX, backend APIs, real-time communication, database design, security, testing, and deployment. This project will provide them with a well-rounded understanding of building a complex web application and prepare them for real-world software engineering challenges.",
+            "title": "This project will provide your students with a well-rounded experience in building a full-stack entertainment web application. It covers various aspects of modern web development, from user interaction and content management to security and deployment strategies.",
             "slid": [
               {
                 "id": 1,
-                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1663251784/Challenges/ouo4noiahpnxrrr0ds8o.jpg"
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924284/Challenges/deoobakhb8qajszqrnv5.jpg"
               },
 
               {
                 "id": 2,
-                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1663251784/Challenges/it69nmszi3nz6p7xezsc.jpg"
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924199/Challenges/ceedr4akadxr0yqn142q.jpg"
               },
               {
                 "id": 3,
-                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/zglfeij1tdtqrbufdzur.jpg"
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924284/Challenges/zoybsht0sfshyonc60tl.jpg"
+              },
+              {
+                "id": 4,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924408/Challenges/mpqt2crxi11qg5cgr7k2.jpg"
               }
             ]
           }
         ],
-        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1663251784/Challenges/ouo4noiahpnxrrr0ds8o.jpg",
-        "repo": "https://github.com/Mostafa-ElHawary/Notifications-page",
-        "demo": "https://mostafa-elhawary.github.io/Notifications-page/",
+        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924284/Challenges/deoobakhb8qajszqrnv5.jpg",
+        "repo": "https://github.com/Mostafa-ElHawary/Entertainment-web-app",
+        "demo": "https://mostafa-elhawary.github.io/Entertainment-web-app/",
         "features": [
           {
             "id": 1,
@@ -1710,10 +2463,10 @@
             "name": "Features",
             "description": [
               {
-                "title": "Real-time Notifications",
+                "title": "Content Categories and Genres",
                 "topic": [
-                  "Implement real-time notifications using WebSocket or Server-Sent Events (SSE).",
-                  "Display notifications instantly as they are generated."
+                  "Categorize entertainment content into genres, such as movies, TV shows, music, games, articles, etc.",
+                  "Provide an intuitive navigation menu for users to explore content by category."
                 ]
               }
             ]
@@ -1723,10 +2476,10 @@
             "name": "Features",
             "description": [
               {
-                "title": "Notification Types",
+                "title": "Content Discovery",
                 "topic": [
-                  "Support various notification types, such as messages, friend requests, likes, comments, etc.",
-                  "Allow users to customize notification preferences for different types."
+                  "Display featured, trending, and recommended content on the homepage.",
+                  "Implement a search bar for users to find specific content quickly."
                 ]
               }
             ]
@@ -1736,10 +2489,10 @@
             "name": "Features",
             "description": [
               {
-                "title": "Notification List",
+                "title": "Personalized Recommendations",
                 "topic": [
-                  "Display notifications in a list with relevant information like sender, content, and timestamp.",
-                  "Enable actions like marking as read, deleting, or archiving notifications."
+                  "Use user preferences and viewing history to offer personalized content recommendations.",
+                  "Display a 'Recommended for You' section that suggests content aligned with the user's interests."
                 ]
               }
             ]
@@ -1749,9 +2502,10 @@
             "name": "Features",
             "description": [
               {
-                "title": "Pagination and Infinite Scrolling",
+                "title": "Media Playback",
                 "topic": [
-                  "Implement pagination or infinite scrolling to handle a large number of notifications efficiently."
+                  "Enable users to stream movies, TV shows, and music directly on the platform.",
+                  "Provide playback controls, volume adjustments, and quality settings."
                 ]
               }
             ]
@@ -1761,10 +2515,10 @@
             "name": "Features",
             "description": [
               {
-                "title": "Notification Filtering and Sorting",
+                "title": "User Interaction",
                 "topic": [
-                  "Allow users to filter notifications based on categories or by read/unread status.",
-                  "Implement sorting options like sorting by date, type, or importance."
+                  "Allow users to rate, review, and comment on content.",
+                  "Implement social sharing features to let users share their favorite content with friends."
                 ]
               }
             ]
@@ -1774,151 +2528,149 @@
             "name": "Features",
             "description": [
               {
-                "title": "Notification Settings",
+                "title": "Playlists and Collections",
                 "topic": [
-                  "Create a settings page where users can manage notification preferences.",
-                  "Provide options to enable/disable certain notification types and choose delivery methods."
+                  "Enable users to create and manage playlists or collections of their favorite content.",
+                  "Provide options to share playlists with others or keep them private."
                 ]
               }
             ]
           },
           {
             "id": 8,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Content Details Page",
+                "topic": [
+                  "Create detailed pages for each content item, including descriptions, cast/crew information, release date, and trailers."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User-generated Content",
+                "topic": [
+                  "Allow users to submit their own articles, reviews, or recommendations.",
+                  "Implement moderation tools to review and approve user-generated content."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Social Features",
+                "topic": [
+                  "Allow users to follow others and see their activity on the platform.",
+                  "Implement a friend system and news feed to keep users engaged."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Notifications",
+                "topic": [
+                  "Notify users about new content releases, comments, followers, and other relevant activities.",
+                  "Send notifications via email or in-app alerts."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Emoji Reactions",
+                "topic": [
+                  "Enable users to react to content using a variety of emojis.",
+                  "Display the total number of reactions for each content item."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Sorting and Filtering",
+                "topic": [
+                  "Provide sorting options to arrange content by popularity, release date, or user ratings.",
+                  "Implement filters to refine content searches based on genres, release year, etc."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Bookmarking and Watchlist",
+                "topic": [
+                  "Allow users to bookmark or add content to their watchlist for future viewing.",
+                  "Provide an easy way for users to access their saved items."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Admin Dashboard",
+                "topic": [
+                  "Create a dashboard for administrators to manage users, content, and reports.",
+                  "Implement tools for content moderation and user management."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the web app is responsive and functional on various devices and screen sizes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Backend APIs",
+                "topic": [
+                  "Develop RESTful APIs to handle user registration, content management, interactions, and notifications."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
             "name": "Features",
             "description": [
               {
                 "title": "Database Design",
                 "topic": [
-                  "Design a database schema to store user profiles, notification data, and their relationships.",
-                  "Use a relational database or NoSQL database, based on the project's requirements."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 9,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Backend API Development",
-                "topic": [
-                  "Develop RESTful or GraphQL APIs for creating, retrieving, updating, and deleting notifications.",
-                  "Secure the APIs using authentication and authorization tokens."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 10,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Frontend UI/UX",
-                "topic": [
-                  "Design an intuitive and responsive user interface for the Notifications page.",
-                  "Apply modern UI frameworks like React, Angular, or Vue.js for frontend development."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 11,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Real-time Updates",
-                "topic": [
-                  "Use a library like Socket.IO to facilitate real-time updates of notifications.",
-                  "Update the UI automatically when a new notification arrives."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 12,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Notification Badge and Indicators",
-                "topic": [
-                  "Display a badge with the number of unread notifications on the page header.",
-                  "Use visual indicators (such as changing colors) to distinguish between read and unread notifications."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 13,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Mobile Responsiveness",
-                "topic": [
-                  "Ensure the Notifications page is responsive and user-friendly on mobile devices."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 14,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Error Handling and Validation",
-                "topic": [
-                  "Implement thorough input validation and error handling on both the frontend and backend.",
-                  "Display user-friendly error messages to guide users in case of mistakes."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 15,
-            "name": "Features",
-            "description": [
-              {
-                "title": "User Profile Integration",
-                "topic": [
-                  "Link the Notifications page to the user's profile.",
-                  "Allow users to navigate back and forth between the profile and notifications."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 16,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Testing",
-                "topic": [
-                  "Write unit tests for both frontend and backend components.",
-                  "Implement end-to-end testing to simulate user scenarios."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 17,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Documentation",
-                "topic": [
-                  "Create clear and concise documentation for setting up the project, APIs, and deployment instructions."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 18,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Deployment",
-                "topic": [
-                  "Deploy the application to a cloud platform like AWS, Heroku, or Netlify.",
-                  "Configure CI/CD pipelines for automated deployment."
+                  "Design a database schema to efficiently store user data, content information, and interactions."
                 ]
               }
             ]
@@ -1928,10 +2680,10 @@
             "name": "Features",
             "description": [
               {
-                "title": "Analytics and Monitoring",
+                "title": "Testing and Deployment",
                 "topic": [
-                  "Integrate analytics tools to track user engagement and interactions with notifications.",
-                  "Set up error monitoring to proactively detect and address issues."
+                  "Write unit tests and integration tests to ensure the app's functionality.",
+                  "Deploy the web app to a cloud platform and set up CI/CD pipelines for continuous deployment."
                 ]
               }
             ]
@@ -1941,21 +2693,20 @@
             "name": "Features",
             "description": [
               {
-                "title": "Security Measures",
+                "title": "Security and Privacy",
                 "topic": [
-                  "Implement security best practices to protect user data and prevent common vulnerabilities like cross-site scripting (XSS) and SQL injection."
+                  "Implement secure authentication mechanisms and ensure data privacy for user information and interactions."
                 ]
               }
             ]
           }
         ]
       },
-
       {
-        "id": 2,
-        "name": " Online Food Delivery Platform ",
+        "id": 5,
+        "name": " Social Media Platform ",
         "status": "To Do",
-        "description": "Build a comprehensive online food delivery platform that connects customers with local restaurants, allowing them to browse menus, place orders, and have their favorite meals delivered to their doorstep. The platform should provide a user-friendly experience for both customers and restaurant owners",
+        "description": "Create a social media platform that enables users to connect, share posts, and engage with content. This project will give your students a chance to delve into various aspects of full-stack development, from user interactions to data management.",
         "conclusions": [
           {
             "id": 1,
@@ -1972,450 +2723,150 @@
             ]
           }
         ],
-        "img": "https://cdn.dribbble.com/userupload/3290255/file/original-84cdd6b0e6a7369d13d1fa032eef410d.png?resize=1600x1200",
+        "img": "https://cdn.dribbble.com/users/1788965/screenshots/17000563/media/ead6692ef2ceab36459a0214a543a166.png",
         "repo": false,
         "demo": false,
         "features": [
           {
             "id": 1,
-            "name": "User Authentication and Profiles",
             "description": [
               {
                 "title": "User Authentication and Profiles",
                 "topic": [
-                  "User registration and login using email or social media accounts.",
-                  "User profiles with order history, delivery addresses, and payment methods."
+                  "User registration and login with email or social media accounts.",
+                  "User profiles with customizable avatars, bios, and contact information."
                 ]
               }
             ]
           },
           {
             "id": 2,
-            "name": "Restaurant Listings",
             "description": [
               {
-                "title": "Restaurant Listings",
+                "title": "News Feed and Posts",
                 "topic": [
-                  "Display a list of restaurants with images, ratings, and delivery time estimates.",
-                  "Search and filter options based on cuisine, location, and ratings."
+                  "Users can create, edit, and delete posts with text, images, and videos.",
+                  "Posts appear in the user's news feed and on their profile."
                 ]
               }
             ]
           },
           {
             "id": 3,
-            "name": "Menu Exploration",
             "description": [
               {
-                "title": "Menu Exploration",
+                "title": "Interactions",
                 "topic": [
-                  "Users can explore restaurant menus with item descriptions, images, and prices.",
-                  "Categorized menus for easy navigation."
+                  "Like, comment, and share functionality for posts.",
+                  "Real-time updates for new likes, comments, and shares."
                 ]
               }
             ]
           },
           {
             "id": 4,
-            "name": "Food Ordering",
             "description": [
               {
-                "title": "Food Ordering",
+                "title": "Follow System",
                 "topic": [
-                  "Users can add items to their cart, customize orders (e.g., toppings), and specify delivery details.",
-                  "Real-time price calculation and order summary."
+                  "Users can follow/unfollow other users.",
+                  "News feed shows posts from followed users."
                 ]
               }
             ]
           },
           {
             "id": 5,
-            "name": "Payment Integration",
             "description": [
               {
-                "title": "Payment Integration",
+                "title": "Explore Page",
                 "topic": [
-                  "Integration with payment gateways for secure online payments.",
-                  "Support for multiple payment methods like credit cards, mobile wallets, and cash on delivery."
+                  "Displays trending posts, popular users, and suggested content.",
+                  "Utilize hashtags or categories to organize content."
                 ]
               }
             ]
           },
           {
             "id": 6,
-            "name": "Order Tracking",
             "description": [
               {
-                "title": "Order Tracking",
+                "title": "Direct Messaging",
                 "topic": [
-                  "Real-time order tracking with updates on order preparation, delivery, and estimated arrival time.",
-                  "Notifications via SMS or app notifications."
+                  "Users can send private messages to each other.",
+                  "Group chat functionality for multiple users."
                 ]
               }
             ]
           },
           {
             "id": 7,
-            "name": "Ratings and Reviews",
             "description": [
               {
-                "title": "Ratings and Reviews",
+                "title": "Notifications",
                 "topic": [
-                  "Users can rate restaurants and leave reviews for dishes.",
-                  "Display average ratings and reviews on restaurant and dish pages."
+                  "Users receive notifications for new followers, likes, comments, and messages."
                 ]
               }
             ]
           },
           {
             "id": 8,
-            "name": "Promotions and Discounts",
             "description": [
               {
-                "title": "Promotions and Discounts",
+                "title": "Privacy Settings",
                 "topic": [
-                  "Apply promo codes and discounts during checkout.",
-                  "Highlight ongoing offers and promotions."
+                  "Users can control the visibility of their posts and profile information.",
+                  "Option to make accounts private."
                 ]
               }
             ]
           },
           {
             "id": 9,
-            "name": "Delivery Management",
             "description": [
               {
-                "title": "Delivery Management",
+                "title": "User Search",
                 "topic": [
-                  "Backend for delivery personnel to manage order assignments, status updates, and navigation.",
-                  "Real-time updates on order assignments and location."
+                  "Search functionality to find and follow other users."
                 ]
               }
             ]
           },
           {
             "id": 10,
-            "name": "Customer Support",
             "description": [
               {
-                "title": "Customer Support",
+                "title": "Analytics",
                 "topic": [
-                  "In-app chat or support ticket system for addressing user inquiries and issues."
+                  "Provide insights into user engagement (likes, comments, shares) for each post."
                 ]
               }
             ]
           },
           {
             "id": 11,
-            "name": "Admin Dashboard",
             "description": [
               {
-                "title": "Admin Dashboard",
+                "title": "Responsive Design",
                 "topic": [
-                  "Dashboard for restaurant owners to manage menus, update availability, and process orders.",
-                  "Admin panel to monitor platform health, user activity, and resolve disputes."
+                  "Ensure the platform is accessible and user-friendly on various devices."
                 ]
               }
             ]
           },
           {
             "id": 12,
-            "name": "Data Analytics",
             "description": [
               {
-                "title": "Data Analytics",
+                "title": "Technologies",
                 "topic": [
-                  "Analyze user behavior, popular dishes, and peak ordering times.",
-                  "Generate insights to improve user experience and business decisions."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 13,
-            "name": "Responsive Design",
-            "description": [
-              {
-                "title": "Responsive Design",
-                "topic": [
-                  "Ensure the platform is accessible and user-friendly across various devices."
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "name": " Personal Finance Management App ",
-        "status": "To Do",
-        "description": "Develop a web-based personal finance management application that helps users track their income, expenses, budgets, and financial goals. The app will provide insights into their financial health and offer tools for better money management.",
-        "conclusions": [
-          {
-            "id": 1,
-            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
-            "slid": [
-              {
-                "id": 1,
-                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
-              },
-              {
-                "id": 2,
-                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
-              }
-            ]
-          }
-        ],
-        "img": "https://cdn.dribbble.com/userupload/7795193/file/original-98f229847ff3c86f22a2de2fd5f31ea9.png?resize=1600x1200",
-        "repo": false,
-        "demo": false,
-        "features": [
-          {
-            "id": 1,
-            "name": "User Authentication and Profiles",
-            "description": [
-              {
-                "title": "User Authentication and Profiles",
-                "topic": [
-                  "Users can create accounts, log in, and reset passwords.",
-                  "Users can create profiles with personal information and financial goals.",
-                  "Implement OAuth authentication for third-party login options."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 2,
-            "name": "Expense Tracking and Categorization",
-            "description": [
-              {
-                "title": "Expense Tracking and Categorization",
-                "topic": [
-                  "Allow users to log their expenses, categorize them (e.g., groceries, utilities, entertainment), and add optional descriptions.",
-                  "Provide options to upload photos of receipts."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 3,
-            "name": "Income Management",
-            "description": [
-              {
-                "title": "Income Management",
-                "topic": [
-                  "Users can record different sources of income, such as salary, freelance work, or investments.",
-                  "Display total income and calculate net cash flow."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 4,
-            "name": "Budget Creation and Monitoring",
-            "description": [
-              {
-                "title": "Budget Creation and Monitoring",
-                "topic": [
-                  "Enable users to set monthly budgets for various expense categories.",
-                  "Display progress and alerts when budget limits are exceeded."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 5,
-            "name": "Financial Goals and Savings",
-            "description": [
-              {
-                "title": "Financial Goals and Savings",
-                "topic": [
-                  "Allow users to define financial goals (e.g., saving for a vacation, emergency fund, retirement).",
-                  "Provide a progress tracker and tips to achieve these goals."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 6,
-            "name": "Expense Analysis and Visualization",
-            "description": [
-              {
-                "title": "Expense Analysis and Visualization",
-                "topic": [
-                  "Generate charts and graphs to visualize spending patterns over time.",
-                  "Display insights into which categories contribute the most to expenses."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 7,
-            "name": "Reminder and Notification System",
-            "description": [
-              {
-                "title": "Reminder and Notification System",
-                "topic": [
-                  "Send reminders for upcoming bill payments, subscription renewals, or savings milestones.",
-                  "Provide notifications for budget updates and financial achievements."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 8,
-            "name": "Currency Conversion (Optional)",
-            "description": [
-              {
-                "title": "Currency Conversion (Optional)",
-                "topic": [
-                  "Integrate currency conversion for international users who deal with multiple currencies."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 9,
-            "name": "Secure Data Storage",
-            "description": [
-              {
-                "title": "Secure Data Storage",
-                "topic": [
-                  "Implement data encryption for sensitive financial information and adhere to data protection regulations."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 10,
-            "name": "Responsive Design",
-            "description": [
-              {
-                "title": "Responsive Design",
-                "topic": [
-                  "Ensure the application is accessible and responsive on various devices, including desktops and mobile devices."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 11,
-            "name": "Backend Services",
-            "description": [
-              {
-                "title": "Backend Services",
-                "topic": [
-                  "Develop a backend server using technologies like Node.js, Express, or Flask.",
-                  "Create RESTful APIs for user management, financial data storage, and analytics."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 12,
-            "name": "Database Management",
-            "description": [
-              {
-                "title": "Database Management",
-                "topic": [
-                  "Choose a database such as PostgreSQL or MySQL to store user profiles, financial transactions, and goals."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 13,
-            "name": "Payment Integration (Optional)",
-            "description": [
-              {
-                "title": "Payment Integration (Optional)",
-                "topic": [
-                  "Integrate payment gateways for users to pay bills directly through the app."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 14,
-            "name": "User Data Privacy and Security",
-            "description": [
-              {
-                "title": "User Data Privacy and Security",
-                "topic": [
-                  "Implement encryption for sensitive user information and financial data."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 15,
-            "name": "Deployment and Hosting",
-            "description": [
-              {
-                "title": "Deployment and Hosting",
-                "topic": [
-                  "Deploy the frontend on platforms like Netlify or Vercel.",
-                  "Host the backend on services like Heroku or AWS."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 16,
-            "name": "Testing and Quality",
-            "description": [
-              {
-                "title": "Testing and Quality",
-                "topic": [
-                  "Conduct thorough testing to ensure accurate calculations and a user-friendly interface."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 17,
-            "name": "Multi-Language Support",
-            "description": [
-              {
-                "title": "Multi-Language Support",
-                "topic": [
-                  "Offer language options to cater to users from different regions."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 18,
-            "name": "Backup and Data Export",
-            "description": [
-              {
-                "title": "Backup and Data Export",
-                "topic": [
-                  "Allow users to export their financial data for backup or analysis purposes."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 19,
-            "name": "Investment Tracking (Optional)",
-            "description": [
-              {
-                "title": "Investment Tracking (Optional)",
-                "topic": [
-                  "Integrate with investment platforms or APIs to track investment portfolios."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 20,
-            "name": "Financial Education Resources",
-            "description": [
-              {
-                "title": "Financial Education Resources",
-                "topic": [
-                  "Provide articles or resources related to financial literacy and money management."
+                  "Front-end: React or Vue.js for building interactive user interfaces.",
+                  "Back-end: Node.js with Express or Django for server-side logic and APIs.",
+                  "Database: MongoDB or PostgreSQL for storing user data, posts, and interactions.",
+                  "Real-time Functionality: WebSockets (Socket.IO) for instant updates.",
+                  "User Authentication: JWT or OAuth for secure user authentication.",
+                  "Styling: CSS or CSS frameworks for a visually appealing design."
                 ]
               }
             ]
@@ -2425,8 +2876,8 @@
     ]
   },
   {
-    "id": 4,
-    "name": "Team 4",
+    "id": 3,
+    "name": "Team 3",
     "techstack": "Angular | laravel",
     "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
     "images": [
@@ -2438,25 +2889,38 @@
         "id": 2,
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/279250500_1396377914146915_3878789775120181204_n.jpg?stp=dst-jpg_s160x160&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEQb_izVGwkT6lmVhq8uhp_jcfSMhtwvyeNx9IyG3C_J5B2PCCW4Jx4T-iYjBWbExhrnX7UDFzFvs_zU4dUKExS&_nc_ohc=OjWITedfmykAX_MZZEJ&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBiLHEnOtKSmAXrwQx6-yS4AY6-2ESiKBfmyzXSFyCCkQ&oe=64DA37C8"
       },
+     
       {
         "id": 3,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/338159500_208189865153963_6987004798041695902_n.jpg?stp=dst-jpg_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHAC8oKZAuoPF0_ufxaizjNN9Cd5Q8c1C030J3lDxzULaJukjOS5ANnCg1BEQeOnVuXh1odiwbHlxZyeoW8DoRs&_nc_ohc=oPMYborg4IoAX-Q7mfr&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBBoDMceaXiMyMi-e_Y43LUQlYj5uFj0wOJ3OuIHFHxYA&oe=64D95922"
-      },
-      {
-        "id": 4,
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/278346321_3261288814197734_1786990048058946759_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGeIAE2SBaZ6wdcowgdzo21MF8aO8g2U-swXxo7yDZT63TevnpFUaiYSvSlIbOYTnRx6Al1jxM5Inmkdj45o081&_nc_ohc=1nbOPc-Av8kAX-Pw4yC&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAGK3AdpgJU37oMCdarLHeT3AQOKwi2cOrUkQAUK4fXDA&oe=64D8AE86"
       },
       {
-        "id": 5,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/331778365_670988984776515_807164426226262083_n.jpg?stp=dst-jpg_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEw7DYo7VZQe7bb9_B_O1mh_PSzfvZ4RYP89LN-9nhFg_hee4FhfZAT4T51vAppDRG-EuNFVDZxjosBRVXKg9rW&_nc_ohc=IxK1yTrJIUQAX84vKjP&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCa2ds_UqAz2jcb5vBIbjMOlhXVOJVntOX3MWs07HItdA&oe=64D996E5"
+        "id": 4,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/325754820_3301520846795015_2485896501601376360_n.jpg?stp=c22.0.100.100a_dst-jpg_p100x100&_nc_cat=110&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeG0c4umkXH7kpEATAB2bzFSPytQwN5qlic_K1DA3mqWJ07WUP8OQ3i8GS0QZB6bqbc_lg36JY1a54-U0fNet9-q&_nc_ohc=YjdaJUCXU6AAX9yHoM8&_nc_ad=z-m&_nc_cid=1337&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAuDvb12qqjmnwPzcDqeOrxU946YtMEARBnKuKjlm7NBQ&oe=64E64482"
       },
       {
-        "id": 6,
+        "id": 5,
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/348424046_999455551494527_5724032586358420334_n.jpg?stp=dst-jpg_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEdicvgI6sJcPZGHkcRcpRWZjEloJmdxu9mMSWgmZ3G77TpLcE8NuwluM8mv74l5Z24ZdS_VAYriyZ2Kb_Vnagf&_nc_ohc=xz-1h-YVKSkAX9J8oG3&_nc_ht=scontent.fcai1-2.fna&oh=00_AfArNgcZ-MywRP9HMlqZaQwYCYserv84DLh3UB4WtRQILA&oe=64DA428C"
       },
       {
-        "id": 7,
+        "id": 6,
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/278893226_3510613585833711_4728399600023231810_n.jpg?stp=dst-jpg_p160x160&_nc_cat=111&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeHJbWCHb097oQX4LiYRr9OJiunqWaUgctOK6epZpSBy00IMUF3LfkEw_lhUCzluW2jFii9sFBCR4tCDrwOZHfiW&_nc_ohc=kUUOLWLM4GUAX9bKUDd&_nc_ht=scontent.fcai1-2.fna&oh=00_AfD2iQWaHdlrAn1M78dzyGrC8gFwi9We6TmnmW1-8pEeMw&oe=64D8F699"
+      },
+      {
+        "id": 7,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/42898580_2102704926430352_8725199596235522048_n.jpg?stp=dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeFA1-xIVdYwM0x1Hb0uMbMIqUYSgufTqFupRhKC59OoW77QZ5O_O1relZR-woLnWDjByGWPuMa_ez7vhxZ3J_4w&_nc_ohc=MF0qOSULGzIAX9VekzX&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA03u2UcvTfvuBQ0X8H_cBKunkZNYoCJ4HewdKJ9-UKgg&oe=64FC27B3"
+      },
+      {
+        "id": 8,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/314379866_5492118347571709_8200670023213121529_n.jpg?stp=dst-jpg_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGa3A3ZQKox0aZ0ABQPiW82HWcGrPzdLZIdZwas_N0tkmC-cNMJZpxw380qetrbN1uz_vXjK3vfntCFQfksulsM&_nc_ohc=2IderI_25iwAX_qdBtI&_nc_oc=AQlG5HZUspAwKBPjS1cWgtlbj5XV5qiVQ1TNC47h53-ruJHVssErJzGblKwnB0kFNtM&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBCMB44XGKxtUcf_3r_IJdQrFtHMmhfEINVzkeoVVn7Mg&oe=64D9588C"
+      },
+      {
+        "id": 9,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/347230087_935745747767248_6934275457569540615_n.jpg?stp=dst-jpg_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEuoGyG-5mGu0vA7eB-MiYL9IkpXtArtkP0iSle0Cu2Q-g72qX6j0QiwpvBLghQ9W91wEdCl6F2nv_iFsml_ULA&_nc_ohc=hM8IwMvmU_wAX-PfwBr&_nc_oc=AQmH7zj6cnpHehPGAQv6uwgeS31xKtOv42PBKo4MoMlHu1hlPJ6ihirYVVTXNLaqCO4&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBs7yMBaUy4jpzodT2O-PGRdw4yPfUPb-ryLbqLYDJzuA&oe=64DA4A43"
+      },
+      {
+        "id": 10,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/364120526_3560035880909198_4251405505060112904_n.jpg?stp=c0.10.320.320a_dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFxOvSAht1qtUJZ5sVtUN3lmvla4lMLAC2a-VriUwsALeOFc08fZt0QzdI2pzrdPX_uIvgLh5Any3lGvs5qCKSt&_nc_ohc=gNN8fTLE9sEAX9d3bmt&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAqXhc8SSatkqPotUbK1WpSPrxxUd8x0rvb9xzgPAd0lQ&oe=64D91DE9"
       }
     ],
     "projects": [
@@ -3301,34 +3765,518 @@
             ]
           }
         ]
+      },
+      {
+        "id": 4,
+        "name": " Entertainment web app ",
+        "status": "Pending",
+        "description": "The Product Feedback App is a dynamic web-based platform designed to facilitate seamless communication between users and product development teams. It empowers users to provide valuable feedback, suggestions, and ideas for improving products and services. Through an intuitive interface, the app enables users to submit their thoughts, upvote or downvote existing feedback, and participate in discussions surrounding various products. With a focus on user engagement and collaboration, the Product Feedback App bridges the gap between customers and the teams responsible for enhancing products.",
+        "conclusions": [
+          {
+            "id": 1,
+            "title": "By integrating these features into your Product Feedback App, you'll create a comprehensive tool for users and product teams to collaborate, prioritize, and improve products based on user input.",
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621706/Challenges/uf4zb5ufaresipumy7jb.jpg"
+              },
+
+              {
+                "id": 2,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621619/Challenges/vnx44muoxqyn886oi5sb.jpg"
+              },
+
+              {
+                "id": 3,
+                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621762/Challenges/tsaibconxg9gus3xvdpj.jpg"
+              }
+            ]
+          }
+        ],
+        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621706/Challenges/uf4zb5ufaresipumy7jb.jpg",
+        "repo": "https://github.com/Mostafa-ElHawary/Product-feedback-app",
+        "demo": "https://mostafa-elhawary.github.io/Product-feedback-app/",
+        "features": [
+          {
+            "id": 1,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Authentication and Authorization",
+                "topic": [
+                  "Allow users to register with their email and password.",
+                  "Provide secure login and token-based authentication.",
+                  "Implement role-based authorization to distinguish between regular users and administrators."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Product Submission",
+                "topic": [
+                  "Enable users to submit new products for which they want to provide feedback.",
+                  "Include fields for product name, description, category, and optional attachments."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Feedback Submission",
+                "topic": [
+                  "Allow users to provide feedback on specific products, including suggestions, bug reports, and feature requests.",
+                  "Implement various feedback types or tags for categorization."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Voting and Ranking",
+                "topic": [
+                  "Allow users to upvote or downvote feedback to indicate popularity and importance.",
+                  "Implement a ranking system to highlight the most popular or critical feedback."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Commenting and Discussions",
+                "topic": [
+                  "Enable users to comment on feedback to engage in discussions.",
+                  "Provide real-time updates for new comments using WebSockets."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Feedback Filtering and Sorting",
+                "topic": [
+                  "Implement sorting options to arrange feedback by most recent, highest votes, etc.",
+                  "Provide filters to view feedback by category, status (open, resolved, in progress), and more."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Moderation and Admin Tools",
+                "topic": [
+                  "Create an admin dashboard to manage user-generated content and feedback.",
+                  "Implement moderation features to approve, edit, or delete feedback as needed."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Features",
+            "description": [
+              {
+                "title": "User Profiles",
+                "topic": [
+                  "Allow users to create profiles, including a profile picture and bio.",
+                  "Display a user's submitted feedback and voting history on their profile."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Notifications",
+                "topic": [
+                  "Notify users about updates to their submitted feedback, such as when a status changes or new comments are added.",
+                  "Send reminders for important product updates or resolved issues."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Search and Discovery",
+                "topic": [
+                  "Implement a search bar to quickly find specific products or feedback.",
+                  "Allow users to discover trending or recently submitted feedback."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Analytics and Insights",
+                "topic": [
+                  "Provide analytics on the most popular products, top-voted feedback, and user engagement.",
+                  "Offer insights into common trends and user preferences."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Integration with Customer Support",
+                "topic": [
+                  "Enable users to escalate feedback to customer support tickets.",
+                  "Provide a seamless way to transition from user-reported issues to support resolution."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the app is responsive and user-friendly on various devices, including desktops, tablets, and mobile phones."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Backend APIs",
+                "topic": [
+                  "Develop RESTful APIs to manage user authentication, product and feedback submissions, and interactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Database Design",
+                "topic": [
+                  "Design a database schema to efficiently store user data, product details, feedback, and interactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Testing and Deployment",
+                "topic": [
+                  "Write comprehensive tests to ensure the app's functionality and reliability.",
+                  "Deploy the app to a cloud platform and set up CI/CD pipelines for continuous deployment."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Security and Privacy",
+                "topic": [
+                  "Implement secure authentication mechanisms and ensure the privacy of user data and interactions."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Collaboration Features",
+                "topic": [
+                  "Allow users to collaborate on feedback by tagging colleagues, sharing links, and discussing internally."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Versioning and Release Notes",
+                "topic": [
+                  "Enable product managers to provide version-specific release notes and gather feedback on new features or improvements."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Features",
+            "description": [
+              {
+                "title": "Feedback Insights",
+                "topic": [
+                  "Provide data visualization to showcase feedback trends, areas of improvement, and successful implementations."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": " E-Commerce Platform ",
+        "status": "To Do",
+        "description": "Develop an e-commerce platform that enables users to browse, shop, and manage their orders. This project will provide your students with valuable experience in building a complex web application that involves various aspects of full-stack development.",
+        "conclusions": [
+          {
+            "id": 1,
+            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
+            "slid": [
+              {
+                "id": 1,
+                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
+              },
+              {
+                "id": 2,
+                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
+              }
+            ]
+          }
+        ],
+        "img": "https://cdn.dribbble.com/userupload/3956908/file/original-330b830777da492ec3c5dfebb0ea4e45.png?resize=1000x750",
+        "repo": false,
+        "demo": false,
+        "features": [
+          {
+            "id": 1,
+            "description": [
+              {
+                "title": "User Authentication and Profiles",
+                "topic": [
+                  "User registration and login using email or social media accounts.",
+                  "User profiles with order history, saved addresses, and payment methods."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "description": [
+              {
+                "title": "Product Listings",
+                "topic": [
+                  "Display a catalog of products with images, descriptions, prices, and ratings.",
+                  "Categorize products for easy navigation."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "description": [
+              {
+                "title": "Product Search and Filtering",
+                "topic": [
+                  "Search functionality with autocomplete and suggested results.",
+                  "Filter products by category, price range, and attributes."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "description": [
+              {
+                "title": "Shopping Cart",
+                "topic": [
+                  "Users can add products to their cart, adjust quantities, and remove items.",
+                  "Cart displays total price and items count."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "description": [
+              {
+                "title": "Checkout and Payment",
+                "topic": [
+                  "Multi-step checkout process with address selection and payment method.",
+                  "Integration with a secure payment gateway (e.g., Stripe)."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "description": [
+              {
+                "title": "Order Tracking",
+                "topic": [
+                  "Users can track their orders' status and receive updates.",
+                  "Email notifications for order confirmation and shipping updates."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "description": [
+              {
+                "title": "Reviews and Ratings",
+                "topic": [
+                  "Users can leave reviews and ratings for products.",
+                  "Display average ratings and reviews on product pages."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "description": [
+              {
+                "title": "Wishlist and Favorites",
+                "topic": [
+                  "Users can save products to their wishlist for future purchase."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "description": [
+              {
+                "title": "Admin Panel",
+                "topic": [
+                  "Admin dashboard for managing products, orders, and user accounts.",
+                  "CRUD operations for products, user management, and order processing."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "description": [
+              {
+                "title": "Inventory Management",
+                "topic": [
+                  "Update product availability and quantities based on orders."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "description": [
+              {
+                "title": "Responsive Design",
+                "topic": [
+                  "Ensure the platform is user-friendly across different devices."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "description": [
+              {
+                "title": "Recommendation Engine",
+                "topic": [
+                  "Provide personalized product recommendations based on user behavior."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "description": [
+              {
+                "title": "Technologies",
+                "topic": [
+                  "Front-end: React or Angular for creating dynamic user interfaces.",
+                  "Back-end: Node.js with Express or Ruby on Rails for server-side logic.",
+                  "Database: PostgreSQL or MySQL for storing user data, products, and orders.",
+                  "Payment Integration: Integration with a payment gateway like Stripe.",
+                  "User Authentication: JWT or OAuth for secure user authentication.",
+                  "Real-time Communication: WebSockets for real-time notifications.",
+                  "Styling: CSS or CSS frameworks for a polished UI."
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   {
-    "id": 5,
-    "name": "Team 5",
+    "id": 4,
+    "name": "Team 4",
     "techstack": "React | Node",
     "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
     "images": [
       {
         "id": 1,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/99399222_1613533938804522_1232236373604302848_n.jpg?stp=dst-jpg_p320x320&_nc_cat=106&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeH9dnd8xsvB3R3NmZgGZZS6Y5U6AYv7zThjlToBi_vNON_GFW-lhl96yic79A4j4xXwHzR73J5qLW_t96RJlm2O&_nc_ohc=DI43NjB5Hk0AX_4-G-a&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAhR6M-ORwJhchdQlGJi23djMF8Zvqyc5GJAtfqY50hxw&oe=64FC3134"
-      },
-      {
-        "id": 2,
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/361650118_2960072300792767_7994770843316607596_n.jpg?stp=dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEM1p6qN53R04kM9K3Ek8u4yTVBrcxM28DJNUGtzEzbwGDeTCnBMsQSMUtWptkz3607HMfqwgFWuE_cAFgzM7xz&_nc_ohc=YL6ALL4d2OkAX9oIVGK&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCeHkSz7i7uxmmmUwah0tWhDYGiZY9vLfuS-62h4s0MIA&oe=64D9B42E"
       },
       {
-        "id": 3,
+        "id": 2,
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/243456906_1028197888015946_5973179380084481815_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEGvaF-ur-0qObAeUbyJdJ0ji_ilthzeYyOL-KW2HN5jEe2lzgwwf-9UKkZumdMg4Gs9oxeKwxyc3vmoDPfTwdP&_nc_ohc=5VQYGqYBWaYAX9K9Czb&_nc_ht=scontent.fcai1-2.fna&oh=00_AfC_rxuouDKTTmhs9yRzEk6elG3r1BCRWfbMHea1_OunPA&oe=64D8E156"
+      },
+
+      {
+        "id": 3,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/279400856_1319071288582554_5279296343968092550_n.jpg?stp=dst-jpg_s160x160&_nc_cat=108&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeFeT5zh18KCSt-MXmBnDv9oUZ2EMqs-eoBRnYQyqz56gEDQG9uukVHPz9PeQqrDJ5FjzRwHXRTmUxPDEftFFJYk&_nc_ohc=fohkMTKdSpoAX-ML8Pk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBYACbfZwP9gmCvLcBRAqGtwFMtr4vmbtL79Z2YizywfA&oe=64D9DAF5"
       },
       {
         "id": 4,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/343060086_1389213361843556_5405203893402533411_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGt_7EHChGDfjGkfDeLPDcQ6luGrRGBju_qW4atEYGO75_tEEnBYxEq8_xWD2Ug4UbE4m2iuP2LnN-2Pv85_Lv5&_nc_ohc=RZHu3TGM6s4AX91fqiF&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA7ZcSqNT07SHhLsb9UR0xZwYd49aip2-ang43M2i29nQ&oe=64DA2E32"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/356362608_3501442883444960_5162069896562441522_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEDZCkeUzldKkhS6rteIu7GUw-qxxwJHxJTD6rHHAkfEonjuwjyrxaCdvyYCPpOxk_wIRvjndxx9kTGEVKq7Aqr&_nc_ohc=kQ0f_CcG9UYAX_m2ZF1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCvOxxQ0xPxm0MNmQJ-fdq0qskEPnW7kNmpOyKJ6N7X4g&oe=64D948BD"
       },
       {
         "id": 5,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/279400856_1319071288582554_5279296343968092550_n.jpg?stp=dst-jpg_s160x160&_nc_cat=108&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeFeT5zh18KCSt-MXmBnDv9oUZ2EMqs-eoBRnYQyqz56gEDQG9uukVHPz9PeQqrDJ5FjzRwHXRTmUxPDEftFFJYk&_nc_ohc=fohkMTKdSpoAX-ML8Pk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBYACbfZwP9gmCvLcBRAqGtwFMtr4vmbtL79Z2YizywfA&oe=64D9DAF5"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
+      },
+      {
+        "id": 6,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/283012606_4990522374376519_2022665471854028633_n.jpg?stp=dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeHrBeKNjnNaGu4g9k0GQ6Oo4ae-iYMC64bhp76JgwLrhsULgp0rohiamAbORQtbLAhGHZgEg9B_vWvGgUs1PFJN&_nc_ohc=u-jT6OuZmqkAX8BS_A5&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDsHk-e-D1xN_Glu5G1-N9-Vai_ZzR17yd0wucHPicn6A&oe=64DCE828"
+      },
+      {
+        "id": 7,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/307923207_10217708433502571_4710942872885061275_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeF9OrmqSzNQ6Fukq-n3OcvH7ukm_MwZG_ru6Sb8zBkb-nLixBctWGR5ru2E2RC9cAhrkvxfy9mIONsULhQ6QDPI&_nc_ohc=x27wo9Sz3DcAX_Snme1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCOJdbmK8ka8IwMNaKbL5_m3Dv0kn4oOMEDVPT5I4zPGw&oe=64DA553E"
+      },
+      {
+        "id": 8,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
       }
     ],
     "projects": [
@@ -4027,1007 +4975,9 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Team 6",
-    "techstack": "React | Node",
-    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
-    "images": [
-      {
-        "id": 1,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
-      },
-      {
-        "id": 2,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/193118817_1483247458674064_6065421771220558092_n.jpg?stp=dst-jpg_p320x320&_nc_cat=102&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGFu-CtvWfYZOOMy5xccxg1uRrhuu3CX1G5GuG67cJfUS3r29iHfE4vpGv8z6wUl0ac4GErAEmKC_qBZ0RnStQT&_nc_ohc=BQl8wSKl9coAX_SeZgR&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCQBz8QMqyncnx6z0Pg1Wus8HU25XFetXFow-r6Y7wbjw&oe=64FC254D"
-      },
-      {
-        "id": 3,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/307923207_10217708433502571_4710942872885061275_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeF9OrmqSzNQ6Fukq-n3OcvH7ukm_MwZG_ru6Sb8zBkb-nLixBctWGR5ru2E2RC9cAhrkvxfy9mIONsULhQ6QDPI&_nc_ohc=x27wo9Sz3DcAX_Snme1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCOJdbmK8ka8IwMNaKbL5_m3Dv0kn4oOMEDVPT5I4zPGw&oe=64DA553E"
       },
       {
         "id": 4,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/134413405_1352282688445667_9158187513519847689_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHitlrokti7lQK1jx-93f8so5JHI8jLmKSjkkcjyMuYpN59fFoOG_IpTPAZSHESukdKOFRyT3NcMGebyYaCwcVC&_nc_ohc=Wf_uKMPBegAAX-dovY0&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_WvtZM0m8BVOLXdXJmVCVbNe-YMScGhbPzrEG_2od0w&oe=64FC25B8"
-      },
-      {
-        "id": 5,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&ccb=1-7&_nc_sid=0222cc&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=Pg1r5vji1ToAX-v5x6a&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDF0xkRLJlisnYDmNMHuIlgypFzbNfXBv6za5EakWt08Q&oe=65000B78"
-      },
-      {
-        "id": 6,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/283012606_4990522374376519_2022665471854028633_n.jpg?stp=dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeHrBeKNjnNaGu4g9k0GQ6Oo4ae-iYMC64bhp76JgwLrhsULgp0rohiamAbORQtbLAhGHZgEg9B_vWvGgUs1PFJN&_nc_ohc=u-jT6OuZmqkAX8BS_A5&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDsHk-e-D1xN_Glu5G1-N9-Vai_ZzR17yd0wucHPicn6A&oe=64DCE828"
-      }
-    ],
-    "projects": [
-      {
-        "id": 1,
-        "name": " Entertainment web app ",
-        "status": "Pending",
-        "description": "Create an innovative web-based Entertainment platform that offers users a captivating and diverse range of content to indulge in. The Entertainment Web App will serve as a one-stop destination for users to discover, engage with, and enjoy various forms of entertainment, such as movies, TV shows, music, articles, and games. By leveraging cutting-edge technology and user-centered design, this platform will revolutionize the way people access and interact with entertainment content.",
-        "conclusions": [
-          {
-            "id": 1,
-            "title": "This project will provide your students with a well-rounded experience in building a full-stack entertainment web application. It covers various aspects of modern web development, from user interaction and content management to security and deployment strategies.",
-            "slid": [
-              {
-                "id": 1,
-                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924284/Challenges/deoobakhb8qajszqrnv5.jpg"
-              },
-
-              {
-                "id": 2,
-                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924199/Challenges/ceedr4akadxr0yqn142q.jpg"
-              },
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924284/Challenges/zoybsht0sfshyonc60tl.jpg"
-              },
-              {
-                "id": 4,
-                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924408/Challenges/mpqt2crxi11qg5cgr7k2.jpg"
-              }
-            ]
-          }
-        ],
-        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1646924284/Challenges/deoobakhb8qajszqrnv5.jpg",
-        "repo": "https://github.com/Mostafa-ElHawary/Entertainment-web-app",
-        "demo": "https://mostafa-elhawary.github.io/Entertainment-web-app/",
-        "features": [
-          {
-            "id": 1,
-            "name": "Features",
-            "description": [
-              {
-                "title": "User Authentication and Authorization",
-                "topic": [
-                  "Allow users to register with their email and password.",
-                  "Provide secure login and token-based authentication.",
-                  "Implement role-based authorization to distinguish between regular users and administrators."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 2,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Content Categories and Genres",
-                "topic": [
-                  "Categorize entertainment content into genres, such as movies, TV shows, music, games, articles, etc.",
-                  "Provide an intuitive navigation menu for users to explore content by category."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 3,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Content Discovery",
-                "topic": [
-                  "Display featured, trending, and recommended content on the homepage.",
-                  "Implement a search bar for users to find specific content quickly."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 4,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Personalized Recommendations",
-                "topic": [
-                  "Use user preferences and viewing history to offer personalized content recommendations.",
-                  "Display a 'Recommended for You' section that suggests content aligned with the user's interests."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 5,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Media Playback",
-                "topic": [
-                  "Enable users to stream movies, TV shows, and music directly on the platform.",
-                  "Provide playback controls, volume adjustments, and quality settings."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 6,
-            "name": "Features",
-            "description": [
-              {
-                "title": "User Interaction",
-                "topic": [
-                  "Allow users to rate, review, and comment on content.",
-                  "Implement social sharing features to let users share their favorite content with friends."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 7,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Playlists and Collections",
-                "topic": [
-                  "Enable users to create and manage playlists or collections of their favorite content.",
-                  "Provide options to share playlists with others or keep them private."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 8,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Content Details Page",
-                "topic": [
-                  "Create detailed pages for each content item, including descriptions, cast/crew information, release date, and trailers."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 9,
-            "name": "Features",
-            "description": [
-              {
-                "title": "User-generated Content",
-                "topic": [
-                  "Allow users to submit their own articles, reviews, or recommendations.",
-                  "Implement moderation tools to review and approve user-generated content."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 10,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Social Features",
-                "topic": [
-                  "Allow users to follow others and see their activity on the platform.",
-                  "Implement a friend system and news feed to keep users engaged."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 11,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Notifications",
-                "topic": [
-                  "Notify users about new content releases, comments, followers, and other relevant activities.",
-                  "Send notifications via email or in-app alerts."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 12,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Emoji Reactions",
-                "topic": [
-                  "Enable users to react to content using a variety of emojis.",
-                  "Display the total number of reactions for each content item."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 13,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Sorting and Filtering",
-                "topic": [
-                  "Provide sorting options to arrange content by popularity, release date, or user ratings.",
-                  "Implement filters to refine content searches based on genres, release year, etc."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 14,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Bookmarking and Watchlist",
-                "topic": [
-                  "Allow users to bookmark or add content to their watchlist for future viewing.",
-                  "Provide an easy way for users to access their saved items."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 15,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Admin Dashboard",
-                "topic": [
-                  "Create a dashboard for administrators to manage users, content, and reports.",
-                  "Implement tools for content moderation and user management."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 16,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Responsive Design",
-                "topic": [
-                  "Ensure the web app is responsive and functional on various devices and screen sizes."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 17,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Backend APIs",
-                "topic": [
-                  "Develop RESTful APIs to handle user registration, content management, interactions, and notifications."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 18,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Database Design",
-                "topic": [
-                  "Design a database schema to efficiently store user data, content information, and interactions."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 19,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Testing and Deployment",
-                "topic": [
-                  "Write unit tests and integration tests to ensure the app's functionality.",
-                  "Deploy the web app to a cloud platform and set up CI/CD pipelines for continuous deployment."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 20,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Security and Privacy",
-                "topic": [
-                  "Implement secure authentication mechanisms and ensure data privacy for user information and interactions."
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "name": " Social Media Platform ",
-        "status": "To Do",
-        "description": "Create a social media platform that enables users to connect, share posts, and engage with content. This project will give your students a chance to delve into various aspects of full-stack development, from user interactions to data management.",
-        "conclusions": [
-          {
-            "id": 1,
-            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
-            "slid": [
-              {
-                "id": 1,
-                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
-              },
-              {
-                "id": 2,
-                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
-              }
-            ]
-          }
-        ],
-        "img": "https://cdn.dribbble.com/users/1788965/screenshots/17000563/media/ead6692ef2ceab36459a0214a543a166.png",
-        "repo": false,
-        "demo": false,
-        "features": [
-          {
-            "id": 1,
-            "description": [
-              {
-                "title": "User Authentication and Profiles",
-                "topic": [
-                  "User registration and login with email or social media accounts.",
-                  "User profiles with customizable avatars, bios, and contact information."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 2,
-            "description": [
-              {
-                "title": "News Feed and Posts",
-                "topic": [
-                  "Users can create, edit, and delete posts with text, images, and videos.",
-                  "Posts appear in the user's news feed and on their profile."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 3,
-            "description": [
-              {
-                "title": "Interactions",
-                "topic": [
-                  "Like, comment, and share functionality for posts.",
-                  "Real-time updates for new likes, comments, and shares."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 4,
-            "description": [
-              {
-                "title": "Follow System",
-                "topic": [
-                  "Users can follow/unfollow other users.",
-                  "News feed shows posts from followed users."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 5,
-            "description": [
-              {
-                "title": "Explore Page",
-                "topic": [
-                  "Displays trending posts, popular users, and suggested content.",
-                  "Utilize hashtags or categories to organize content."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 6,
-            "description": [
-              {
-                "title": "Direct Messaging",
-                "topic": [
-                  "Users can send private messages to each other.",
-                  "Group chat functionality for multiple users."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 7,
-            "description": [
-              {
-                "title": "Notifications",
-                "topic": [
-                  "Users receive notifications for new followers, likes, comments, and messages."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 8,
-            "description": [
-              {
-                "title": "Privacy Settings",
-                "topic": [
-                  "Users can control the visibility of their posts and profile information.",
-                  "Option to make accounts private."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 9,
-            "description": [
-              {
-                "title": "User Search",
-                "topic": [
-                  "Search functionality to find and follow other users."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 10,
-            "description": [
-              {
-                "title": "Analytics",
-                "topic": [
-                  "Provide insights into user engagement (likes, comments, shares) for each post."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 11,
-            "description": [
-              {
-                "title": "Responsive Design",
-                "topic": [
-                  "Ensure the platform is accessible and user-friendly on various devices."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 12,
-            "description": [
-              {
-                "title": "Technologies",
-                "topic": [
-                  "Front-end: React or Vue.js for building interactive user interfaces.",
-                  "Back-end: Node.js with Express or Django for server-side logic and APIs.",
-                  "Database: MongoDB or PostgreSQL for storing user data, posts, and interactions.",
-                  "Real-time Functionality: WebSockets (Socket.IO) for instant updates.",
-                  "User Authentication: JWT or OAuth for secure user authentication.",
-                  "Styling: CSS or CSS frameworks for a visually appealing design."
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "name": " E-Commerce Platform ",
-        "status": "To Do",
-        "description": "Develop an e-commerce platform that enables users to browse, shop, and manage their orders. This project will provide your students with valuable experience in building a complex web application that involves various aspects of full-stack development.",
-        "conclusions": [
-          {
-            "id": 1,
-            "title": "By creating an online marketplace for local artisans, you'll not only develop your full-stack skills but also provide a platform that supports local talent and fosters a sense of community among artisans and customers.",
-            "slid": [
-              {
-                "id": 1,
-                "image": "https://cdn.dribbble.com/userupload/3930921/file/original-a8b2c3b3f2abb4841379e0280b0d199a.jpg?resize=1600x1200"
-              },
-              {
-                "id": 2,
-                "image": "https://cdn.dribbble.com/userupload/3930922/file/original-7aadb94f90a5e5175a6f4478dbbfb589.jpg?resize=1024x768&vertical=center"
-              }
-            ]
-          }
-        ],
-        "img": "https://cdn.dribbble.com/userupload/3956908/file/original-330b830777da492ec3c5dfebb0ea4e45.png?resize=1000x750",
-        "repo": false,
-        "demo": false,
-        "features": [
-          {
-            "id": 1,
-            "description": [
-              {
-                "title": "User Authentication and Profiles",
-                "topic": [
-                  "User registration and login using email or social media accounts.",
-                  "User profiles with order history, saved addresses, and payment methods."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 2,
-            "description": [
-              {
-                "title": "Product Listings",
-                "topic": [
-                  "Display a catalog of products with images, descriptions, prices, and ratings.",
-                  "Categorize products for easy navigation."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 3,
-            "description": [
-              {
-                "title": "Product Search and Filtering",
-                "topic": [
-                  "Search functionality with autocomplete and suggested results.",
-                  "Filter products by category, price range, and attributes."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 4,
-            "description": [
-              {
-                "title": "Shopping Cart",
-                "topic": [
-                  "Users can add products to their cart, adjust quantities, and remove items.",
-                  "Cart displays total price and items count."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 5,
-            "description": [
-              {
-                "title": "Checkout and Payment",
-                "topic": [
-                  "Multi-step checkout process with address selection and payment method.",
-                  "Integration with a secure payment gateway (e.g., Stripe)."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 6,
-            "description": [
-              {
-                "title": "Order Tracking",
-                "topic": [
-                  "Users can track their orders' status and receive updates.",
-                  "Email notifications for order confirmation and shipping updates."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 7,
-            "description": [
-              {
-                "title": "Reviews and Ratings",
-                "topic": [
-                  "Users can leave reviews and ratings for products.",
-                  "Display average ratings and reviews on product pages."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 8,
-            "description": [
-              {
-                "title": "Wishlist and Favorites",
-                "topic": [
-                  "Users can save products to their wishlist for future purchase."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 9,
-            "description": [
-              {
-                "title": "Admin Panel",
-                "topic": [
-                  "Admin dashboard for managing products, orders, and user accounts.",
-                  "CRUD operations for products, user management, and order processing."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 10,
-            "description": [
-              {
-                "title": "Inventory Management",
-                "topic": [
-                  "Update product availability and quantities based on orders."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 11,
-            "description": [
-              {
-                "title": "Responsive Design",
-                "topic": [
-                  "Ensure the platform is user-friendly across different devices."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 12,
-            "description": [
-              {
-                "title": "Recommendation Engine",
-                "topic": [
-                  "Provide personalized product recommendations based on user behavior."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 13,
-            "description": [
-              {
-                "title": "Technologies",
-                "topic": [
-                  "Front-end: React or Angular for creating dynamic user interfaces.",
-                  "Back-end: Node.js with Express or Ruby on Rails for server-side logic.",
-                  "Database: PostgreSQL or MySQL for storing user data, products, and orders.",
-                  "Payment Integration: Integration with a payment gateway like Stripe.",
-                  "User Authentication: JWT or OAuth for secure user authentication.",
-                  "Real-time Communication: WebSockets for real-time notifications.",
-                  "Styling: CSS or CSS frameworks for a polished UI."
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "name": "Team 7",
-    "techstack": "Angular | laravel",
-    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
-    "images": [
-      {
-        "id": 1,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/339419640_1097424791650143_6174326333348669285_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=f67be1&_nc_eui2=AeGICkmL_IhNmEs2coHZyBGF-FZ3tUgUsDH4Vne1SBSwMfaSFwu7OT-NYE3azLSAYInPeGBZaZFhj0eDtQWDQdM2&_nc_ohc=YDHFie2dN4MAX8BQ0E6&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA-DWzvGMb7mJAq8sBZ1Uz4cJozPXoakZ0D9YswVbNDfw&oe=64DA1111"
-      },
-      {
-        "id": 2,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/42898580_2102704926430352_8725199596235522048_n.jpg?stp=dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeFA1-xIVdYwM0x1Hb0uMbMIqUYSgufTqFupRhKC59OoW77QZ5O_O1relZR-woLnWDjByGWPuMa_ez7vhxZ3J_4w&_nc_ohc=MF0qOSULGzIAX9VekzX&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA03u2UcvTfvuBQ0X8H_cBKunkZNYoCJ4HewdKJ9-UKgg&oe=64FC27B3"
-      },
-      {
-        "id": 3,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/314379866_5492118347571709_8200670023213121529_n.jpg?stp=dst-jpg_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGa3A3ZQKox0aZ0ABQPiW82HWcGrPzdLZIdZwas_N0tkmC-cNMJZpxw380qetrbN1uz_vXjK3vfntCFQfksulsM&_nc_ohc=2IderI_25iwAX_qdBtI&_nc_oc=AQlG5HZUspAwKBPjS1cWgtlbj5XV5qiVQ1TNC47h53-ruJHVssErJzGblKwnB0kFNtM&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBCMB44XGKxtUcf_3r_IJdQrFtHMmhfEINVzkeoVVn7Mg&oe=64D9588C"
-      },
-      {
-        "id": 4,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/347230087_935745747767248_6934275457569540615_n.jpg?stp=dst-jpg_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEuoGyG-5mGu0vA7eB-MiYL9IkpXtArtkP0iSle0Cu2Q-g72qX6j0QiwpvBLghQ9W91wEdCl6F2nv_iFsml_ULA&_nc_ohc=hM8IwMvmU_wAX-PfwBr&_nc_oc=AQmH7zj6cnpHehPGAQv6uwgeS31xKtOv42PBKo4MoMlHu1hlPJ6ihirYVVTXNLaqCO4&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBs7yMBaUy4jpzodT2O-PGRdw4yPfUPb-ryLbqLYDJzuA&oe=64DA4A43"
-      },
-      {
-        "id": 5,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/364120526_3560035880909198_4251405505060112904_n.jpg?stp=c0.10.320.320a_dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFxOvSAht1qtUJZ5sVtUN3lmvla4lMLAC2a-VriUwsALeOFc08fZt0QzdI2pzrdPX_uIvgLh5Any3lGvs5qCKSt&_nc_ohc=gNN8fTLE9sEAX9d3bmt&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAqXhc8SSatkqPotUbK1WpSPrxxUd8x0rvb9xzgPAd0lQ&oe=64D91DE9"
-      }
-    ],
-    "projects": [
-      {
-        "id": 1,
-        "name": " Entertainment web app ",
-        "status": "Pending",
-        "description": "The Product Feedback App is a dynamic web-based platform designed to facilitate seamless communication between users and product development teams. It empowers users to provide valuable feedback, suggestions, and ideas for improving products and services. Through an intuitive interface, the app enables users to submit their thoughts, upvote or downvote existing feedback, and participate in discussions surrounding various products. With a focus on user engagement and collaboration, the Product Feedback App bridges the gap between customers and the teams responsible for enhancing products.",
-        "conclusions": [
-          {
-            "id": 1,
-            "title": "By integrating these features into your Product Feedback App, you'll create a comprehensive tool for users and product teams to collaborate, prioritize, and improve products based on user input.",
-            "slid": [
-              {
-                "id": 1,
-                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621706/Challenges/uf4zb5ufaresipumy7jb.jpg"
-              },
-
-              {
-                "id": 2,
-                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621619/Challenges/vnx44muoxqyn886oi5sb.jpg"
-              },
-
-              {
-                "id": 3,
-                "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621762/Challenges/tsaibconxg9gus3xvdpj.jpg"
-              }
-            ]
-          }
-        ],
-        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/v1624621706/Challenges/uf4zb5ufaresipumy7jb.jpg",
-        "repo": "https://github.com/Mostafa-ElHawary/Product-feedback-app",
-        "demo": "https://mostafa-elhawary.github.io/Product-feedback-app/",
-        "features": [
-          {
-            "id": 1,
-            "name": "Features",
-            "description": [
-              {
-                "title": "User Authentication and Authorization",
-                "topic": [
-                  "Allow users to register with their email and password.",
-                  "Provide secure login and token-based authentication.",
-                  "Implement role-based authorization to distinguish between regular users and administrators."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 2,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Product Submission",
-                "topic": [
-                  "Enable users to submit new products for which they want to provide feedback.",
-                  "Include fields for product name, description, category, and optional attachments."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 3,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Feedback Submission",
-                "topic": [
-                  "Allow users to provide feedback on specific products, including suggestions, bug reports, and feature requests.",
-                  "Implement various feedback types or tags for categorization."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 4,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Voting and Ranking",
-                "topic": [
-                  "Allow users to upvote or downvote feedback to indicate popularity and importance.",
-                  "Implement a ranking system to highlight the most popular or critical feedback."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 5,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Commenting and Discussions",
-                "topic": [
-                  "Enable users to comment on feedback to engage in discussions.",
-                  "Provide real-time updates for new comments using WebSockets."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 6,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Feedback Filtering and Sorting",
-                "topic": [
-                  "Implement sorting options to arrange feedback by most recent, highest votes, etc.",
-                  "Provide filters to view feedback by category, status (open, resolved, in progress), and more."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 7,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Moderation and Admin Tools",
-                "topic": [
-                  "Create an admin dashboard to manage user-generated content and feedback.",
-                  "Implement moderation features to approve, edit, or delete feedback as needed."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 8,
-            "name": "Features",
-            "description": [
-              {
-                "title": "User Profiles",
-                "topic": [
-                  "Allow users to create profiles, including a profile picture and bio.",
-                  "Display a user's submitted feedback and voting history on their profile."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 9,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Notifications",
-                "topic": [
-                  "Notify users about updates to their submitted feedback, such as when a status changes or new comments are added.",
-                  "Send reminders for important product updates or resolved issues."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 10,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Search and Discovery",
-                "topic": [
-                  "Implement a search bar to quickly find specific products or feedback.",
-                  "Allow users to discover trending or recently submitted feedback."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 11,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Analytics and Insights",
-                "topic": [
-                  "Provide analytics on the most popular products, top-voted feedback, and user engagement.",
-                  "Offer insights into common trends and user preferences."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 12,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Integration with Customer Support",
-                "topic": [
-                  "Enable users to escalate feedback to customer support tickets.",
-                  "Provide a seamless way to transition from user-reported issues to support resolution."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 13,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Responsive Design",
-                "topic": [
-                  "Ensure the app is responsive and user-friendly on various devices, including desktops, tablets, and mobile phones."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 14,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Backend APIs",
-                "topic": [
-                  "Develop RESTful APIs to manage user authentication, product and feedback submissions, and interactions."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 15,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Database Design",
-                "topic": [
-                  "Design a database schema to efficiently store user data, product details, feedback, and interactions."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 16,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Testing and Deployment",
-                "topic": [
-                  "Write comprehensive tests to ensure the app's functionality and reliability.",
-                  "Deploy the app to a cloud platform and set up CI/CD pipelines for continuous deployment."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 17,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Security and Privacy",
-                "topic": [
-                  "Implement secure authentication mechanisms and ensure the privacy of user data and interactions."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 18,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Collaboration Features",
-                "topic": [
-                  "Allow users to collaborate on feedback by tagging colleagues, sharing links, and discussing internally."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 19,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Versioning and Release Notes",
-                "topic": [
-                  "Enable product managers to provide version-specific release notes and gather feedback on new features or improvements."
-                ]
-              }
-            ]
-          },
-          {
-            "id": 20,
-            "name": "Features",
-            "description": [
-              {
-                "title": "Feedback Insights",
-                "topic": [
-                  "Provide data visualization to showcase feedback trends, areas of improvement, and successful implementations."
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 2,
         "name": " Online Event Management System ",
         "status": "To Do",
         "description": "Develop a comprehensive online platform that enables event organizers to create, manage, and promote various events while allowing attendees to browse and register for these events.",
@@ -5197,7 +5147,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 5,
         "name": " Online Task Management System ",
         "status": "To Do",
         "description": "Create an online task management system that allows users to create, organize, and track their tasks. The system will consist of a web application with both frontend and backend components. This project will cover various aspects of full-stack development, including user authentication, database management, API design, and responsive frontend design.",
@@ -5368,6 +5318,65 @@
           }
         ]
       }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Team 5",
+    "techstack": "React | Node",
+    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
+    "images": [
+      {
+        "id": 1,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
+      },
+
+      {
+        "id": 2,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
+      }
+ 
+    ],
+    "projects": [
+
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Team 6",
+    "techstack": "React | Node",
+    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
+    "images": [
+     
+      {
+        "id": 1,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
+      },
+
+      {
+        "id": 2,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
+      }
+ 
+    ],
+    "projects": [
+
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Team 7",
+    "techstack": "Angular | laravel",
+    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
+    "images": [
+      {
+        "id": 1,
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/339419640_1097424791650143_6174326333348669285_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=f67be1&_nc_eui2=AeGICkmL_IhNmEs2coHZyBGF-FZ3tUgUsDH4Vne1SBSwMfaSFwu7OT-NYE3azLSAYInPeGBZaZFhj0eDtQWDQdM2&_nc_ohc=YDHFie2dN4MAX8BQ0E6&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA-DWzvGMb7mJAq8sBZ1Uz4cJozPXoakZ0D9YswVbNDfw&oe=64DA1111"
+      }
+
+    ],
+    "projects": [
+    
     ]
   }
 ]

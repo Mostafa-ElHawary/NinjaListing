@@ -12,7 +12,8 @@ export default function Home(TeamId) {
         <link rel="icon" href="/pro.ico" />
       </Head>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 max-w-screen-xl mx-auto">
-        {projectsData.map((project) => (
+        {projectsData.map((project , index) => (
+
           <Link key={project.id} href={`/teams/${project.id}/`} passHref>
             <div className="rounded-lg shadow-md overflow-hidden bg-white transform hover:scale-105 transition-transform duration-300 ease-in-out">
               <div className="relative">
@@ -56,6 +57,7 @@ export default function Home(TeamId) {
               </div>
             </div>
           </Link>
+          
         ))}
       </div>
     </main>
