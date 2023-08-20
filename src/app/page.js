@@ -25,30 +25,30 @@ export default function Home(TeamId) {
                 />
               </div>
               <div className="p-5">
-                <p className="font-semibold text-gray-800 text-lg">
-                  {project.name}
-                </p>
-                <p className="text-sm text-gray-500 mb-2">
-                  {project.techstack}
-                </p>
+              <p className="font-semibold text-gray-800 text-lg mb-2">
+              {project.name}
+            </p>
+            <p className="text-sm text-gray-500 mb-2">
+              {project.techstack}
+            </p>
 
-                <div className="flex mb-5 -space-x-1">
+                <div className="flex mb-3 -space-x-2">
                   {project.images.map((img) => (
                     <img
                       key={img.id}
                       src={img.url}
                       alt="Team Member"
-                      className="w-5 h-5 rounded-full"
+                      className="w-6 h-6 rounded-full border-2 border-white"
                     />
                   ))}
                 </div>
 
                 <div className="flex justify-between items-center">
                   <div className="flex space-x-2">
-                    <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-5 py-1 text-md">
-                      Interested
+                    <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-4 py-1 text-sm">
+                      Members
                     </button>
-                    <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-10 py-1 text-sm">
+                    <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-4 py-1 text-sm">
                       Edit
                     </button>
                   </div>
@@ -57,7 +57,7 @@ export default function Home(TeamId) {
               </div>
             </div>
           </Link>
-          
+
         ))}
       </div>
     </main>

@@ -5319,64 +5319,7 @@
         ]
       }
     ]
-  },
-  {
-    "id": 5,
-    "name": "Team 5",
-    "techstack": "React | Node",
-    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
-    "images": [
-      {
-        "id": 1,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
-      },
-
-      {
-        "id": 2,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
-      }
- 
-    ],
-    "projects": [
-
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Team 6",
-    "techstack": "React | Node",
-    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
-    "images": [
-     
-      {
-        "id": 1,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
-      },
-
-      {
-        "id": 2,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
-      }
- 
-    ],
-    "projects": [
-
-    ]
-  },
-  {
-    "id": 7,
-    "name": "Team 7",
-    "techstack": "Angular | laravel",
-    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
-    "images": [
-      {
-        "id": 1,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/339419640_1097424791650143_6174326333348669285_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=f67be1&_nc_eui2=AeGICkmL_IhNmEs2coHZyBGF-FZ3tUgUsDH4Vne1SBSwMfaSFwu7OT-NYE3azLSAYInPeGBZaZFhj0eDtQWDQdM2&_nc_ohc=YDHFie2dN4MAX8BQ0E6&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA-DWzvGMb7mJAq8sBZ1Uz4cJozPXoakZ0D9YswVbNDfw&oe=64DA1111"
-      }
-
-    ],
-    "projects": [
-    
-    ]
   }
+  
+
 ]
