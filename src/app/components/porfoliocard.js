@@ -1,13 +1,13 @@
 import React from 'react'
 
-function porfoliocard() {
-  return (
+export default function Porfoliocard({props}) {
+  console.log(props.params);
+    return (
     <div>
       
-       Portfoliocard
+       Portfoliocard 
 
     </div>
   )
 }
 
-export default porfoliocard
