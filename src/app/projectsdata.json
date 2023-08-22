@@ -8,49 +8,126 @@
     "teaminfo":[
       {
         "id": 1,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/347449333_735903064952136_7039743733420764117_n.jpg?stp=c36.84.254.254a_dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFgdwLeBGuOUzKV_hX-ANToZZ8yEbbKFrplnzIRtsoWulcO_DG2frRHn60tJMVvbqI27QGiRYdC-lMBoz714qCA&_nc_ohc=Z7zy_MHLi6AAX_hCtee&_nc_ht=scontent.fcai1-2.fna&oh=00_AfD8m6frLrbynsH3MKkkOwuUQf-TCHShU0-nYDKHxSujMQ&oe=64DA2D3E"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/347449333_735903064952136_7039743733420764117_n.jpg?stp=c36.84.254.254a_dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFgdwLeBGuOUzKV_hX-ANToZZ8yEbbKFrplnzIRtsoWulcO_DG2frRHn60tJMVvbqI27QGiRYdC-lMBoz714qCA&_nc_ohc=Z7zy_MHLi6AAX_hCtee&_nc_ht=scontent.fcai1-2.fna&oh=00_AfD8m6frLrbynsH3MKkkOwuUQf-TCHShU0-nYDKHxSujMQ&oe=64DA2D3E",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
 
       {
         "id": 2,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/359776729_1014515319719291_1882629519141487111_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFPTSHthO1YYuLKlS0rzEOAVYG3P6sNyMJVgbc_qw3IwtQK9biWY61Rn7BCRFcI9BBkQtgbC__62_kfJ4GohLf5&_nc_ohc=VDwsGgkNOc4AX8iYHWd&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDEuMsnJlFCYtBmtZSil2jS2j1DoP_pTJj-F0ODrKznpw&oe=64D9425F"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/359776729_1014515319719291_1882629519141487111_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFPTSHthO1YYuLKlS0rzEOAVYG3P6sNyMJVgbc_qw3IwtQK9biWY61Rn7BCRFcI9BBkQtgbC__62_kfJ4GohLf5&_nc_ohc=VDwsGgkNOc4AX8iYHWd&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDEuMsnJlFCYtBmtZSil2jS2j1DoP_pTJj-F0ODrKznpw&oe=64D9425F",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 3,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/346631232_3438214643061595_1548751768507451144_n.jpg?stp=dst-jpg_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeG0U0TX9DhEuY59GRbr-GfWx-Un9fQE1irH5Sf19ATWKjYgHlX9kuljJpQOAQxEkB9k4TNaYZR5Ecgz9sw9QsVY&_nc_ohc=wpEAYkwZWZEAX_9z5J0&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDrLsLh0ZBcpLmlaK_yQtABx8QDaNcXFHNJmgAEPE4J-w&oe=64DA41D0"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/346631232_3438214643061595_1548751768507451144_n.jpg?stp=dst-jpg_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeG0U0TX9DhEuY59GRbr-GfWx-Un9fQE1irH5Sf19ATWKjYgHlX9kuljJpQOAQxEkB9k4TNaYZR5Ecgz9sw9QsVY&_nc_ohc=wpEAYkwZWZEAX_9z5J0&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDrLsLh0ZBcpLmlaK_yQtABx8QDaNcXFHNJmgAEPE4J-w&oe=64DA41D0",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 4,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/355160024_947044123297236_7042382059825197878_n.jpg?stp=dst-jpg_p160x160&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH3Lc8vJX9pr-4XMLgmK-ErAz-QFwNwzmgDP5AXA3DOaFhpkzKC5F8vXzcqhqR3D2B8RLcvMtELAbf9QilW4Lct&_nc_ohc=fidqnnXsCL4AX9NKFMJ&_nc_oc=AQlmZ86JUTBwZc1iAhi_SddpqYjSFfqZOrdHYJMvHwIdAzdat1mZNKl95xnznkDn-Bw&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCAJhro_RHiTA1lX20h3oxC7v-yqlrgYWucExofVJXWrw&oe=64D99F97"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/355160024_947044123297236_7042382059825197878_n.jpg?stp=dst-jpg_p160x160&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH3Lc8vJX9pr-4XMLgmK-ErAz-QFwNwzmgDP5AXA3DOaFhpkzKC5F8vXzcqhqR3D2B8RLcvMtELAbf9QilW4Lct&_nc_ohc=fidqnnXsCL4AX9NKFMJ&_nc_oc=AQlmZ86JUTBwZc1iAhi_SddpqYjSFfqZOrdHYJMvHwIdAzdat1mZNKl95xnznkDn-Bw&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCAJhro_RHiTA1lX20h3oxC7v-yqlrgYWucExofVJXWrw&oe=64D99F97",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 5,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/355346626_1679226835850071_2904603981798565029_n.jpg?stp=dst-jpg_p320x320&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFZlm3NZbKTOEc8t5hxzBUNiN4gF7_7LhaI3iAXv_suFp7FMn64JgkILjxDC8dGACToWoYP6H6EYcirYO8uIm4Q&_nc_ohc=7sn8Gz-Q800AX_lBWX8&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCj9oT4urjxo1nmTm27sqJI4diw009RZiB6ag_4yu8Atg&oe=64D99E96"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/355346626_1679226835850071_2904603981798565029_n.jpg?stp=dst-jpg_p320x320&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFZlm3NZbKTOEc8t5hxzBUNiN4gF7_7LhaI3iAXv_suFp7FMn64JgkILjxDC8dGACToWoYP6H6EYcirYO8uIm4Q&_nc_ohc=7sn8Gz-Q800AX_lBWX8&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCj9oT4urjxo1nmTm27sqJI4diw009RZiB6ag_4yu8Atg&oe=64D99E96",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 6,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/325733683_1328192914629851_8402537316679469055_n.jpg?stp=c1.0.160.160a_dst-jpg_p160x160&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFusI4QHCAIkGJxz_-ZhQQQMb0aXEMbkJAxvRpcQxuQkGpr8sAFq3OSqXZ3XCHC7jMc9OqOjjUjT3HO5mgXW1tB&_nc_ohc=C5SbWiMTWm8AX_BVl34&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCdJZqGEfCV9JlkaQPouhKse0ySk9PiUPctcP9Tf_z09A&oe=64DA3B14"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/325733683_1328192914629851_8402537316679469055_n.jpg?stp=c1.0.160.160a_dst-jpg_p160x160&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFusI4QHCAIkGJxz_-ZhQQQMb0aXEMbkJAxvRpcQxuQkGpr8sAFq3OSqXZ3XCHC7jMc9OqOjjUjT3HO5mgXW1tB&_nc_ohc=C5SbWiMTWm8AX_BVl34&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCdJZqGEfCV9JlkaQPouhKse0ySk9PiUPctcP9Tf_z09A&oe=64DA3B14",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 7,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/84303757_848254418938552_9034058038884958208_n.jpg?stp=dst-jpg_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHxHOvedbrZO-prQhoSXGf9gUMCXJ90WfuBQwJcn3RZ-6HdLa0fPzvWUVVRWlWFSIwy2Yvfi5eDMWbNXSNqosnK&_nc_ohc=k7i9CmqJSpoAX_TuH9l&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDE6KqvOA8KAq9LYA1OvUP1sFNHa_-BJsLyQO5cmxtKjA&oe=64FC2B5F"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/84303757_848254418938552_9034058038884958208_n.jpg?stp=dst-jpg_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHxHOvedbrZO-prQhoSXGf9gUMCXJ90WfuBQwJcn3RZ-6HdLa0fPzvWUVVRWlWFSIwy2Yvfi5eDMWbNXSNqosnK&_nc_ohc=k7i9CmqJSpoAX_TuH9l&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDE6KqvOA8KAq9LYA1OvUP1sFNHa_-BJsLyQO5cmxtKjA&oe=64FC2B5F",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 8,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/349183306_1195944417966868_5539558708219727534_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFmUMQn7rgin3oSFV0bZIZrS__Ur-0XnDVL_9Sv7RecNYF1D7cwkXdBVVctmVX5Ozpi6bXDqRWzCCi4dH_8mVv1&_nc_ohc=okqYJ_LqzykAX-FocDj&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAfOItt4uGaRIm5xh9HHVV_7USwWTNw7EuQ-sIjKvvFkA&oe=64E4ED26"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/349183306_1195944417966868_5539558708219727534_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFmUMQn7rgin3oSFV0bZIZrS__Ur-0XnDVL_9Sv7RecNYF1D7cwkXdBVVctmVX5Ozpi6bXDqRWzCCi4dH_8mVv1&_nc_ohc=okqYJ_LqzykAX-FocDj&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAfOItt4uGaRIm5xh9HHVV_7USwWTNw7EuQ-sIjKvvFkA&oe=64E4ED26",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
      
       {
         "id": 9,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.18169-1/12718352_441057932770375_6852945249867423286_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHx5Hn0Bpf9PDmm9PKvq_0aKZA6fU65XOEpkDp9Trlc4XZvItFHTlj3LQW-CqgmPpqmGERDq12BVAXYwOax1lqf&_nc_ohc=PVYirT0hrXEAX9RrxZN&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAjN4TKtvSIXLqSNyxbQN6j1ZssMMq_uqdV53ybWIxjgQ&oe=64FC1697"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.18169-1/12718352_441057932770375_6852945249867423286_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHx5Hn0Bpf9PDmm9PKvq_0aKZA6fU65XOEpkDp9Trlc4XZvItFHTlj3LQW-CqgmPpqmGERDq12BVAXYwOax1lqf&_nc_ohc=PVYirT0hrXEAX9RrxZN&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAjN4TKtvSIXLqSNyxbQN6j1ZssMMq_uqdV53ybWIxjgQ&oe=64FC1697",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 10,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/358374802_1306414276633628_449858033973760490_n.jpg?stp=dst-jpg_p320x320&_nc_cat=103&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH-wLj4gizkbDyPvfW724x5jWKh53MsMOCNYqHncyww4CuWa_KZJwhjhu0vdaVR611hSkOlRjXAgZhBwV5pbXCn&_nc_ohc=wM9LJjmEkgQAX_K8aF-&_nc_oc=AQnbfvqmE5sRaaOByYq_AVGVjlZQf7noOgG60e3BY3HG_wFpQ-0ZtBVuBAw8vcsni7M&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCC3vqNs8dyffTNYh2q8ctpedp9DfuHpsLqMLHfRgSUTw&oe=64D9F93A"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/358374802_1306414276633628_449858033973760490_n.jpg?stp=dst-jpg_p320x320&_nc_cat=103&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH-wLj4gizkbDyPvfW724x5jWKh53MsMOCNYqHncyww4CuWa_KZJwhjhu0vdaVR611hSkOlRjXAgZhBwV5pbXCn&_nc_ohc=wM9LJjmEkgQAX_K8aF-&_nc_oc=AQnbfvqmE5sRaaOByYq_AVGVjlZQf7noOgG60e3BY3HG_wFpQ-0ZtBVuBAw8vcsni7M&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCC3vqNs8dyffTNYh2q8ctpedp9DfuHpsLqMLHfRgSUTw&oe=64D9F93A",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 11,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX8UViiI&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDAaLDyp27smMbHEmbqgP5QvLHNDgVlq7vVaRVF9uD9bQ&oe=64FC16F8"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX8UViiI&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDAaLDyp27smMbHEmbqgP5QvLHNDgVlq7vVaRVF9uD9bQ&oe=64FC16F8",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       }
     ],
 
@@ -1700,27 +1777,69 @@
     "teaminfo":[
       {
         "id": 1,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/363781111_1602780326915056_7116545118250458668_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGuYqOI-2VmYPhnvcKRoWBU62FOciALXljrYU5yIAteWF7AdFRO5U0cVS-SQYiqsiPcr5a-6ntMzuprH8J70qpb&_nc_ohc=VRQ5Ghs5w_8AX_iOn7j&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCDGqv-wwuLK-bdM-_P1WXk6MN9QflZnMersPagmIcRfQ&oe=64DA0C3D"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/363781111_1602780326915056_7116545118250458668_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGuYqOI-2VmYPhnvcKRoWBU62FOciALXljrYU5yIAteWF7AdFRO5U0cVS-SQYiqsiPcr5a-6ntMzuprH8J70qpb&_nc_ohc=VRQ5Ghs5w_8AX_iOn7j&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCDGqv-wwuLK-bdM-_P1WXk6MN9QflZnMersPagmIcRfQ&oe=64DA0C3D",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 2,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/347255830_3294680964104452_1079746285163824082_n.jpg?stp=dst-jpg_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH6XWbdXo0aPBu1wCiV7D_czdMolT7xYI_N0yiVPvFgj30QpG622FhdP_xLXKq2s_oY2WLRtTvxKfcpy5F3bclG&_nc_ohc=AtRu_vctso0AX-imH9Q&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA-jJ7rZOpTXyRoOXjJvcStvxysR542YFPgBpDIGuBBWg&oe=64D8C271"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/347255830_3294680964104452_1079746285163824082_n.jpg?stp=dst-jpg_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH6XWbdXo0aPBu1wCiV7D_czdMolT7xYI_N0yiVPvFgj30QpG622FhdP_xLXKq2s_oY2WLRtTvxKfcpy5F3bclG&_nc_ohc=AtRu_vctso0AX-imH9Q&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA-jJ7rZOpTXyRoOXjJvcStvxysR542YFPgBpDIGuBBWg&oe=64D8C271",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 3,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/341010141_523460336432639_866591396047969128_n.jpg?stp=c0.0.320.320a_dst-jpg_p320x320&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGpJKyu_UCU7Gcl09lIQskrvqJkSbQo0oO-omRJtCjSg-2xQpEv0iS-vaDQWEqSUfTZxVA8O8SDE2GJIFJdD8LY&_nc_ohc=evtdnBl0zLkAX9g7xxR&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAwJ5UegfWdF3Mz7SwC5UN0DLXI404Twn7wJLbUysi6Fw&oe=64D93506"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/341010141_523460336432639_866591396047969128_n.jpg?stp=c0.0.320.320a_dst-jpg_p320x320&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGpJKyu_UCU7Gcl09lIQskrvqJkSbQo0oO-omRJtCjSg-2xQpEv0iS-vaDQWEqSUfTZxVA8O8SDE2GJIFJdD8LY&_nc_ohc=evtdnBl0zLkAX9g7xxR&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAwJ5UegfWdF3Mz7SwC5UN0DLXI404Twn7wJLbUysi6Fw&oe=64D93506",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 4,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/344950742_574284674808007_4680583811650889960_n.jpg?stp=dst-jpg_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGShWFpGHGuSreqTYmmUDiIZ8kw9GpioehnyTD0amKh6OZuPKaJCWGe8CQxKhD7ZIYvhho4BB4-dKWvvmpsBv9B&_nc_ohc=W6Mwcf1Az8EAX_s7Ehn&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBD3lAzN80mCHGhZxHLuC_hamvhjys1KWY-tS0qWDgxDQ&oe=64D9E130"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/344950742_574284674808007_4680583811650889960_n.jpg?stp=dst-jpg_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGShWFpGHGuSreqTYmmUDiIZ8kw9GpioehnyTD0amKh6OZuPKaJCWGe8CQxKhD7ZIYvhho4BB4-dKWvvmpsBv9B&_nc_ohc=W6Mwcf1Az8EAX_s7Ehn&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBD3lAzN80mCHGhZxHLuC_hamvhjys1KWY-tS0qWDgxDQ&oe=64D9E130",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 5,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/331452491_574496184592429_5131640737550191847_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeF03hv-6JX7KNFnhcgDtj89yZbmqR9YK7bJluapH1grtpNxY9vEtHcUiC8xXJ3BEpdwCzASiqTzhuXBJKVuURn7&_nc_ohc=fBSusg7noKoAX-eyYqB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDkWn90DmqJ5GHJAWV3qy1loF5IqXhO97xq1ae8gE3rZA&oe=64D90143"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/331452491_574496184592429_5131640737550191847_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeF03hv-6JX7KNFnhcgDtj89yZbmqR9YK7bJluapH1grtpNxY9vEtHcUiC8xXJ3BEpdwCzASiqTzhuXBJKVuURn7&_nc_ohc=fBSusg7noKoAX-eyYqB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDkWn90DmqJ5GHJAWV3qy1loF5IqXhO97xq1ae8gE3rZA&oe=64D90143",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 6,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/82532697_981993958848496_8327061037043941376_n.jpg?stp=dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGEDw3oB3VVE03R8kwzPKKsgusfaQCF7kiC6x9pAIXuSMdFV4E8j0RwLzBbcTi2E6wHuWoRp8zi6xIkI3rH6LG0&_nc_ohc=5YHQKkT5p84AX_dbx4_&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAanUFnN2WtOLV4jgpDcEDK1LLLdLmWY_yu4Wqw5pCgow&oe=64FC0B1B"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/82532697_981993958848496_8327061037043941376_n.jpg?stp=dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGEDw3oB3VVE03R8kwzPKKsgusfaQCF7kiC6x9pAIXuSMdFV4E8j0RwLzBbcTi2E6wHuWoRp8zi6xIkI3rH6LG0&_nc_ohc=5YHQKkT5p84AX_dbx4_&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAanUFnN2WtOLV4jgpDcEDK1LLLdLmWY_yu4Wqw5pCgow&oe=64FC0B1B",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       }
     ],
 
@@ -2885,44 +3004,114 @@
     "teaminfo":[
       {
         "id": 1,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/356362608_3501442883444960_5162069896562441522_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEDZCkeUzldKkhS6rteIu7GUw-qxxwJHxJTD6rHHAkfEonjuwjyrxaCdvyYCPpOxk_wIRvjndxx9kTGEVKq7Aqr&_nc_ohc=kQ0f_CcG9UYAX_m2ZF1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCvOxxQ0xPxm0MNmQJ-fdq0qskEPnW7kNmpOyKJ6N7X4g&oe=64D948BD"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/356362608_3501442883444960_5162069896562441522_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEDZCkeUzldKkhS6rteIu7GUw-qxxwJHxJTD6rHHAkfEonjuwjyrxaCdvyYCPpOxk_wIRvjndxx9kTGEVKq7Aqr&_nc_ohc=kQ0f_CcG9UYAX_m2ZF1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCvOxxQ0xPxm0MNmQJ-fdq0qskEPnW7kNmpOyKJ6N7X4g&oe=64D948BD",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 2,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/279250500_1396377914146915_3878789775120181204_n.jpg?stp=dst-jpg_s160x160&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEQb_izVGwkT6lmVhq8uhp_jcfSMhtwvyeNx9IyG3C_J5B2PCCW4Jx4T-iYjBWbExhrnX7UDFzFvs_zU4dUKExS&_nc_ohc=OjWITedfmykAX_MZZEJ&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBiLHEnOtKSmAXrwQx6-yS4AY6-2ESiKBfmyzXSFyCCkQ&oe=64DA37C8"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/279250500_1396377914146915_3878789775120181204_n.jpg?stp=dst-jpg_s160x160&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEQb_izVGwkT6lmVhq8uhp_jcfSMhtwvyeNx9IyG3C_J5B2PCCW4Jx4T-iYjBWbExhrnX7UDFzFvs_zU4dUKExS&_nc_ohc=OjWITedfmykAX_MZZEJ&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBiLHEnOtKSmAXrwQx6-yS4AY6-2ESiKBfmyzXSFyCCkQ&oe=64DA37C8",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
      
       {
         "id": 3,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/278346321_3261288814197734_1786990048058946759_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGeIAE2SBaZ6wdcowgdzo21MF8aO8g2U-swXxo7yDZT63TevnpFUaiYSvSlIbOYTnRx6Al1jxM5Inmkdj45o081&_nc_ohc=1nbOPc-Av8kAX-Pw4yC&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAGK3AdpgJU37oMCdarLHeT3AQOKwi2cOrUkQAUK4fXDA&oe=64D8AE86"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/278346321_3261288814197734_1786990048058946759_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGeIAE2SBaZ6wdcowgdzo21MF8aO8g2U-swXxo7yDZT63TevnpFUaiYSvSlIbOYTnRx6Al1jxM5Inmkdj45o081&_nc_ohc=1nbOPc-Av8kAX-Pw4yC&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAGK3AdpgJU37oMCdarLHeT3AQOKwi2cOrUkQAUK4fXDA&oe=64D8AE86",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 4,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/325754820_3301520846795015_2485896501601376360_n.jpg?stp=c22.0.100.100a_dst-jpg_p100x100&_nc_cat=110&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeG0c4umkXH7kpEATAB2bzFSPytQwN5qlic_K1DA3mqWJ07WUP8OQ3i8GS0QZB6bqbc_lg36JY1a54-U0fNet9-q&_nc_ohc=YjdaJUCXU6AAX9yHoM8&_nc_ad=z-m&_nc_cid=1337&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAuDvb12qqjmnwPzcDqeOrxU946YtMEARBnKuKjlm7NBQ&oe=64E64482"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/325754820_3301520846795015_2485896501601376360_n.jpg?stp=c22.0.100.100a_dst-jpg_p100x100&_nc_cat=110&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeG0c4umkXH7kpEATAB2bzFSPytQwN5qlic_K1DA3mqWJ07WUP8OQ3i8GS0QZB6bqbc_lg36JY1a54-U0fNet9-q&_nc_ohc=YjdaJUCXU6AAX9yHoM8&_nc_ad=z-m&_nc_cid=1337&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAuDvb12qqjmnwPzcDqeOrxU946YtMEARBnKuKjlm7NBQ&oe=64E64482",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 5,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/348424046_999455551494527_5724032586358420334_n.jpg?stp=dst-jpg_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEdicvgI6sJcPZGHkcRcpRWZjEloJmdxu9mMSWgmZ3G77TpLcE8NuwluM8mv74l5Z24ZdS_VAYriyZ2Kb_Vnagf&_nc_ohc=xz-1h-YVKSkAX9J8oG3&_nc_ht=scontent.fcai1-2.fna&oh=00_AfArNgcZ-MywRP9HMlqZaQwYCYserv84DLh3UB4WtRQILA&oe=64DA428C"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/348424046_999455551494527_5724032586358420334_n.jpg?stp=dst-jpg_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEdicvgI6sJcPZGHkcRcpRWZjEloJmdxu9mMSWgmZ3G77TpLcE8NuwluM8mv74l5Z24ZdS_VAYriyZ2Kb_Vnagf&_nc_ohc=xz-1h-YVKSkAX9J8oG3&_nc_ht=scontent.fcai1-2.fna&oh=00_AfArNgcZ-MywRP9HMlqZaQwYCYserv84DLh3UB4WtRQILA&oe=64DA428C",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 6,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/278893226_3510613585833711_4728399600023231810_n.jpg?stp=dst-jpg_p160x160&_nc_cat=111&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeHJbWCHb097oQX4LiYRr9OJiunqWaUgctOK6epZpSBy00IMUF3LfkEw_lhUCzluW2jFii9sFBCR4tCDrwOZHfiW&_nc_ohc=kUUOLWLM4GUAX9bKUDd&_nc_ht=scontent.fcai1-2.fna&oh=00_AfD2iQWaHdlrAn1M78dzyGrC8gFwi9We6TmnmW1-8pEeMw&oe=64D8F699"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/278893226_3510613585833711_4728399600023231810_n.jpg?stp=dst-jpg_p160x160&_nc_cat=111&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeHJbWCHb097oQX4LiYRr9OJiunqWaUgctOK6epZpSBy00IMUF3LfkEw_lhUCzluW2jFii9sFBCR4tCDrwOZHfiW&_nc_ohc=kUUOLWLM4GUAX9bKUDd&_nc_ht=scontent.fcai1-2.fna&oh=00_AfD2iQWaHdlrAn1M78dzyGrC8gFwi9We6TmnmW1-8pEeMw&oe=64D8F699",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 7,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/42898580_2102704926430352_8725199596235522048_n.jpg?stp=dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeFA1-xIVdYwM0x1Hb0uMbMIqUYSgufTqFupRhKC59OoW77QZ5O_O1relZR-woLnWDjByGWPuMa_ez7vhxZ3J_4w&_nc_ohc=MF0qOSULGzIAX9VekzX&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA03u2UcvTfvuBQ0X8H_cBKunkZNYoCJ4HewdKJ9-UKgg&oe=64FC27B3"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/42898580_2102704926430352_8725199596235522048_n.jpg?stp=dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeFA1-xIVdYwM0x1Hb0uMbMIqUYSgufTqFupRhKC59OoW77QZ5O_O1relZR-woLnWDjByGWPuMa_ez7vhxZ3J_4w&_nc_ohc=MF0qOSULGzIAX9VekzX&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA03u2UcvTfvuBQ0X8H_cBKunkZNYoCJ4HewdKJ9-UKgg&oe=64FC27B3",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 8,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/314379866_5492118347571709_8200670023213121529_n.jpg?stp=dst-jpg_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGa3A3ZQKox0aZ0ABQPiW82HWcGrPzdLZIdZwas_N0tkmC-cNMJZpxw380qetrbN1uz_vXjK3vfntCFQfksulsM&_nc_ohc=2IderI_25iwAX_qdBtI&_nc_oc=AQlG5HZUspAwKBPjS1cWgtlbj5XV5qiVQ1TNC47h53-ruJHVssErJzGblKwnB0kFNtM&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBCMB44XGKxtUcf_3r_IJdQrFtHMmhfEINVzkeoVVn7Mg&oe=64D9588C"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/314379866_5492118347571709_8200670023213121529_n.jpg?stp=dst-jpg_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGa3A3ZQKox0aZ0ABQPiW82HWcGrPzdLZIdZwas_N0tkmC-cNMJZpxw380qetrbN1uz_vXjK3vfntCFQfksulsM&_nc_ohc=2IderI_25iwAX_qdBtI&_nc_oc=AQlG5HZUspAwKBPjS1cWgtlbj5XV5qiVQ1TNC47h53-ruJHVssErJzGblKwnB0kFNtM&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBCMB44XGKxtUcf_3r_IJdQrFtHMmhfEINVzkeoVVn7Mg&oe=64D9588C",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 9,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/347230087_935745747767248_6934275457569540615_n.jpg?stp=dst-jpg_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEuoGyG-5mGu0vA7eB-MiYL9IkpXtArtkP0iSle0Cu2Q-g72qX6j0QiwpvBLghQ9W91wEdCl6F2nv_iFsml_ULA&_nc_ohc=hM8IwMvmU_wAX-PfwBr&_nc_oc=AQmH7zj6cnpHehPGAQv6uwgeS31xKtOv42PBKo4MoMlHu1hlPJ6ihirYVVTXNLaqCO4&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBs7yMBaUy4jpzodT2O-PGRdw4yPfUPb-ryLbqLYDJzuA&oe=64DA4A43"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/347230087_935745747767248_6934275457569540615_n.jpg?stp=dst-jpg_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEuoGyG-5mGu0vA7eB-MiYL9IkpXtArtkP0iSle0Cu2Q-g72qX6j0QiwpvBLghQ9W91wEdCl6F2nv_iFsml_ULA&_nc_ohc=hM8IwMvmU_wAX-PfwBr&_nc_oc=AQmH7zj6cnpHehPGAQv6uwgeS31xKtOv42PBKo4MoMlHu1hlPJ6ihirYVVTXNLaqCO4&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBs7yMBaUy4jpzodT2O-PGRdw4yPfUPb-ryLbqLYDJzuA&oe=64DA4A43",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 10,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/364120526_3560035880909198_4251405505060112904_n.jpg?stp=c0.10.320.320a_dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFxOvSAht1qtUJZ5sVtUN3lmvla4lMLAC2a-VriUwsALeOFc08fZt0QzdI2pzrdPX_uIvgLh5Any3lGvs5qCKSt&_nc_ohc=gNN8fTLE9sEAX9d3bmt&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAqXhc8SSatkqPotUbK1WpSPrxxUd8x0rvb9xzgPAd0lQ&oe=64D91DE9"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/364120526_3560035880909198_4251405505060112904_n.jpg?stp=c0.10.320.320a_dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFxOvSAht1qtUJZ5sVtUN3lmvla4lMLAC2a-VriUwsALeOFc08fZt0QzdI2pzrdPX_uIvgLh5Any3lGvs5qCKSt&_nc_ohc=gNN8fTLE9sEAX9d3bmt&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAqXhc8SSatkqPotUbK1WpSPrxxUd8x0rvb9xzgPAd0lQ&oe=64D91DE9",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       }
     ],
 
@@ -4250,36 +4439,92 @@
     "teaminfo":[
       {
         "id": 1,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/361650118_2960072300792767_7994770843316607596_n.jpg?stp=dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEM1p6qN53R04kM9K3Ek8u4yTVBrcxM28DJNUGtzEzbwGDeTCnBMsQSMUtWptkz3607HMfqwgFWuE_cAFgzM7xz&_nc_ohc=YL6ALL4d2OkAX9oIVGK&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCeHkSz7i7uxmmmUwah0tWhDYGiZY9vLfuS-62h4s0MIA&oe=64D9B42E"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/361650118_2960072300792767_7994770843316607596_n.jpg?stp=dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEM1p6qN53R04kM9K3Ek8u4yTVBrcxM28DJNUGtzEzbwGDeTCnBMsQSMUtWptkz3607HMfqwgFWuE_cAFgzM7xz&_nc_ohc=YL6ALL4d2OkAX9oIVGK&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCeHkSz7i7uxmmmUwah0tWhDYGiZY9vLfuS-62h4s0MIA&oe=64D9B42E",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 2,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/243456906_1028197888015946_5973179380084481815_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEGvaF-ur-0qObAeUbyJdJ0ji_ilthzeYyOL-KW2HN5jEe2lzgwwf-9UKkZumdMg4Gs9oxeKwxyc3vmoDPfTwdP&_nc_ohc=5VQYGqYBWaYAX9K9Czb&_nc_ht=scontent.fcai1-2.fna&oh=00_AfC_rxuouDKTTmhs9yRzEk6elG3r1BCRWfbMHea1_OunPA&oe=64D8E156"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/243456906_1028197888015946_5973179380084481815_n.jpg?stp=dst-jpg_p320x320&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEGvaF-ur-0qObAeUbyJdJ0ji_ilthzeYyOL-KW2HN5jEe2lzgwwf-9UKkZumdMg4Gs9oxeKwxyc3vmoDPfTwdP&_nc_ohc=5VQYGqYBWaYAX9K9Czb&_nc_ht=scontent.fcai1-2.fna&oh=00_AfC_rxuouDKTTmhs9yRzEk6elG3r1BCRWfbMHea1_OunPA&oe=64D8E156",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
 
       {
         "id": 3,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/279400856_1319071288582554_5279296343968092550_n.jpg?stp=dst-jpg_s160x160&_nc_cat=108&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeFeT5zh18KCSt-MXmBnDv9oUZ2EMqs-eoBRnYQyqz56gEDQG9uukVHPz9PeQqrDJ5FjzRwHXRTmUxPDEftFFJYk&_nc_ohc=fohkMTKdSpoAX-ML8Pk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBYACbfZwP9gmCvLcBRAqGtwFMtr4vmbtL79Z2YizywfA&oe=64D9DAF5"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/279400856_1319071288582554_5279296343968092550_n.jpg?stp=dst-jpg_s160x160&_nc_cat=108&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeFeT5zh18KCSt-MXmBnDv9oUZ2EMqs-eoBRnYQyqz56gEDQG9uukVHPz9PeQqrDJ5FjzRwHXRTmUxPDEftFFJYk&_nc_ohc=fohkMTKdSpoAX-ML8Pk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBYACbfZwP9gmCvLcBRAqGtwFMtr4vmbtL79Z2YizywfA&oe=64D9DAF5",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 4,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/356362608_3501442883444960_5162069896562441522_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEDZCkeUzldKkhS6rteIu7GUw-qxxwJHxJTD6rHHAkfEonjuwjyrxaCdvyYCPpOxk_wIRvjndxx9kTGEVKq7Aqr&_nc_ohc=kQ0f_CcG9UYAX_m2ZF1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCvOxxQ0xPxm0MNmQJ-fdq0qskEPnW7kNmpOyKJ6N7X4g&oe=64D948BD"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/356362608_3501442883444960_5162069896562441522_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEDZCkeUzldKkhS6rteIu7GUw-qxxwJHxJTD6rHHAkfEonjuwjyrxaCdvyYCPpOxk_wIRvjndxx9kTGEVKq7Aqr&_nc_ohc=kQ0f_CcG9UYAX_m2ZF1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCvOxxQ0xPxm0MNmQJ-fdq0qskEPnW7kNmpOyKJ6N7X4g&oe=64D948BD",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 5,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 6,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/283012606_4990522374376519_2022665471854028633_n.jpg?stp=dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeHrBeKNjnNaGu4g9k0GQ6Oo4ae-iYMC64bhp76JgwLrhsULgp0rohiamAbORQtbLAhGHZgEg9B_vWvGgUs1PFJN&_nc_ohc=u-jT6OuZmqkAX8BS_A5&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDsHk-e-D1xN_Glu5G1-N9-Vai_ZzR17yd0wucHPicn6A&oe=64DCE828"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/283012606_4990522374376519_2022665471854028633_n.jpg?stp=dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeHrBeKNjnNaGu4g9k0GQ6Oo4ae-iYMC64bhp76JgwLrhsULgp0rohiamAbORQtbLAhGHZgEg9B_vWvGgUs1PFJN&_nc_ohc=u-jT6OuZmqkAX8BS_A5&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDsHk-e-D1xN_Glu5G1-N9-Vai_ZzR17yd0wucHPicn6A&oe=64DCE828",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 7,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/307923207_10217708433502571_4710942872885061275_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeF9OrmqSzNQ6Fukq-n3OcvH7ukm_MwZG_ru6Sb8zBkb-nLixBctWGR5ru2E2RC9cAhrkvxfy9mIONsULhQ6QDPI&_nc_ohc=x27wo9Sz3DcAX_Snme1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCOJdbmK8ka8IwMNaKbL5_m3Dv0kn4oOMEDVPT5I4zPGw&oe=64DA553E"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/307923207_10217708433502571_4710942872885061275_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeF9OrmqSzNQ6Fukq-n3OcvH7ukm_MwZG_ru6Sb8zBkb-nLixBctWGR5ru2E2RC9cAhrkvxfy9mIONsULhQ6QDPI&_nc_ohc=x27wo9Sz3DcAX_Snme1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCOJdbmK8ka8IwMNaKbL5_m3Dv0kn4oOMEDVPT5I4zPGw&oe=64DA553E",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       },
       {
         "id": 8,
-        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
+        "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8",
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "portfolioLink": "https://example.com/portfolio",
+        "cvLink": "https://example.com/cv.pdf",
+        "email": "johndoe@example.com",
+        "phoneNumber": "+1234567890",
+        "techStack": "React, Node.js, Express, MongoDB"
       }
     ],
 

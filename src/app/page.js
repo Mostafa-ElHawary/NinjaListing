@@ -41,13 +41,13 @@ export default function Home(TeamId) {
             <div className="pb-5 pr-5 pl-5">
               <div className="flex mb-3 -space-x-2">
                 {project.teaminfo.map((img) => (
-                  <Link key={img.id} href={`./pages`}>
+                  <Link key={img.id} href={`./pages/${img.id}`}>
                     <img
                       role="tooltip"
                       aria-label="Edit this file"
                       src={img.url}
                       alt="Team Member"
-                      className="w-6 h-6 rounded-full border-2 border-white transform hover:scale-150 transition-transform duration-100 ease-in-out z"
+                      className="w-6 h-6 rounded-full border-2 border-white transform hover:scale-150 transition-transform duration-300 ease-in-out z"
                     />
                   </Link>
                 ))}
