@@ -4,8 +4,8 @@
     "id": 1,
     "name": "Team 1",
     "techstack": "React | Node",
-    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
-    "images": [
+    "img": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
+    "teaminfo":[
       {
         "id": 1,
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/347449333_735903064952136_7039743733420764117_n.jpg?stp=c36.84.254.254a_dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFgdwLeBGuOUzKV_hX-ANToZZ8yEbbKFrplnzIRtsoWulcO_DG2frRHn60tJMVvbqI27QGiRYdC-lMBoz714qCA&_nc_ohc=Z7zy_MHLi6AAX_hCtee&_nc_ht=scontent.fcai1-2.fna&oh=00_AfD8m6frLrbynsH3MKkkOwuUQf-TCHShU0-nYDKHxSujMQ&oe=64DA2D3E"
@@ -53,6 +53,7 @@
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX8UViiI&_nc_ht=scontent.fcai1-2.fna&oh=00_AfDAaLDyp27smMbHEmbqgP5QvLHNDgVlq7vVaRVF9uD9bQ&oe=64FC16F8"
       }
     ],
+
     "projects": [
       {
         "id": 1,
@@ -1695,8 +1696,8 @@
     "id": 2,
     "name": "Team 2",
     "techstack": "Angular | .NET",
-    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
-    "images": [
+    "img": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
+    "teaminfo":[
       {
         "id": 1,
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/363781111_1602780326915056_7116545118250458668_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGuYqOI-2VmYPhnvcKRoWBU62FOciALXljrYU5yIAteWF7AdFRO5U0cVS-SQYiqsiPcr5a-6ntMzuprH8J70qpb&_nc_ohc=VRQ5Ghs5w_8AX_iOn7j&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCDGqv-wwuLK-bdM-_P1WXk6MN9QflZnMersPagmIcRfQ&oe=64DA0C3D"
@@ -1722,6 +1723,7 @@
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-1/82532697_981993958848496_8327061037043941376_n.jpg?stp=dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGEDw3oB3VVE03R8kwzPKKsgusfaQCF7kiC6x9pAIXuSMdFV4E8j0RwLzBbcTi2E6wHuWoRp8zi6xIkI3rH6LG0&_nc_ohc=5YHQKkT5p84AX_dbx4_&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAanUFnN2WtOLV4jgpDcEDK1LLLdLmWY_yu4Wqw5pCgow&oe=64FC0B1B"
       }
     ],
+
     "projects": [
       {
         "id": 1,
@@ -2879,8 +2881,8 @@
     "id": 3,
     "name": "Team 3",
     "techstack": "Angular | laravel",
-    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
-    "images": [
+    "img": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
+    "teaminfo":[
       {
         "id": 1,
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/356362608_3501442883444960_5162069896562441522_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEDZCkeUzldKkhS6rteIu7GUw-qxxwJHxJTD6rHHAkfEonjuwjyrxaCdvyYCPpOxk_wIRvjndxx9kTGEVKq7Aqr&_nc_ohc=kQ0f_CcG9UYAX_m2ZF1&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCvOxxQ0xPxm0MNmQJ-fdq0qskEPnW7kNmpOyKJ6N7X4g&oe=64D948BD"
@@ -2923,6 +2925,7 @@
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/364120526_3560035880909198_4251405505060112904_n.jpg?stp=c0.10.320.320a_dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFxOvSAht1qtUJZ5sVtUN3lmvla4lMLAC2a-VriUwsALeOFc08fZt0QzdI2pzrdPX_uIvgLh5Any3lGvs5qCKSt&_nc_ohc=gNN8fTLE9sEAX9d3bmt&_nc_ht=scontent.fcai1-2.fna&oh=00_AfAqXhc8SSatkqPotUbK1WpSPrxxUd8x0rvb9xzgPAd0lQ&oe=64D91DE9"
       }
     ],
+
     "projects": [
       {
         "id": 1,
@@ -4243,8 +4246,8 @@
     "id": 4,
     "name": "Team 4",
     "techstack": "React | Node",
-    "portfolio": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
-    "images": [
+    "img": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-6/356203448_2428363107325044_291400483944689202_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=9a8829&_nc_eui2=AeHcIGF-OAhNyGWV80SNOMYBSID09YhiKAVIgPT1iGIoBYkTwq9FafXVhmWVoEPIvDKwudc20AmAfKEHDKaA5bhM&_nc_ohc=9pDee_E9_fAAX_U6EwB&_nc_ht=scontent.fcai1-2.fna&oh=00_AfA_1zMdbLKo9AKw1Kjmn_lx0hSN1DV_Qckxyobp8QHeag&oe=64E164FA",
+    "teaminfo":[
       {
         "id": 1,
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t39.30808-1/361650118_2960072300792767_7994770843316607596_n.jpg?stp=dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeEM1p6qN53R04kM9K3Ek8u4yTVBrcxM28DJNUGtzEzbwGDeTCnBMsQSMUtWptkz3607HMfqwgFWuE_cAFgzM7xz&_nc_ohc=YL6ALL4d2OkAX9oIVGK&_nc_ht=scontent.fcai1-2.fna&oh=00_AfCeHkSz7i7uxmmmUwah0tWhDYGiZY9vLfuS-62h4s0MIA&oe=64D9B42E"
@@ -4279,6 +4282,7 @@
         "url": "https://scontent.fcai1-2.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p160x160&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEPJxwoRB-ojuIfARey37Qmso2H55p0AlGyjYfnmnQCUWy0l3iFTBcnAt_oVqGJp6tVjwU626aNGlDvoaihx59c&_nc_ohc=CAaKnaNC2nAAX9O67lk&_nc_ht=scontent.fcai1-2.fna&oh=00_AfBfyA_smiqcyzMQltTyt4-h9yWzbCcrYMuADs5oVC8DrA&oe=64FC16F8"
       }
     ],
+
     "projects": [
       {
         "id": 1,
