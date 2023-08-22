@@ -11,7 +11,9 @@ export default async function Teams({ params }) {
       <div className="bg-white rounded-lg  p-1 w-full max-w-xl">
         {projectsData.map((team) => {
           if (team.id == paramsId) {
+            
             return team.projects.map((project) => (
+
               <div
                 key={project.id}
                 className="mb-8 bg-white rounded-lg shadow-md relative"
@@ -127,6 +129,7 @@ export default async function Teams({ params }) {
                   </div>
                 </div>
               </div>
+
             ));
           }
         })}
