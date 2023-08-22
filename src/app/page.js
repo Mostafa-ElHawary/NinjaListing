@@ -13,9 +13,12 @@ export default function Home(TeamId) {
       </Head>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 max-w-screen-xl mx-auto">
         {projectsData.map((project, index) => (
-          <div key={project.id} className="rounded-lg shadow-md overflow-hidden bg-white transform hover:scale-105 transition-transform duration-300 ease-in-out">
+          <div
+            key={project.id}
+            className="rounded-lg shadow-md overflow-hidden bg-white transform hover:scale-105 transition-transform duration-300 ease-in-out"
+          >
             <Link href={`/teams/${project.id}/`} passHref>
-              <div >
+              <div>
                 <div className="relative">
                   <img
                     key={project.id}
@@ -36,29 +39,32 @@ export default function Home(TeamId) {
             </Link>
 
             <div className="pb-5 pr-5 pl-5">
-            <div className="flex mb-3 -space-x-2">
-              {project.images.map((img) => (
-                <img
-                  key={img.id}
-                  src={img.url}
-                  alt="Team Member"
-                  className="w-6 h-6 rounded-full border-2 border-white"
-                />
-              ))}
-            </div>
-
-            <div className="flex justify-between items-center">
-              <div className="flex space-x-2">
-                <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-4 py-1 text-sm">
-                  Members
-                </button>
-                <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-4 py-1 text-sm">
-                  Edit
-                </button>
+              <div className="flex mb-3 -space-x-2">
+                {project.images.map((img) => (
+                  <Link key={img.id} href={`./pages`}>
+                    <img
+                      role="tooltip"
+                      aria-label="Edit this file"
+                      src={img.url}
+                      alt="Team Member"
+                      className="w-6 h-6 rounded-full border-2 border-white"
+                    />
+                  </Link>
+                ))}
               </div>
-              <p className="text-gray-400 text-sm">{project.date}</p>
+
+              <div className="flex justify-between items-center">
+                <div className="flex space-x-2">
+                  <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-4 py-1 text-sm">
+                    Members
+                  </button>
+                  <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-4 py-1 text-sm">
+                    Edit
+                  </button>
+                </div>
+                <p className="text-gray-400 text-sm">{project.date}</p>
+              </div>
             </div>
-          </div>
           </div>
         ))}
       </div>
