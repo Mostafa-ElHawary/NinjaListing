@@ -42,7 +42,7 @@ export default function Home(TeamId) {
             <div className="pb-5 pr-5 pl-5">
               <div className="flex mb-3 -space-x-2">
                 {project.teaminfo.map((img) => (
-                  <Link key={img.id} href={``} >
+                  <Link key={img.id}  href={`./pages/${project.id}/${img.id}`} >
                     <img
                       src={img.url}
                       alt="Team Member"
