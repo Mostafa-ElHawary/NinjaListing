@@ -13,14 +13,14 @@ export default function Porfoliocard({ params }) {
           {
             // the teams
           }
-          <section>
+          <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 max-w-screen-xl mx-auto">
             {project.id == cardId
               ? project.teaminfo.map((card) => (
-                  <div key={card.id}>
+                  <div key={card.id} className="">
                     {" "}
                     <div
                      
-                      className="bg-white rounded-lg p-4 border border-gray-300 shadow-md"
+                      className="bg-white rounded-lg p-4 border border-gray-300 shadow-md "
                     >
                       <div className="mb-4">
                         <img

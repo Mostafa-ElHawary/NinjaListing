@@ -42,7 +42,7 @@ export default function Home(TeamId) {
             <div className="pb-5 pr-5 pl-5">
               <div className="flex mb-3 -space-x-2">
                 {project.teaminfo.map((img) => (
-                  <Link key={img.id} href={`./pages/${project.id}`}>
+                  <Link key={img.id} href={``} >
                     <img
                       src={img.url}
                       alt="Team Member"
@@ -54,12 +54,12 @@ export default function Home(TeamId) {
 
               <div className="flex justify-between items-center">
                 <div className="flex space-x-2">
-                  <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-4 py-1 text-sm">
+                  <Link className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-4 py-1 text-sm" href={`./pages/${project.id}`}>
                     Members
-                  </button>
-                  <button className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-4 py-1 text-sm">
+                  </Link>
+                  <Link href={``} className="flex items-center text-gray-600 hover:bg-gray-200 rounded-lg px-4 py-1 text-sm">
                     Edit
-                  </button>
+                  </Link>
                 </div>
                 <p className="text-gray-400 text-sm">{project.date}</p>
               </div>
