@@ -8,12 +8,10 @@ function page({ params }) {
   const cardId = params.id;
   return (
     <main className="flex min-h-screen flex-col items-center justify-center  p-8">
-  
+
       {projectsData.map((project) => (
         <div className="project" key={project.teamId}>
-          {
-            // the teams
-          }
+
           <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 max-w-screen-xl mx-auto">
             {project.id == teamId
               ? project.teaminfo.map((card) =>

@@ -4,24 +4,19 @@ import React from "react";
 import projectsData from "../../../app/projectsdata.json";
 
 export default function Porfoliocard({ params }) {
-  const cardId = params.card;
-  console.log(cardId);
+  const cardId = params.team;
+  console.log(`card is ${cardId}`);
   return (
     <main className="flex min-h-screen flex-col items-center justify-center  p-8">
       {projectsData.map((project) => (
-        <div className="project" key={project.cardId}>
-          {
-            // the teams
-          }
-          <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 max-w-screen-xl mx-auto">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 max-w-screen-xl mx-auto" key={project.cardId}>
+          
+
             {project.id == cardId
               ? project.teaminfo.map((card) => (
                   <div key={card.id} className="">
                     {" "}
-                    <div
-                     
-                      className="bg-white rounded-lg p-4 border border-gray-300 shadow-md "
-                    >
+                    <div className="bg-white rounded-lg p-4 border border-gray-300 shadow-md ">
                       <div className="mb-4">
                         <img
                           src={card.url}
@@ -65,11 +60,11 @@ export default function Porfoliocard({ params }) {
                   </div>
                 ))
               : ""}
-          </section>
+
+              
+    
         </div>
       ))}
-
-    
     </main>
   );
 }
